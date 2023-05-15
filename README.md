@@ -84,7 +84,7 @@ The algorithm applies a constrained optimization approach to find the best-suite
 
 This repository is structured in a way that makes the analysis flow intuitive and easy to follow. Here's a quick tour:
 
-- :notebook: `ards_map.ipynb`: This is the primary Jupyter notebook where all the magic happens. It integrates various components of the project and generates a detailed heatmap in HTML format. The code in this notebook is modular, making it easy to reuse and adapt to your needs.
+- :notebook: `ards_map.ipynb`: This is the primary Jupyter notebook where all the code runs. It integrates various components of the project and generates a detailed heatmap in HTML format. The code in this notebook is modular, making it easy to reuse and adapt to your needs.
 
 - :balance_scale: `weight_optimization.py`: This Python script contains an optimization algorithm that calculates the best-suited weights for generating the weighted Folium heatmap. The weights are derived from a supervised learning algorithm optimized against an ARDS mortality study.
 
