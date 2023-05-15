@@ -64,12 +64,26 @@ The project leverages Folium, a Python library for creating interactive maps, to
 To optimize the weightings of various factors in the analysis, supervised learning techniques are employed. The model learns from the historical data to assign appropriate weights to different variables, enabling more accurate predictions and insights.
 
 <!-- Repository Structure -->
-## Repository Structure
-The repository is organized as follows:
-├── data/ # Processed and cleaned datasets used for analysis
-├── notebooks/ # Jupyter notebooks with detailed code and analysis
-├── scripts/ # Utility scripts for data preprocessing and visualization
-├── results/ # Output files, reports, and visualizations generated from the analysis
+## :open_file_folder: Repository Structure
+
+This repository is structured in a way that makes the analysis flow intuitive and easy to follow. Here's a quick tour:
+
+- :notebook: `ards_map.ipynb`: This is the primary Jupyter notebook where all the magic happens. It integrates various components of the project and generates a detailed heatmap in HTML format. The code in this notebook is modular, making it easy to reuse and adapt to your needs.
+
+- :balance_scale: `weight_optimization.py`: This Python script contains an optimization algorithm that calculates the best-suited weights for generating the weighted Folium heatmap. The weights are derived from a supervised learning algorithm optimized against an ARDS mortality study.
+
+- :globe_with_meridians: `usa_map.html`: This is a ready-to-use HTML map showcasing 500 clinical trial locations in a heatmap format. It's a direct product of running the `ards_map.ipynb` notebook.
+
+- :gear: `dataloader.py`: This Python script is responsible for loading all the necessary data from the `ards_data` folder.
+
+- :file_folder: `ards_data`: This folder is the data repository hosting several datasets used in the analysis. For a more detailed description of the individual datasets, please refer to the [Data Sources](#data-sources) section.
+
+- :bookmark_tabs: `ards_state_vals`: This file contains state-wise ARDS mortality rates, as derived from a linked study.
+
+- :page_facing_up: `ARDS_locations.csv`: This CSV file offers comprehensive data on various studies, including details such as the number of participants, participant age and sex, study dates, and updates on study completion.
+
+Explore each of these components to get a better understanding of the project
+
 
 
 <!-- Documentation -->
