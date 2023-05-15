@@ -106,14 +106,4 @@ Explore each of these components to get a better understanding of the project
 ## Documentation
 For more detailed information about the project, data sources, methodologies, and findings, please refer to the [project documentation](docs/).
 
-Feel free to explore the repository and utilize the provided resources for your research and analysis.
-
-<!-- Acknowledgements -->
-## Acknowledgements
-Special thanks to the contributors and collaborators who have made this project possible.
-
-<!-- License -->
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 
