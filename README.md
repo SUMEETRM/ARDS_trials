@@ -3,7 +3,7 @@
 
 <!-- Project Logo -->
 <p align="center">
-  <img src="logo.png" alt="ARDS Clinical Trials Logo">
+  <a href="https://ibb.co/WcsTvzR"><img src="https://i.ibb.co/RC75T6J/Screenshot-2023-05-14-at-8-13-29-PM.png" alt="Screenshot-2023-05-14-at-8-13-29-PM" border="0"></a>
 </p>
 
 <!-- Project Title -->
