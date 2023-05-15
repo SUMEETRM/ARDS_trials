@@ -45,7 +45,7 @@ Here is a breakdown of the datasets included:
 
 - :syringe: `Vaccination`: Includes data related to flu vaccination rates.
 
-- :map: `uscounties`: A comprehensive dataset containing details about US county coordinates, population figures, and FIPS codes.
+- 🗺️ `uscounties`: A comprehensive dataset containing details about US county coordinates, population figures, and FIPS codes.
 
 - :smoking: `Tobacco`: A dataset that provides insights into tobacco usage rates.
 
