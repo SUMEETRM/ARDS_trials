@@ -11,7 +11,7 @@
 
 <!-- Project Description -->
 <p align="center">
-  Comprehensive analysis and insights on ARDS (Acute Respiratory Distress Syndrome) clinical trials.
+  Comprehensive analysis and visualizatio of ARDS (Acute Respiratory Distress Syndrome) clinical trial loacations across the USA.
 </p>
 
 <!-- Table of Contents -->
