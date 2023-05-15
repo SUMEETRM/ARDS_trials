@@ -104,6 +104,6 @@ Explore each of these components to get a better understanding of the project
 
 <!-- Documentation -->
 ## Documentation
-For more detailed information about the project, data sources, methodologies, and findings, please refer to the [project documentation](docs/).
+For more detailed information about the project, data sources, methodologies, and findings, please refer to the [project documentation](https://docs.google.com/presentation/d/1o4y4RWLDccPJcJ6KGlTKd2LRTY3ww1YLlx2FPyqxSYU/edit?usp=sharing).
 
 
