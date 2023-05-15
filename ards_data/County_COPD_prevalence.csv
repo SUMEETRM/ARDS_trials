@@ -1,0 +1,3145 @@
+LocationID,Public_Health_Jurisdiction,StateDesc,County,Percent_COPD,95% Confidence Interval,Quartile
+01001,AL,Alabama,Autauga,7.5,6.5 - 8.5,7.3 - 8.6
+01003,AL,Alabama,Baldwin,6.9,5.9 - 8.0,6.0 - 7.2
+01005,AL,Alabama,Barbour,10.7,9.6 - 11.8,8.7 - 15.5
+01007,AL,Alabama,Bibb,9.2,8.2 - 10.1,8.7 - 15.5
+01009,AL,Alabama,Blount,8.7,7.6 - 9.8,8.7 - 15.5
+01011,AL,Alabama,Bullock,9.2,8.2 - 10.1,8.7 - 15.5
+01013,AL,Alabama,Butler,9.3,8.3 - 10.3,8.7 - 15.5
+01015,AL,Alabama,Calhoun,8.6,7.7 - 9.7,7.3 - 8.6
+01017,AL,Alabama,Chambers,8.7,7.8 - 9.7,8.7 - 15.5
+01019,AL,Alabama,Cherokee,9.5,8.3 - 10.8,8.7 - 15.5
+01021,AL,Alabama,Chilton,9.3,8.2 - 10.4,8.7 - 15.5
+01023,AL,Alabama,Choctaw,9.5,8.6 - 10.4,8.7 - 15.5
+01025,AL,Alabama,Clarke,9.4,8.5 - 10.3,8.7 - 15.5
+01027,AL,Alabama,Clay,10.1,9.0 - 11.3,8.7 - 15.5
+01029,AL,Alabama,Cleburne,9.2,7.9 - 10.5,8.7 - 15.5
+01031,AL,Alabama,Coffee,7.5,6.6 - 8.6,7.3 - 8.6
+01033,AL,Alabama,Colbert,8.2,7.2 - 9.2,7.3 - 8.6
+01035,AL,Alabama,Conecuh,9.4,8.5 - 10.3,8.7 - 15.5
+01037,AL,Alabama,Coosa,8.8,7.9 - 9.9,8.7 - 15.5
+01039,AL,Alabama,Covington,9.2,8.1 - 10.4,8.7 - 15.5
+01041,AL,Alabama,Crenshaw,9,8.0 - 10.1,8.7 - 15.5
+01043,AL,Alabama,Cullman,8.8,7.6 - 10.2,8.7 - 15.5
+01045,AL,Alabama,Dale,8.2,7.3 - 9.2,7.3 - 8.6
+01047,AL,Alabama,Dallas,9.4,8.4 - 10.4,8.7 - 15.5
+01049,AL,Alabama,DeKalb,10.2,8.9 - 11.5,8.7 - 15.5
+01051,AL,Alabama,Elmore,7.4,6.4 - 8.3,7.3 - 8.6
+01053,AL,Alabama,Escambia,9.7,8.8 - 10.7,8.7 - 15.5
+01055,AL,Alabama,Etowah,8.7,7.6 - 9.8,8.7 - 15.5
+01057,AL,Alabama,Fayette,9.6,8.5 - 10.9,8.7 - 15.5
+01059,AL,Alabama,Franklin,8.9,7.8 - 10.0,8.7 - 15.5
+01061,AL,Alabama,Geneva,9.8,8.6 - 11.1,8.7 - 15.5
+01063,AL,Alabama,Greene,11.2,10.1 - 12.3,8.7 - 15.5
+01065,AL,Alabama,Hale,9.5,8.6 - 10.4,8.7 - 15.5
+01067,AL,Alabama,Henry,8.5,7.4 - 9.6,7.3 - 8.6
+01069,AL,Alabama,Houston,8.3,7.3 - 9.4,7.3 - 8.6
+01071,AL,Alabama,Jackson,9.7,8.5 - 10.9,8.7 - 15.5
+01073,AL,Alabama,Jefferson,7,6.2 - 7.8,6.0 - 7.2
+01075,AL,Alabama,Lamar,9.8,8.7 - 11.0,8.7 - 15.5
+01077,AL,Alabama,Lauderdale,8,6.9 - 9.1,7.3 - 8.6
+01079,AL,Alabama,Lawrence,9.6,8.6 - 10.8,8.7 - 15.5
+01081,AL,Alabama,Lee,7.2,6.3 - 8.2,6.0 - 7.2
+01083,AL,Alabama,Limestone,7.6,6.5 - 8.7,7.3 - 8.6
+01085,AL,Alabama,Lowndes,9.8,8.7 - 11.0,8.7 - 15.5
+01087,AL,Alabama,Macon,8.5,7.5 - 9.5,7.3 - 8.6
+01089,AL,Alabama,Madison,6.1,5.3 - 7.0,6.0 - 7.2
+01091,AL,Alabama,Marengo,9,8.1 - 9.9,8.7 - 15.5
+01093,AL,Alabama,Marion,9.6,8.4 - 10.9,8.7 - 15.5
+01095,AL,Alabama,Marshall,8.9,7.7 - 10.2,8.7 - 15.5
+01097,AL,Alabama,Mobile,8,7.2 - 9.0,7.3 - 8.6
+01099,AL,Alabama,Monroe,9.7,8.8 - 10.6,8.7 - 15.5
+01101,AL,Alabama,Montgomery,7.2,6.3 - 8.1,6.0 - 7.2
+01103,AL,Alabama,Morgan,8,6.9 - 9.1,7.3 - 8.6
+01105,AL,Alabama,Perry,10.5,9.3 - 11.7,8.7 - 15.5
+01107,AL,Alabama,Pickens,9.1,8.2 - 10.0,8.7 - 15.5
+01109,AL,Alabama,Pike,8.3,7.4 - 9.2,7.3 - 8.6
+01111,AL,Alabama,Randolph,8.8,7.6 - 9.9,8.7 - 15.5
+01113,AL,Alabama,Russell,8.3,7.5 - 9.2,7.3 - 8.6
+01115,AL,Alabama,St. Clair,8.3,7.2 - 9.4,7.3 - 8.6
+01117,AL,Alabama,Shelby,5.7,4.8 - 6.7,3.2 - 5.9
+01119,AL,Alabama,Sumter,9.1,8.1 - 10.1,8.7 - 15.5
+01121,AL,Alabama,Talladega,9.3,8.3 - 10.4,8.7 - 15.5
+01123,AL,Alabama,Tallapoosa,8.9,7.9 - 10.0,8.7 - 15.5
+01125,AL,Alabama,Tuscaloosa,7.5,6.6 - 8.4,7.3 - 8.6
+01127,AL,Alabama,Walker,9.9,8.7 - 11.2,8.7 - 15.5
+01129,AL,Alabama,Washington,9.8,8.8 - 10.7,8.7 - 15.5
+01131,AL,Alabama,Wilcox,10.7,9.7 - 11.9,8.7 - 15.5
+01133,AL,Alabama,Winston,10.4,9.0 - 11.8,8.7 - 15.5
+02013,AK,Alaska,Aleutians East,5.7,5.2 - 6.3,3.2 - 5.9
+02016,AK,Alaska,Aleutians West,4.8,4.4 - 5.2,3.2 - 5.9
+02020,AK,Alaska,Anchorage,5,4.4 - 5.7,3.2 - 5.9
+02050,AK,Alaska,Bethel,11.6,10.4 - 12.8,8.7 - 15.5
+02060,AK,Alaska,Bristol Bay,6.4,5.8 - 6.9,6.0 - 7.2
+02068,AK,Alaska,Denali,5.7,5.0 - 6.6,3.2 - 5.9
+02070,AK,Alaska,Dillingham,8.9,7.8 - 10.0,8.7 - 15.5
+02090,AK,Alaska,Fairbanks North Star,5.3,4.6 - 5.9,3.2 - 5.9
+02100,AK,Alaska,Haines,5.8,5.1 - 6.4,3.2 - 5.9
+02105,AK,Alaska,Hoonah-Angoon,6.9,6.3 - 7.6,6.0 - 7.2
+02110,AK,Alaska,Juneau,4.8,4.2 - 5.5,3.2 - 5.9
+02122,AK,Alaska,Kenai Peninsula,6.3,5.5 - 7.1,6.0 - 7.2
+02130,AK,Alaska,Ketchikan Gateway,5.9,5.2 - 6.6,3.2 - 5.9
+02150,AK,Alaska,Kodiak Island,5,4.5 - 5.6,3.2 - 5.9
+02158,AK,Alaska,Kusilvak,15,13.5 - 16.6,8.7 - 15.5
+02164,AK,Alaska,Lake and Peninsula,9.3,8.4 - 10.2,8.7 - 15.5
+02170,AK,Alaska,Matanuska-Susitna,6.1,5.4 - 6.9,6.0 - 7.2
+02180,AK,Alaska,Nome,9.5,8.4 - 10.6,8.7 - 15.5
+02185,AK,Alaska,North Slope,6.7,6.1 - 7.4,6.0 - 7.2
+02188,AK,Alaska,Northwest Arctic,10.5,9.4 - 11.6,8.7 - 15.5
+02195,AK,Alaska,Petersburg,5.6,4.9 - 6.4,3.2 - 5.9
+02198,AK,Alaska,Prince of Wales-Hyder,7.9,7.2 - 8.6,7.3 - 8.6
+02220,AK,Alaska,Sitka,5.4,4.8 - 6.1,3.2 - 5.9
+02230,AK,Alaska,Skagway,5.4,4.7 - 6.2,3.2 - 5.9
+02240,AK,Alaska,Southeast Fairbanks,6.5,5.7 - 7.3,6.0 - 7.2
+02261,AK,Alaska,Valdez-Cordova,5.4,4.7 - 6.0,3.2 - 5.9
+02275,AK,Alaska,Wrangell,6.7,6.0 - 7.5,6.0 - 7.2
+02282,AK,Alaska,Yakutat,6.7,6.1 - 7.4,6.0 - 7.2
+02290,AK,Alaska,Yukon-Koyukuk,9.6,8.7 - 10.6,8.7 - 15.5
+04001,AZ,Arizona,Apache,11.1,9.9 - 12.3,8.7 - 15.5
+04003,AZ,Arizona,Cochise,6.1,5.4 - 6.8,6.0 - 7.2
+04005,AZ,Arizona,Coconino,6.4,5.8 - 7.1,6.0 - 7.2
+04007,AZ,Arizona,Gila,7.6,6.8 - 8.6,7.3 - 8.6
+04009,AZ,Arizona,Graham,6.6,6.0 - 7.3,6.0 - 7.2
+04011,AZ,Arizona,Greenlee,5.3,4.9 - 5.9,3.2 - 5.9
+04012,AZ,Arizona,La Paz,7.9,7.1 - 8.8,7.3 - 8.6
+04013,AZ,Arizona,Maricopa,5.6,4.9 - 6.3,3.2 - 5.9
+04015,AZ,Arizona,Mohave,7.7,6.8 - 8.6,7.3 - 8.6
+04017,AZ,Arizona,Navajo,9.6,8.7 - 10.4,8.7 - 15.5
+04019,AZ,Arizona,Pima,5.5,4.8 - 6.2,3.2 - 5.9
+04021,AZ,Arizona,Pinal,6.2,5.5 - 7.0,6.0 - 7.2
+04023,AZ,Arizona,Santa Cruz,5.6,4.8 - 6.4,3.2 - 5.9
+04025,AZ,Arizona,Yavapai,6.6,5.7 - 7.7,6.0 - 7.2
+04027,AZ,Arizona,Yuma,6.4,5.7 - 7.2,6.0 - 7.2
+05001,AR,Arkansas,Arkansas,8.8,7.8 - 9.8,8.7 - 15.5
+05003,AR,Arkansas,Ashley,9.1,8.1 - 10.0,8.7 - 15.5
+05005,AR,Arkansas,Baxter,8.3,7.2 - 9.5,7.3 - 8.6
+05007,AR,Arkansas,Benton,6.5,5.6 - 7.5,6.0 - 7.2
+05009,AR,Arkansas,Boone,8.8,7.6 - 10.0,8.7 - 15.5
+05011,AR,Arkansas,Bradley,8.6,7.7 - 9.5,7.3 - 8.6
+05013,AR,Arkansas,Calhoun,8.7,7.8 - 9.7,8.7 - 15.5
+05015,AR,Arkansas,Carroll,7.9,6.9 - 9.0,7.3 - 8.6
+05017,AR,Arkansas,Chicot,9.8,8.9 - 10.8,8.7 - 15.5
+05019,AR,Arkansas,Clark,7.9,7.0 - 8.8,7.3 - 8.6
+05021,AR,Arkansas,Clay,10,8.7 - 11.4,8.7 - 15.5
+05023,AR,Arkansas,Cleburne,8.4,7.4 - 9.6,7.3 - 8.6
+05025,AR,Arkansas,Cleveland,9.1,8.0 - 10.2,8.7 - 15.5
+05027,AR,Arkansas,Columbia,9.2,8.3 - 10.1,8.7 - 15.5
+05029,AR,Arkansas,Conway,8.8,7.8 - 9.9,8.7 - 15.5
+05031,AR,Arkansas,Craighead,7.9,6.9 - 9.1,7.3 - 8.6
+05033,AR,Arkansas,Crawford,8.7,7.7 - 9.8,8.7 - 15.5
+05035,AR,Arkansas,Crittenden,9.1,8.2 - 10.1,8.7 - 15.5
+05037,AR,Arkansas,Cross,9,8.0 - 10.0,8.7 - 15.5
+05039,AR,Arkansas,Dallas,8.5,7.7 - 9.4,7.3 - 8.6
+05041,AR,Arkansas,Desha,10.1,9.2 - 11.1,8.7 - 15.5
+05043,AR,Arkansas,Drew,8.3,7.3 - 9.3,7.3 - 8.6
+05045,AR,Arkansas,Faulkner,7.6,6.6 - 8.7,7.3 - 8.6
+05047,AR,Arkansas,Franklin,10.2,8.9 - 11.5,8.7 - 15.5
+05049,AR,Arkansas,Fulton,10.7,9.4 - 12.0,8.7 - 15.5
+05051,AR,Arkansas,Garland,8.2,7.2 - 9.3,7.3 - 8.6
+05053,AR,Arkansas,Grant,8,6.9 - 9.1,7.3 - 8.6
+05055,AR,Arkansas,Greene,8.8,7.7 - 10.2,8.7 - 15.5
+05057,AR,Arkansas,Hempstead,8.7,7.9 - 9.6,8.7 - 15.5
+05059,AR,Arkansas,Hot Spring,8.9,7.9 - 10.0,8.7 - 15.5
+05061,AR,Arkansas,Howard,8.8,7.9 - 9.8,8.7 - 15.5
+05063,AR,Arkansas,Independence,8.8,7.6 - 10.0,8.7 - 15.5
+05065,AR,Arkansas,Izard,9,7.9 - 10.3,8.7 - 15.5
+05067,AR,Arkansas,Jackson,10.6,9.5 - 11.9,8.7 - 15.5
+05069,AR,Arkansas,Jefferson,8.5,7.6 - 9.4,7.3 - 8.6
+05071,AR,Arkansas,Johnson,9.9,8.7 - 11.2,8.7 - 15.5
+05073,AR,Arkansas,Lafayette,10,9.0 - 11.1,8.7 - 15.5
+05075,AR,Arkansas,Lawrence,9.4,8.2 - 10.7,8.7 - 15.5
+05077,AR,Arkansas,Lee,9.7,8.7 - 10.6,8.7 - 15.5
+05079,AR,Arkansas,Lincoln,9.2,8.3 - 10.2,8.7 - 15.5
+05081,AR,Arkansas,Little River,8.8,7.9 - 9.7,8.7 - 15.5
+05083,AR,Arkansas,Logan,9.4,8.2 - 10.5,8.7 - 15.5
+05085,AR,Arkansas,Lonoke,7.6,6.7 - 8.7,7.3 - 8.6
+05087,AR,Arkansas,Madison,9.6,8.4 - 10.9,8.7 - 15.5
+05089,AR,Arkansas,Marion,8.9,7.8 - 10.2,8.7 - 15.5
+05091,AR,Arkansas,Miller,8.6,7.7 - 9.7,7.3 - 8.6
+05093,AR,Arkansas,Mississippi,9.5,8.5 - 10.6,8.7 - 15.5
+05095,AR,Arkansas,Monroe,9.9,9.0 - 11.0,8.7 - 15.5
+05097,AR,Arkansas,Montgomery,9.8,8.5 - 11.1,8.7 - 15.5
+05099,AR,Arkansas,Nevada,8.5,7.7 - 9.4,7.3 - 8.6
+05101,AR,Arkansas,Newton,8.6,7.3 - 9.8,7.3 - 8.6
+05103,AR,Arkansas,Ouachita,9.3,8.4 - 10.2,8.7 - 15.5
+05105,AR,Arkansas,Perry,9.2,8.0 - 10.3,8.7 - 15.5
+05107,AR,Arkansas,Phillips,10.6,9.5 - 11.7,8.7 - 15.5
+05109,AR,Arkansas,Pike,8.9,7.7 - 10.0,8.7 - 15.5
+05111,AR,Arkansas,Poinsett,9.7,8.6 - 11.0,8.7 - 15.5
+05113,AR,Arkansas,Polk,9.8,8.6 - 11.1,8.7 - 15.5
+05115,AR,Arkansas,Pope,8.5,7.4 - 9.7,7.3 - 8.6
+05117,AR,Arkansas,Prairie,8.8,7.7 - 10.0,8.7 - 15.5
+05119,AR,Arkansas,Pulaski,7,6.1 - 7.8,6.0 - 7.2
+05121,AR,Arkansas,Randolph,10.2,8.9 - 11.6,8.7 - 15.5
+05123,AR,Arkansas,St. Francis,9.4,8.6 - 10.3,8.7 - 15.5
+05125,AR,Arkansas,Saline,6.8,5.8 - 7.8,6.0 - 7.2
+05127,AR,Arkansas,Scott,10.1,9.0 - 11.4,8.7 - 15.5
+05129,AR,Arkansas,Searcy,10.4,9.1 - 11.7,8.7 - 15.5
+05131,AR,Arkansas,Sebastian,8.3,7.4 - 9.4,7.3 - 8.6
+05133,AR,Arkansas,Sevier,8.3,7.5 - 9.2,7.3 - 8.6
+05135,AR,Arkansas,Sharp,10.6,9.3 - 12.0,8.7 - 15.5
+05137,AR,Arkansas,Stone,10.2,8.9 - 11.7,8.7 - 15.5
+05139,AR,Arkansas,Union,8.2,7.3 - 9.2,7.3 - 8.6
+05141,AR,Arkansas,Van Buren,9.9,8.6 - 11.2,8.7 - 15.5
+05143,AR,Arkansas,Washington,7.3,6.2 - 8.4,7.3 - 8.6
+05145,AR,Arkansas,White,8.8,7.6 - 10.0,8.7 - 15.5
+05147,AR,Arkansas,Woodruff,9.8,8.9 - 11.0,8.7 - 15.5
+05149,AR,Arkansas,Yell,9.3,8.3 - 10.6,8.7 - 15.5
+06001,CA,California,Alameda,3.8,3.3 - 4.3,3.2 - 5.9
+06003,CA,California,Alpine,6.6,5.7 - 7.5,6.0 - 7.2
+06005,CA,California,Amador,5.6,4.9 - 6.4,3.2 - 5.9
+06007,CA,California,Butte,6.2,5.5 - 7.0,6.0 - 7.2
+06009,CA,California,Calaveras,5.8,5.1 - 6.6,3.2 - 5.9
+06011,CA,California,Colusa,5.4,4.9 - 6.0,3.2 - 5.9
+06013,CA,California,Contra Costa,4.1,3.6 - 4.6,3.2 - 5.9
+06015,CA,California,Del Norte,7.2,6.4 - 8.1,6.0 - 7.2
+06017,CA,California,El Dorado,4.9,4.2 - 5.6,3.2 - 5.9
+06019,CA,California,Fresno,5.6,5.0 - 6.3,3.2 - 5.9
+06021,CA,California,Glenn,6.3,5.6 - 7.0,6.0 - 7.2
+06023,CA,California,Humboldt,6.6,5.8 - 7.6,6.0 - 7.2
+06025,CA,California,Imperial,5.3,4.5 - 6.0,3.2 - 5.9
+06027,CA,California,Inyo,5.4,4.8 - 6.0,3.2 - 5.9
+06029,CA,California,Kern,6.1,5.5 - 6.8,6.0 - 7.2
+06031,CA,California,Kings,5.7,5.2 - 6.4,3.2 - 5.9
+06033,CA,California,Lake,6.8,6.1 - 7.6,6.0 - 7.2
+06035,CA,California,Lassen,6.7,5.9 - 7.5,6.0 - 7.2
+06037,CA,California,Los Angeles,4.3,3.8 - 4.9,3.2 - 5.9
+06039,CA,California,Madera,6.1,5.5 - 6.7,6.0 - 7.2
+06041,CA,California,Marin,3.9,3.2 - 4.7,3.2 - 5.9
+06043,CA,California,Mariposa,6.1,5.3 - 6.8,6.0 - 7.2
+06045,CA,California,Mendocino,6.2,5.4 - 7.0,6.0 - 7.2
+06047,CA,California,Merced,5.9,5.3 - 6.5,3.2 - 5.9
+06049,CA,California,Modoc,7.1,6.3 - 8.0,6.0 - 7.2
+06051,CA,California,Mono,5.3,4.5 - 6.0,3.2 - 5.9
+06053,CA,California,Monterey,5.2,4.5 - 5.8,3.2 - 5.9
+06055,CA,California,Napa,4.4,3.7 - 5.1,3.2 - 5.9
+06057,CA,California,Nevada,5.2,4.4 - 6.0,3.2 - 5.9
+06059,CA,California,Orange,4.1,3.6 - 4.7,3.2 - 5.9
+06061,CA,California,Placer,4.4,3.8 - 5.1,3.2 - 5.9
+06063,CA,California,Plumas,5.7,4.9 - 6.4,3.2 - 5.9
+06065,CA,California,Riverside,5.1,4.6 - 5.7,3.2 - 5.9
+06067,CA,California,Sacramento,5.2,4.7 - 5.8,3.2 - 5.9
+06069,CA,California,San Benito,4.5,3.9 - 5.0,3.2 - 5.9
+06071,CA,California,San Bernardino,5.1,4.6 - 5.7,3.2 - 5.9
+06073,CA,California,San Diego,4.6,4.0 - 5.2,3.2 - 5.9
+06075,CA,California,San Francisco,3.6,3.1 - 4.1,3.2 - 5.9
+06077,CA,California,San Joaquin,5.3,4.7 - 5.9,3.2 - 5.9
+06079,CA,California,San Luis Obispo,5,4.3 - 5.7,3.2 - 5.9
+06081,CA,California,San Mateo,3.5,3.1 - 4.0,3.2 - 5.9
+06083,CA,California,Santa Barbara,4.9,4.2 - 5.5,3.2 - 5.9
+06085,CA,California,Santa Clara,3.5,3.0 - 4.0,3.2 - 5.9
+06087,CA,California,Santa Cruz,4.8,4.2 - 5.6,3.2 - 5.9
+06089,CA,California,Shasta,6.4,5.6 - 7.2,6.0 - 7.2
+06091,CA,California,Sierra,6.2,5.4 - 7.0,6.0 - 7.2
+06093,CA,California,Siskiyou,6.6,5.7 - 7.4,6.0 - 7.2
+06095,CA,California,Solano,4.6,4.1 - 5.0,3.2 - 5.9
+06097,CA,California,Sonoma,4.7,4.1 - 5.5,3.2 - 5.9
+06099,CA,California,Stanislaus,5.7,5.1 - 6.3,3.2 - 5.9
+06101,CA,California,Sutter,5.9,5.3 - 6.6,3.2 - 5.9
+06103,CA,California,Tehama,7.2,6.4 - 8.1,6.0 - 7.2
+06105,CA,California,Trinity,7.2,6.3 - 8.0,6.0 - 7.2
+06107,CA,California,Tulare,6.3,5.6 - 7.0,6.0 - 7.2
+06109,CA,California,Tuolumne,6,5.3 - 6.8,6.0 - 7.2
+06111,CA,California,Ventura,4.4,3.9 - 5.0,3.2 - 5.9
+06113,CA,California,Yolo,5,4.3 - 5.6,3.2 - 5.9
+06115,CA,California,Yuba,6.1,5.4 - 6.8,6.0 - 7.2
+08001,CO,Colorado,Adams,4.7,4.1 - 5.4,3.2 - 5.9
+08003,CO,Colorado,Alamosa,5.7,5.1 - 6.4,3.2 - 5.9
+08005,CO,Colorado,Arapahoe,4.1,3.6 - 4.8,3.2 - 5.9
+08007,CO,Colorado,Archuleta,4.8,4.1 - 5.5,3.2 - 5.9
+08009,CO,Colorado,Baca,6.8,5.9 - 7.9,6.0 - 7.2
+08011,CO,Colorado,Bent,7.3,6.6 - 8.0,7.3 - 8.6
+08013,CO,Colorado,Boulder,4,3.4 - 4.7,3.2 - 5.9
+08014,CO,Colorado,Broomfield,3.6,3.0 - 4.3,3.2 - 5.9
+08015,CO,Colorado,Chaffee,5.1,4.4 - 6.0,3.2 - 5.9
+08017,CO,Colorado,Cheyenne,5.5,4.8 - 6.3,3.2 - 5.9
+08019,CO,Colorado,Clear Creek,4.4,3.6 - 5.2,3.2 - 5.9
+08021,CO,Colorado,Conejos,5.3,4.7 - 5.8,3.2 - 5.9
+08023,CO,Colorado,Costilla,6.1,5.4 - 6.9,6.0 - 7.2
+08025,CO,Colorado,Crowley,6.8,6.1 - 7.5,6.0 - 7.2
+08027,CO,Colorado,Custer,5.1,4.3 - 5.9,3.2 - 5.9
+08029,CO,Colorado,Delta,6.6,5.8 - 7.4,6.0 - 7.2
+08031,CO,Colorado,Denver,4.2,3.6 - 4.9,3.2 - 5.9
+08033,CO,Colorado,Dolores,5.6,4.9 - 6.4,3.2 - 5.9
+08035,CO,Colorado,Douglas,3.4,2.8 - 4.0,3.2 - 5.9
+08037,CO,Colorado,Eagle,4.2,3.5 - 5.0,3.2 - 5.9
+08039,CO,Colorado,Elbert,4.5,3.9 - 5.2,3.2 - 5.9
+08041,CO,Colorado,El Paso,4.7,4.1 - 5.4,3.2 - 5.9
+08043,CO,Colorado,Fremont,6.2,5.4 - 6.9,6.0 - 7.2
+08045,CO,Colorado,Garfield,4.9,4.1 - 5.7,3.2 - 5.9
+08047,CO,Colorado,Gilpin,4.2,3.6 - 4.9,3.2 - 5.9
+08049,CO,Colorado,Grand,5,4.2 - 5.9,3.2 - 5.9
+08051,CO,Colorado,Gunnison,4.7,4.0 - 5.5,3.2 - 5.9
+08053,CO,Colorado,Hinsdale,4.7,3.9 - 5.6,3.2 - 5.9
+08055,CO,Colorado,Huerfano,4.9,4.4 - 5.5,3.2 - 5.9
+08057,CO,Colorado,Jackson,5.7,5.0 - 6.6,3.2 - 5.9
+08059,CO,Colorado,Jefferson,4.1,3.5 - 4.8,3.2 - 5.9
+08061,CO,Colorado,Kiowa,6.3,5.6 - 7.1,6.0 - 7.2
+08063,CO,Colorado,Kit Carson,5.8,5.0 - 6.6,3.2 - 5.9
+08065,CO,Colorado,Lake,5.4,4.6 - 6.2,3.2 - 5.9
+08067,CO,Colorado,La Plata,4.5,3.8 - 5.2,3.2 - 5.9
+08069,CO,Colorado,Larimer,4.5,3.8 - 5.2,3.2 - 5.9
+08071,CO,Colorado,Las Animas,5.3,4.7 - 5.9,3.2 - 5.9
+08073,CO,Colorado,Lincoln,6.2,5.5 - 6.9,6.0 - 7.2
+08075,CO,Colorado,Logan,6,5.2 - 6.8,6.0 - 7.2
+08077,CO,Colorado,Mesa,5.6,4.8 - 6.5,3.2 - 5.9
+08079,CO,Colorado,Mineral,4.6,3.8 - 5.4,3.2 - 5.9
+08081,CO,Colorado,Moffat,6.1,5.4 - 6.8,6.0 - 7.2
+08083,CO,Colorado,Montezuma,6.1,5.2 - 6.9,6.0 - 7.2
+08085,CO,Colorado,Montrose,5.6,4.9 - 6.4,3.2 - 5.9
+08087,CO,Colorado,Morgan,5.7,5.0 - 6.4,3.2 - 5.9
+08089,CO,Colorado,Otero,6.1,5.5 - 6.8,6.0 - 7.2
+08091,CO,Colorado,Ouray,4.2,3.5 - 4.9,3.2 - 5.9
+08093,CO,Colorado,Park,4.9,4.2 - 5.6,3.2 - 5.9
+08095,CO,Colorado,Phillips,5.6,4.8 - 6.4,3.2 - 5.9
+08097,CO,Colorado,Pitkin,3.7,3.1 - 4.4,3.2 - 5.9
+08099,CO,Colorado,Prowers,5.7,5.0 - 6.4,3.2 - 5.9
+08101,CO,Colorado,Pueblo,5.2,4.7 - 5.8,3.2 - 5.9
+08103,CO,Colorado,Rio Blanco,5.7,5.0 - 6.4,3.2 - 5.9
+08105,CO,Colorado,Rio Grande,5.2,4.6 - 5.8,3.2 - 5.9
+08107,CO,Colorado,Routt,4.5,3.8 - 5.3,3.2 - 5.9
+08109,CO,Colorado,Saguache,5.9,5.2 - 6.6,3.2 - 5.9
+08111,CO,Colorado,San Juan,4.9,4.2 - 5.6,3.2 - 5.9
+08113,CO,Colorado,San Miguel,4.1,3.4 - 4.9,3.2 - 5.9
+08115,CO,Colorado,Sedgwick,6.5,5.7 - 7.4,6.0 - 7.2
+08117,CO,Colorado,Summit,4.3,3.5 - 5.1,3.2 - 5.9
+08119,CO,Colorado,Teller,4.7,3.9 - 5.4,3.2 - 5.9
+08121,CO,Colorado,Washington,6,5.3 - 6.9,6.0 - 7.2
+08123,CO,Colorado,Weld,4.8,4.1 - 5.4,3.2 - 5.9
+08125,CO,Colorado,Yuma,5.8,5.0 - 6.6,3.2 - 5.9
+09001,CT,Connecticut,Fairfield,4.1,3.5 - 4.8,3.2 - 5.9
+09003,CT,Connecticut,Hartford,4.7,4.1 - 5.4,3.2 - 5.9
+09005,CT,Connecticut,Litchfield,5,4.3 - 5.8,3.2 - 5.9
+09007,CT,Connecticut,Middlesex,4.7,4.0 - 5.5,3.2 - 5.9
+09009,CT,Connecticut,New Haven,5.1,4.4 - 5.9,3.2 - 5.9
+09011,CT,Connecticut,New London,5.3,4.6 - 6.1,3.2 - 5.9
+09013,CT,Connecticut,Tolland,4.9,4.2 - 5.8,3.2 - 5.9
+09015,CT,Connecticut,Windham,6.1,5.3 - 7.1,6.0 - 7.2
+10001,DE,Delaware,Kent,7.8,6.9 - 8.7,7.3 - 8.6
+10003,DE,Delaware,New Castle,6.2,5.4 - 7.0,6.0 - 7.2
+10005,DE,Delaware,Sussex,7.3,6.3 - 8.4,7.3 - 8.6
+11001,DC,District of Columbia,District of Columbia,4.7,4.1 - 5.4,3.2 - 5.9
+12001,FL,Florida,Alachua,7.3,6.4 - 8.1,7.3 - 8.6
+12003,FL,Florida,Baker,9.3,8.2 - 10.4,8.7 - 15.5
+12005,FL,Florida,Bay,8.2,7.2 - 9.3,7.3 - 8.6
+12007,FL,Florida,Bradford,10.5,9.4 - 11.7,8.7 - 15.5
+12009,FL,Florida,Brevard,7.3,6.3 - 8.2,7.3 - 8.6
+12011,FL,Florida,Broward,6,5.5 - 6.7,6.0 - 7.2
+12013,FL,Florida,Calhoun,10,8.9 - 11.1,8.7 - 15.5
+12015,FL,Florida,Charlotte,7.8,6.9 - 8.8,7.3 - 8.6
+12017,FL,Florida,Citrus,9.2,8.1 - 10.4,8.7 - 15.5
+12019,FL,Florida,Clay,7.4,6.5 - 8.3,7.3 - 8.6
+12021,FL,Florida,Collier,6.4,5.5 - 7.4,6.0 - 7.2
+12023,FL,Florida,Columbia,9.7,8.7 - 10.8,8.7 - 15.5
+12027,FL,Florida,DeSoto,10.4,9.4 - 11.4,8.7 - 15.5
+12029,FL,Florida,Dixie,11.5,10.2 - 12.9,8.7 - 15.5
+12031,FL,Florida,Duval,7.5,6.7 - 8.3,7.3 - 8.6
+12033,FL,Florida,Escambia,7.9,7.0 - 8.9,7.3 - 8.6
+12035,FL,Florida,Flagler,7.5,6.6 - 8.5,7.3 - 8.6
+12037,FL,Florida,Franklin,10,8.8 - 11.4,8.7 - 15.5
+12039,FL,Florida,Gadsden,9.2,8.2 - 10.1,8.7 - 15.5
+12041,FL,Florida,Gilchrist,10.7,9.4 - 12.0,8.7 - 15.5
+12043,FL,Florida,Glades,9.7,8.7 - 10.8,8.7 - 15.5
+12045,FL,Florida,Gulf,8.9,7.9 - 10.1,8.7 - 15.5
+12047,FL,Florida,Hamilton,11.4,10.3 - 12.6,8.7 - 15.5
+12049,FL,Florida,Hardee,10,9.1 - 11.0,8.7 - 15.5
+12051,FL,Florida,Hendry,9,8.2 - 9.7,8.7 - 15.5
+12053,FL,Florida,Hernando,8.3,7.3 - 9.4,7.3 - 8.6
+12055,FL,Florida,Highlands,8.6,7.7 - 9.5,7.3 - 8.6
+12057,FL,Florida,Hillsborough,6.4,5.6 - 7.2,6.0 - 7.2
+12059,FL,Florida,Holmes,11.6,10.2 - 13.0,8.7 - 15.5
+12061,FL,Florida,Indian River,7.4,6.4 - 8.4,7.3 - 8.6
+12063,FL,Florida,Jackson,10.3,9.2 - 11.3,8.7 - 15.5
+12065,FL,Florida,Jefferson,9.1,8.0 - 10.1,8.7 - 15.5
+12067,FL,Florida,Lafayette,10.3,9.1 - 11.6,8.7 - 15.5
+12069,FL,Florida,Lake,7.4,6.5 - 8.4,7.3 - 8.6
+12071,FL,Florida,Lee,6.9,6.0 - 7.9,6.0 - 7.2
+12073,FL,Florida,Leon,7.2,6.3 - 8.1,6.0 - 7.2
+12075,FL,Florida,Levy,10.2,9.1 - 11.4,8.7 - 15.5
+12077,FL,Florida,Liberty,10.7,9.5 - 11.9,8.7 - 15.5
+12079,FL,Florida,Madison,10.3,9.3 - 11.3,8.7 - 15.5
+12081,FL,Florida,Manatee,7.2,6.3 - 8.4,6.0 - 7.2
+12083,FL,Florida,Marion,8.3,7.3 - 9.4,7.3 - 8.6
+12085,FL,Florida,Martin,6.9,6.0 - 8.0,6.0 - 7.2
+12086,FL,Florida,Miami-Dade,5.4,4.6 - 6.2,3.2 - 5.9
+12087,FL,Florida,Monroe,6.1,5.4 - 7.0,6.0 - 7.2
+12089,FL,Florida,Nassau,7.2,6.2 - 8.3,6.0 - 7.2
+12091,FL,Florida,Okaloosa,7.2,6.3 - 8.2,6.0 - 7.2
+12093,FL,Florida,Okeechobee,9.7,8.6 - 10.7,8.7 - 15.5
+12095,FL,Florida,Orange,6.2,5.6 - 6.9,6.0 - 7.2
+12097,FL,Florida,Osceola,6.5,5.8 - 7.2,6.0 - 7.2
+12099,FL,Florida,Palm Beach,6.3,5.4 - 7.0,6.0 - 7.2
+12101,FL,Florida,Pasco,7.8,6.9 - 8.8,7.3 - 8.6
+12103,FL,Florida,Pinellas,7.4,6.4 - 8.6,7.3 - 8.6
+12105,FL,Florida,Polk,8.1,7.2 - 9.0,7.3 - 8.6
+12107,FL,Florida,Putnam,10.8,9.7 - 12.1,8.7 - 15.5
+12109,FL,Florida,St. Johns,6.1,5.2 - 7.2,6.0 - 7.2
+12111,FL,Florida,St. Lucie,7.5,6.7 - 8.3,7.3 - 8.6
+12113,FL,Florida,Santa Rosa,7.4,6.4 - 8.6,7.3 - 8.6
+12115,FL,Florida,Sarasota,6.6,5.6 - 7.5,6.0 - 7.2
+12117,FL,Florida,Seminole,5.9,5.2 - 6.7,3.2 - 5.9
+12119,FL,Florida,Sumter,6.7,5.7 - 7.8,6.0 - 7.2
+12121,FL,Florida,Suwannee,9.4,8.3 - 10.6,8.7 - 15.5
+12123,FL,Florida,Taylor,10.6,9.6 - 11.8,8.7 - 15.5
+12125,FL,Florida,Union,10.2,9.1 - 11.3,8.7 - 15.5
+12127,FL,Florida,Volusia,7.7,6.9 - 8.7,7.3 - 8.6
+12129,FL,Florida,Wakulla,8.3,7.4 - 9.4,7.3 - 8.6
+12131,FL,Florida,Walton,8.2,7.0 - 9.4,7.3 - 8.6
+12133,FL,Florida,Washington,11.2,9.9 - 12.4,8.7 - 15.5
+13001,GA,Georgia,Appling,9.9,8.9 - 11.0,8.7 - 15.5
+13003,GA,Georgia,Atkinson,10.3,9.3 - 11.3,8.7 - 15.5
+13005,GA,Georgia,Bacon,10,9.0 - 11.2,8.7 - 15.5
+13007,GA,Georgia,Baker,8.3,7.4 - 9.1,7.3 - 8.6
+13009,GA,Georgia,Baldwin,8.2,7.3 - 9.0,7.3 - 8.6
+13011,GA,Georgia,Banks,9.1,8.0 - 10.3,8.7 - 15.5
+13013,GA,Georgia,Barrow,7.2,6.3 - 8.1,6.0 - 7.2
+13015,GA,Georgia,Bartow,8,7.0 - 9.0,7.3 - 8.6
+13017,GA,Georgia,Ben Hill,9.4,8.6 - 10.3,8.7 - 15.5
+13019,GA,Georgia,Berrien,10,8.8 - 11.2,8.7 - 15.5
+13021,GA,Georgia,Bibb,8,7.1 - 8.8,7.3 - 8.6
+13023,GA,Georgia,Bleckley,8.2,7.3 - 9.1,7.3 - 8.6
+13025,GA,Georgia,Brantley,10.5,9.2 - 11.8,8.7 - 15.5
+13027,GA,Georgia,Brooks,8.6,7.8 - 9.6,7.3 - 8.6
+13029,GA,Georgia,Bryan,6.2,5.4 - 7.2,6.0 - 7.2
+13031,GA,Georgia,Bulloch,8.4,7.4 - 9.4,7.3 - 8.6
+13033,GA,Georgia,Burke,8.9,8.0 - 9.8,8.7 - 15.5
+13035,GA,Georgia,Butts,9.1,8.1 - 10.1,8.7 - 15.5
+13037,GA,Georgia,Calhoun,10.6,9.6 - 11.6,8.7 - 15.5
+13039,GA,Georgia,Camden,7.1,6.3 - 8.0,6.0 - 7.2
+13043,GA,Georgia,Candler,10.2,9.1 - 11.4,8.7 - 15.5
+13045,GA,Georgia,Carroll,7.9,6.9 - 8.9,7.3 - 8.6
+13047,GA,Georgia,Catoosa,7.3,6.3 - 8.4,7.3 - 8.6
+13049,GA,Georgia,Charlton,10.4,9.3 - 11.4,8.7 - 15.5
+13051,GA,Georgia,Chatham,6.5,5.7 - 7.4,6.0 - 7.2
+13053,GA,Georgia,Chattahoochee,7.3,6.7 - 8.0,7.3 - 8.6
+13055,GA,Georgia,Chattooga,10.4,9.2 - 11.6,8.7 - 15.5
+13057,GA,Georgia,Cherokee,5.5,4.7 - 6.4,3.2 - 5.9
+13059,GA,Georgia,Clarke,7.5,6.6 - 8.4,7.3 - 8.6
+13061,GA,Georgia,Clay,11.3,10.1 - 12.5,8.7 - 15.5
+13063,GA,Georgia,Clayton,7.1,6.4 - 8.0,6.0 - 7.2
+13065,GA,Georgia,Clinch,12.6,11.4 - 13.9,8.7 - 15.5
+13067,GA,Georgia,Cobb,5.1,4.4 - 5.9,3.2 - 5.9
+13069,GA,Georgia,Coffee,9.3,8.3 - 10.3,8.7 - 15.5
+13071,GA,Georgia,Colquitt,9.4,8.5 - 10.4,8.7 - 15.5
+13073,GA,Georgia,Columbia,5.5,4.8 - 6.3,3.2 - 5.9
+13075,GA,Georgia,Cook,9.4,8.5 - 10.4,8.7 - 15.5
+13077,GA,Georgia,Coweta,6.3,5.5 - 7.2,6.0 - 7.2
+13079,GA,Georgia,Crawford,8.9,8.0 - 9.8,8.7 - 15.5
+13081,GA,Georgia,Crisp,10.3,9.4 - 11.4,8.7 - 15.5
+13083,GA,Georgia,Dade,8.5,7.4 - 9.8,7.3 - 8.6
+13085,GA,Georgia,Dawson,6.5,5.4 - 7.7,6.0 - 7.2
+13087,GA,Georgia,Decatur,8.7,7.9 - 9.6,8.7 - 15.5
+13089,GA,Georgia,DeKalb,5.7,5.0 - 6.5,3.2 - 5.9
+13091,GA,Georgia,Dodge,9.2,8.3 - 10.2,8.7 - 15.5
+13093,GA,Georgia,Dooly,8.7,7.9 - 9.6,8.7 - 15.5
+13095,GA,Georgia,Dougherty,8.7,7.8 - 9.7,8.7 - 15.5
+13097,GA,Georgia,Douglas,6.5,5.7 - 7.3,6.0 - 7.2
+13099,GA,Georgia,Early,9.8,8.9 - 10.8,8.7 - 15.5
+13101,GA,Georgia,Echols,8.7,7.8 - 9.7,8.7 - 15.5
+13103,GA,Georgia,Effingham,6.8,6.0 - 7.7,6.0 - 7.2
+13105,GA,Georgia,Elbert,9.4,8.4 - 10.4,8.7 - 15.5
+13107,GA,Georgia,Emanuel,9.5,8.5 - 10.6,8.7 - 15.5
+13109,GA,Georgia,Evans,9.7,8.7 - 10.8,8.7 - 15.5
+13111,GA,Georgia,Fannin,7.7,6.6 - 8.9,7.3 - 8.6
+13113,GA,Georgia,Fayette,4.9,4.2 - 5.6,3.2 - 5.9
+13115,GA,Georgia,Floyd,8.2,7.2 - 9.4,7.3 - 8.6
+13117,GA,Georgia,Forsyth,4.6,3.8 - 5.4,3.2 - 5.9
+13119,GA,Georgia,Franklin,9,7.8 - 10.2,8.7 - 15.5
+13121,GA,Georgia,Fulton,5.3,4.7 - 6.0,3.2 - 5.9
+13123,GA,Georgia,Gilmer,8.2,7.0 - 9.5,7.3 - 8.6
+13125,GA,Georgia,Glascock,9.3,8.2 - 10.5,8.7 - 15.5
+13127,GA,Georgia,Glynn,7.2,6.3 - 8.2,6.0 - 7.2
+13129,GA,Georgia,Gordon,8.5,7.5 - 9.6,7.3 - 8.6
+13131,GA,Georgia,Grady,8.8,7.9 - 9.7,8.7 - 15.5
+13133,GA,Georgia,Greene,7.8,6.8 - 8.9,7.3 - 8.6
+13135,GA,Georgia,Gwinnett,5.5,4.8 - 6.1,3.2 - 5.9
+13137,GA,Georgia,Habersham,7.8,6.8 - 9.0,7.3 - 8.6
+13139,GA,Georgia,Hall,6.8,5.9 - 7.8,6.0 - 7.2
+13141,GA,Georgia,Hancock,9.7,8.8 - 10.7,8.7 - 15.5
+13143,GA,Georgia,Haralson,8.6,7.5 - 9.9,7.3 - 8.6
+13145,GA,Georgia,Harris,5.9,5.1 - 6.8,3.2 - 5.9
+13147,GA,Georgia,Hart,8.9,7.9 - 9.9,8.7 - 15.5
+13149,GA,Georgia,Heard,8.9,7.9 - 10.0,8.7 - 15.5
+13151,GA,Georgia,Henry,5.9,5.3 - 6.6,3.2 - 5.9
+13153,GA,Georgia,Houston,6.6,5.8 - 7.3,6.0 - 7.2
+13155,GA,Georgia,Irwin,9.5,8.5 - 10.6,8.7 - 15.5
+13157,GA,Georgia,Jackson,7.3,6.3 - 8.4,7.3 - 8.6
+13159,GA,Georgia,Jasper,8.8,7.8 - 9.8,8.7 - 15.5
+13161,GA,Georgia,Jeff Davis,10.6,9.5 - 11.8,8.7 - 15.5
+13163,GA,Georgia,Jefferson,9.7,8.8 - 10.6,8.7 - 15.5
+13165,GA,Georgia,Jenkins,10.9,9.9 - 11.9,8.7 - 15.5
+13167,GA,Georgia,Johnson,9.8,8.8 - 10.8,8.7 - 15.5
+13169,GA,Georgia,Jones,7.6,6.8 - 8.5,7.3 - 8.6
+13171,GA,Georgia,Lamar,7.9,7.0 - 8.8,7.3 - 8.6
+13173,GA,Georgia,Lanier,9,7.9 - 10.1,8.7 - 15.5
+13175,GA,Georgia,Laurens,9.1,8.2 - 10.1,8.7 - 15.5
+13177,GA,Georgia,Lee,6.7,5.8 - 7.6,6.0 - 7.2
+13179,GA,Georgia,Liberty,7.2,6.6 - 7.9,6.0 - 7.2
+13181,GA,Georgia,Lincoln,8.6,7.7 - 9.6,7.3 - 8.6
+13183,GA,Georgia,Long,8.1,7.3 - 9.0,7.3 - 8.6
+13185,GA,Georgia,Lowndes,8,7.2 - 9.0,7.3 - 8.6
+13187,GA,Georgia,Lumpkin,8,6.8 - 9.2,7.3 - 8.6
+13189,GA,Georgia,McDuffie,9.2,8.4 - 10.2,8.7 - 15.5
+13191,GA,Georgia,McIntosh,7.9,7.0 - 8.8,7.3 - 8.6
+13193,GA,Georgia,Macon,10,9.1 - 10.9,8.7 - 15.5
+13195,GA,Georgia,Madison,8.4,7.3 - 9.6,7.3 - 8.6
+13197,GA,Georgia,Marion,8.8,7.8 - 9.8,8.7 - 15.5
+13199,GA,Georgia,Meriwether,9.4,8.5 - 10.4,8.7 - 15.5
+13201,GA,Georgia,Miller,9,8.1 - 10.1,8.7 - 15.5
+13205,GA,Georgia,Mitchell,9.7,8.8 - 10.6,8.7 - 15.5
+13207,GA,Georgia,Monroe,7.2,6.2 - 8.2,6.0 - 7.2
+13209,GA,Georgia,Montgomery,8.7,7.7 - 9.7,8.7 - 15.5
+13211,GA,Georgia,Morgan,6.8,6.0 - 7.7,6.0 - 7.2
+13213,GA,Georgia,Murray,8.9,7.8 - 10.0,8.7 - 15.5
+13215,GA,Georgia,Muscogee,7.4,6.7 - 8.2,7.3 - 8.6
+13217,GA,Georgia,Newton,7.3,6.5 - 8.1,7.3 - 8.6
+13219,GA,Georgia,Oconee,5,4.2 - 5.9,3.2 - 5.9
+13221,GA,Georgia,Oglethorpe,8.4,7.3 - 9.5,7.3 - 8.6
+13223,GA,Georgia,Paulding,6.5,5.6 - 7.3,6.0 - 7.2
+13225,GA,Georgia,Peach,7.9,7.1 - 8.8,7.3 - 8.6
+13227,GA,Georgia,Pickens,7.4,6.3 - 8.6,7.3 - 8.6
+13229,GA,Georgia,Pierce,9.3,8.2 - 10.5,8.7 - 15.5
+13231,GA,Georgia,Pike,7.1,6.2 - 8.1,6.0 - 7.2
+13233,GA,Georgia,Polk,8.8,7.7 - 9.9,8.7 - 15.5
+13235,GA,Georgia,Pulaski,8.6,7.7 - 9.6,7.3 - 8.6
+13237,GA,Georgia,Putnam,7.6,6.7 - 8.6,7.3 - 8.6
+13239,GA,Georgia,Quitman,10.2,9.2 - 11.1,8.7 - 15.5
+13241,GA,Georgia,Rabun,8.4,7.1 - 9.7,7.3 - 8.6
+13243,GA,Georgia,Randolph,11.1,9.9 - 12.2,8.7 - 15.5
+13245,GA,Georgia,Richmond,8.1,7.3 - 9.0,7.3 - 8.6
+13247,GA,Georgia,Rockdale,6.5,5.7 - 7.3,6.0 - 7.2
+13249,GA,Georgia,Schley,8.1,7.3 - 9.0,7.3 - 8.6
+13251,GA,Georgia,Screven,8.9,8.0 - 9.9,8.7 - 15.5
+13253,GA,Georgia,Seminole,8.7,7.8 - 9.8,8.7 - 15.5
+13255,GA,Georgia,Spalding,8.4,7.5 - 9.5,7.3 - 8.6
+13257,GA,Georgia,Stephens,8,6.9 - 9.0,7.3 - 8.6
+13259,GA,Georgia,Stewart,9.7,8.7 - 10.7,8.7 - 15.5
+13261,GA,Georgia,Sumter,8.8,7.9 - 9.8,8.7 - 15.5
+13263,GA,Georgia,Talbot,9.1,8.2 - 9.9,8.7 - 15.5
+13265,GA,Georgia,Taliaferro,9.1,8.2 - 10.0,8.7 - 15.5
+13267,GA,Georgia,Tattnall,9.3,8.4 - 10.3,8.7 - 15.5
+13269,GA,Georgia,Taylor,10.5,9.4 - 11.6,8.7 - 15.5
+13271,GA,Georgia,Telfair,9.8,8.9 - 10.7,8.7 - 15.5
+13273,GA,Georgia,Terrell,9.9,9.1 - 10.9,8.7 - 15.5
+13275,GA,Georgia,Thomas,8,7.1 - 8.9,7.3 - 8.6
+13277,GA,Georgia,Tift,8.4,7.6 - 9.4,7.3 - 8.6
+13279,GA,Georgia,Toombs,9.2,8.1 - 10.2,8.7 - 15.5
+13281,GA,Georgia,Towns,7.5,6.3 - 8.5,7.3 - 8.6
+13283,GA,Georgia,Treutlen,10.2,9.2 - 11.3,8.7 - 15.5
+13285,GA,Georgia,Troup,8.4,7.5 - 9.5,7.3 - 8.6
+13287,GA,Georgia,Turner,9.8,8.8 - 10.7,8.7 - 15.5
+13289,GA,Georgia,Twiggs,9,8.1 - 9.9,8.7 - 15.5
+13291,GA,Georgia,Union,7.6,6.6 - 8.8,7.3 - 8.6
+13293,GA,Georgia,Upson,9,8.1 - 10.0,8.7 - 15.5
+13295,GA,Georgia,Walker,8.7,7.4 - 10.0,8.7 - 15.5
+13297,GA,Georgia,Walton,7.4,6.6 - 8.5,7.3 - 8.6
+13299,GA,Georgia,Ware,9.6,8.6 - 10.7,8.7 - 15.5
+13301,GA,Georgia,Warren,9.9,8.8 - 10.9,8.7 - 15.5
+13303,GA,Georgia,Washington,8.9,8.0 - 9.7,8.7 - 15.5
+13305,GA,Georgia,Wayne,9,8.0 - 10.1,8.7 - 15.5
+13307,GA,Georgia,Webster,8.4,7.5 - 9.3,7.3 - 8.6
+13309,GA,Georgia,Wheeler,9.7,8.8 - 10.7,8.7 - 15.5
+13311,GA,Georgia,White,7.4,6.3 - 8.5,7.3 - 8.6
+13313,GA,Georgia,Whitfield,7.8,6.9 - 8.8,7.3 - 8.6
+13315,GA,Georgia,Wilcox,9.4,8.4 - 10.3,8.7 - 15.5
+13317,GA,Georgia,Wilkes,9,8.1 - 9.9,8.7 - 15.5
+13319,GA,Georgia,Wilkinson,9.1,8.2 - 10.0,8.7 - 15.5
+13321,GA,Georgia,Worth,8.8,7.9 - 9.7,8.7 - 15.5
+15001,HI,Hawaii,Hawaii,5.1,4.6 - 5.5,3.2 - 5.9
+15003,HI,Hawaii,Honolulu,3.9,3.5 - 4.3,3.2 - 5.9
+15005,,Hawaii,Kalawao,5.1,4.4 - 6.0,3.2 - 5.9
+15007,HI,Hawaii,Kauai,4.3,4.0 - 4.7,3.2 - 5.9
+15009,HI,Hawaii,Maui,4.4,4.0 - 4.7,3.2 - 5.9
+16001,ID,Idaho,Ada,4.8,4.0 - 5.5,3.2 - 5.9
+16003,ID,Idaho,Adams,6.1,5.2 - 6.9,6.0 - 7.2
+16005,ID,Idaho,Bannock,5.9,5.1 - 6.8,3.2 - 5.9
+16007,ID,Idaho,Bear Lake,6.4,5.5 - 7.3,6.0 - 7.2
+16009,ID,Idaho,Benewah,7.3,6.4 - 8.2,7.3 - 8.6
+16011,ID,Idaho,Bingham,5.9,5.2 - 6.7,3.2 - 5.9
+16013,ID,Idaho,Blaine,4.9,4.2 - 5.8,3.2 - 5.9
+16015,ID,Idaho,Boise,5.5,4.7 - 6.3,3.2 - 5.9
+16017,ID,Idaho,Bonner,6.4,5.4 - 7.4,6.0 - 7.2
+16019,ID,Idaho,Bonneville,5.3,4.6 - 6.2,3.2 - 5.9
+16021,ID,Idaho,Boundary,6.8,5.9 - 7.7,6.0 - 7.2
+16023,ID,Idaho,Butte,6.8,6.0 - 7.7,6.0 - 7.2
+16025,ID,Idaho,Camas,6.7,5.9 - 7.6,6.0 - 7.2
+16027,ID,Idaho,Canyon,6.3,5.5 - 7.1,6.0 - 7.2
+16029,ID,Idaho,Caribou,6,5.2 - 6.9,6.0 - 7.2
+16031,ID,Idaho,Cassia,6,5.2 - 6.8,6.0 - 7.2
+16033,ID,Idaho,Clark,6.7,5.9 - 7.6,6.0 - 7.2
+16035,ID,Idaho,Clearwater,6.6,5.8 - 7.5,6.0 - 7.2
+16037,ID,Idaho,Custer,6.7,5.8 - 7.7,6.0 - 7.2
+16039,ID,Idaho,Elmore,6.4,5.6 - 7.1,6.0 - 7.2
+16041,ID,Idaho,Franklin,6,5.2 - 6.8,6.0 - 7.2
+16043,ID,Idaho,Fremont,6.2,5.2 - 7.1,6.0 - 7.2
+16045,ID,Idaho,Gem,6.5,5.7 - 7.4,6.0 - 7.2
+16047,ID,Idaho,Gooding,6.2,5.4 - 7.1,6.0 - 7.2
+16049,ID,Idaho,Idaho,7.3,6.3 - 8.3,7.3 - 8.6
+16051,ID,Idaho,Jefferson,5.3,4.7 - 6.2,3.2 - 5.9
+16053,ID,Idaho,Jerome,6.6,5.7 - 7.4,6.0 - 7.2
+16055,ID,Idaho,Kootenai,5.8,5.0 - 6.7,3.2 - 5.9
+16057,ID,Idaho,Latah,5.6,4.8 - 6.5,3.2 - 5.9
+16059,ID,Idaho,Lemhi,6.6,5.7 - 7.6,6.0 - 7.2
+16061,ID,Idaho,Lewis,7.4,6.5 - 8.3,7.3 - 8.6
+16063,ID,Idaho,Lincoln,6.7,5.9 - 7.6,6.0 - 7.2
+16065,ID,Idaho,Madison,7.2,6.3 - 8.1,6.0 - 7.2
+16067,ID,Idaho,Minidoka,6.1,5.4 - 6.8,6.0 - 7.2
+16069,ID,Idaho,Nez Perce,6.2,5.4 - 7.0,6.0 - 7.2
+16071,ID,Idaho,Oneida,6.1,5.3 - 7.0,6.0 - 7.2
+16073,ID,Idaho,Owyhee,6.8,6.1 - 7.6,6.0 - 7.2
+16075,ID,Idaho,Payette,6.4,5.6 - 7.2,6.0 - 7.2
+16077,ID,Idaho,Power,6.1,5.4 - 6.9,6.0 - 7.2
+16079,ID,Idaho,Shoshone,8,7.0 - 9.1,7.3 - 8.6
+16081,ID,Idaho,Teton,4.5,3.8 - 5.3,3.2 - 5.9
+16083,ID,Idaho,Twin Falls,6.1,5.3 - 6.9,6.0 - 7.2
+16085,ID,Idaho,Valley,5.2,4.5 - 6.0,3.2 - 5.9
+16087,ID,Idaho,Washington,6.8,6.0 - 7.7,6.0 - 7.2
+17001,IL,Illinois,Adams,6.8,5.8 - 7.8,6.0 - 7.2
+17003,IL,Illinois,Alexander,8.6,7.7 - 9.5,7.3 - 8.6
+17005,IL,Illinois,Bond,7.1,6.1 - 8.1,6.0 - 7.2
+17007,IL,Illinois,Boone,6,5.2 - 6.9,6.0 - 7.2
+17009,IL,Illinois,Brown,7.3,6.4 - 8.2,7.3 - 8.6
+17011,IL,Illinois,Bureau,6.6,5.7 - 7.5,6.0 - 7.2
+17013,IL,Illinois,Calhoun,7.1,6.3 - 8.2,6.0 - 7.2
+17015,IL,Illinois,Carroll,6.6,5.8 - 7.6,6.0 - 7.2
+17017,IL,Illinois,Cass,7.3,6.4 - 8.2,7.3 - 8.6
+17019,IL,Illinois,Champaign,6.1,5.3 - 6.9,6.0 - 7.2
+17021,IL,Illinois,Christian,7.4,6.4 - 8.5,7.3 - 8.6
+17023,IL,Illinois,Clark,7.2,6.2 - 8.1,6.0 - 7.2
+17025,IL,Illinois,Clay,8,6.9 - 9.1,7.3 - 8.6
+17027,IL,Illinois,Clinton,6.5,5.5 - 7.4,6.0 - 7.2
+17029,IL,Illinois,Coles,7.7,6.6 - 8.8,7.3 - 8.6
+17031,IL,Illinois,Cook,5.2,4.6 - 5.8,3.2 - 5.9
+17033,IL,Illinois,Crawford,7.3,6.3 - 8.3,7.3 - 8.6
+17035,IL,Illinois,Cumberland,7.5,6.5 - 8.5,7.3 - 8.6
+17037,IL,Illinois,DeKalb,6.2,5.3 - 7.1,6.0 - 7.2
+17039,IL,Illinois,De Witt,7.1,6.1 - 8.1,6.0 - 7.2
+17041,IL,Illinois,Douglas,7.4,6.3 - 8.6,7.3 - 8.6
+17043,IL,Illinois,DuPage,4.3,3.7 - 5.1,3.2 - 5.9
+17045,IL,Illinois,Edgar,7,6.0 - 8.0,6.0 - 7.2
+17047,IL,Illinois,Edwards,7.1,6.2 - 8.0,6.0 - 7.2
+17049,IL,Illinois,Effingham,6.6,5.7 - 7.7,6.0 - 7.2
+17051,IL,Illinois,Fayette,8.5,7.4 - 9.7,7.3 - 8.6
+17053,IL,Illinois,Ford,7.2,6.2 - 8.3,6.0 - 7.2
+17055,IL,Illinois,Franklin,8.5,7.3 - 9.7,7.3 - 8.6
+17057,IL,Illinois,Fulton,7.5,6.5 - 8.6,7.3 - 8.6
+17059,IL,Illinois,Gallatin,8.9,7.8 - 10.1,8.7 - 15.5
+17061,IL,Illinois,Greene,7.5,6.6 - 8.6,7.3 - 8.6
+17063,IL,Illinois,Grundy,5.8,5.1 - 6.6,3.2 - 5.9
+17065,IL,Illinois,Hamilton,7.2,6.3 - 8.3,6.0 - 7.2
+17067,IL,Illinois,Hancock,7.1,6.2 - 8.1,6.0 - 7.2
+17069,IL,Illinois,Hardin,8.3,7.3 - 9.4,7.3 - 8.6
+17071,IL,Illinois,Henderson,6.7,5.8 - 7.7,6.0 - 7.2
+17073,IL,Illinois,Henry,6.5,5.5 - 7.5,6.0 - 7.2
+17075,IL,Illinois,Iroquois,7.4,6.4 - 8.4,7.3 - 8.6
+17077,IL,Illinois,Jackson,7.6,6.6 - 8.7,7.3 - 8.6
+17079,IL,Illinois,Jasper,7.3,6.3 - 8.3,7.3 - 8.6
+17081,IL,Illinois,Jefferson,7.6,6.6 - 8.6,7.3 - 8.6
+17083,IL,Illinois,Jersey,6.6,5.8 - 7.6,6.0 - 7.2
+17085,IL,Illinois,Jo Daviess,6.4,5.5 - 7.4,6.0 - 7.2
+17087,IL,Illinois,Johnson,7.5,6.5 - 8.6,7.3 - 8.6
+17089,IL,Illinois,Kane,5.2,4.5 - 5.9,3.2 - 5.9
+17091,IL,Illinois,Kankakee,6.8,5.9 - 7.7,6.0 - 7.2
+17093,IL,Illinois,Kendall,4.7,4.0 - 5.4,3.2 - 5.9
+17095,IL,Illinois,Knox,7.7,6.7 - 8.8,7.3 - 8.6
+17097,IL,Illinois,Lake,4.7,4.0 - 5.4,3.2 - 5.9
+17099,IL,Illinois,LaSalle,6.8,5.9 - 7.7,6.0 - 7.2
+17101,IL,Illinois,Lawrence,8,6.9 - 9.0,7.3 - 8.6
+17103,IL,Illinois,Lee,6.8,5.9 - 7.7,6.0 - 7.2
+17105,IL,Illinois,Livingston,7.5,6.6 - 8.5,7.3 - 8.6
+17107,IL,Illinois,Logan,6.7,5.8 - 7.8,6.0 - 7.2
+17109,IL,Illinois,McDonough,7.3,6.3 - 8.4,7.3 - 8.6
+17111,IL,Illinois,McHenry,5.1,4.4 - 6.0,3.2 - 5.9
+17113,IL,Illinois,McLean,5.8,5.0 - 6.7,3.2 - 5.9
+17115,IL,Illinois,Macon,7.2,6.4 - 8.2,6.0 - 7.2
+17117,IL,Illinois,Macoupin,7.4,6.4 - 8.4,7.3 - 8.6
+17119,IL,Illinois,Madison,6.4,5.5 - 7.4,6.0 - 7.2
+17121,IL,Illinois,Marion,8.1,7.1 - 9.1,7.3 - 8.6
+17123,IL,Illinois,Marshall,6.8,5.9 - 7.7,6.0 - 7.2
+17125,IL,Illinois,Mason,7.8,6.8 - 8.8,7.3 - 8.6
+17127,IL,Illinois,Massac,7.9,7.0 - 9.0,7.3 - 8.6
+17129,IL,Illinois,Menard,6.3,5.5 - 7.3,6.0 - 7.2
+17131,IL,Illinois,Mercer,6.7,5.9 - 7.7,6.0 - 7.2
+17133,IL,Illinois,Monroe,5.3,4.6 - 6.2,3.2 - 5.9
+17135,IL,Illinois,Montgomery,7.7,6.6 - 8.8,7.3 - 8.6
+17137,IL,Illinois,Morgan,7.4,6.4 - 8.4,7.3 - 8.6
+17139,IL,Illinois,Moultrie,7.1,6.1 - 8.3,6.0 - 7.2
+17141,IL,Illinois,Ogle,6.4,5.5 - 7.3,6.0 - 7.2
+17143,IL,Illinois,Peoria,6.5,5.6 - 7.5,6.0 - 7.2
+17145,IL,Illinois,Perry,7.9,6.9 - 9.0,7.3 - 8.6
+17147,IL,Illinois,Piatt,5.8,5.0 - 6.8,3.2 - 5.9
+17149,IL,Illinois,Pike,7.9,6.8 - 9.0,7.3 - 8.6
+17151,IL,Illinois,Pope,7.9,6.8 - 8.9,7.3 - 8.6
+17153,IL,Illinois,Pulaski,8.8,7.9 - 9.6,8.7 - 15.5
+17155,IL,Illinois,Putnam,6.2,5.5 - 7.1,6.0 - 7.2
+17157,IL,Illinois,Randolph,7.7,6.7 - 8.7,7.3 - 8.6
+17159,IL,Illinois,Richland,7.6,6.5 - 8.8,7.3 - 8.6
+17161,IL,Illinois,Rock Island,6.4,5.5 - 7.2,6.0 - 7.2
+17163,IL,Illinois,St. Clair,6.5,5.8 - 7.4,6.0 - 7.2
+17165,IL,Illinois,Saline,8.5,7.4 - 9.8,7.3 - 8.6
+17167,IL,Illinois,Sangamon,6.3,5.3 - 7.3,6.0 - 7.2
+17169,IL,Illinois,Schuyler,7.5,6.4 - 8.5,7.3 - 8.6
+17171,IL,Illinois,Scott,7.3,6.4 - 8.2,7.3 - 8.6
+17173,IL,Illinois,Shelby,7.2,6.4 - 8.1,6.0 - 7.2
+17175,IL,Illinois,Stark,7.5,6.6 - 8.6,7.3 - 8.6
+17177,IL,Illinois,Stephenson,7.1,6.2 - 8.1,6.0 - 7.2
+17179,IL,Illinois,Tazewell,6.3,5.5 - 7.4,6.0 - 7.2
+17181,IL,Illinois,Union,7.8,6.6 - 9.0,7.3 - 8.6
+17183,IL,Illinois,Vermilion,7.9,7.0 - 8.9,7.3 - 8.6
+17185,IL,Illinois,Wabash,7.1,6.1 - 8.0,6.0 - 7.2
+17187,IL,Illinois,Warren,6.8,5.9 - 7.8,6.0 - 7.2
+17189,IL,Illinois,Washington,6.4,5.5 - 7.3,6.0 - 7.2
+17191,IL,Illinois,Wayne,7.7,6.6 - 8.8,7.3 - 8.6
+17193,IL,Illinois,White,7.8,6.7 - 8.9,7.3 - 8.6
+17195,IL,Illinois,Whiteside,6.5,5.7 - 7.4,6.0 - 7.2
+17197,IL,Illinois,Will,5.2,4.6 - 5.9,3.2 - 5.9
+17199,IL,Illinois,Williamson,7,6.1 - 7.9,6.0 - 7.2
+17201,IL,Illinois,Winnebago,6.8,6.0 - 7.6,6.0 - 7.2
+17203,IL,Illinois,Woodford,5.7,4.8 - 6.6,3.2 - 5.9
+18001,IN,Indiana,Adams,9.2,8.0 - 10.5,8.7 - 15.5
+18003,IN,Indiana,Allen,7.3,6.3 - 8.4,7.3 - 8.6
+18005,IN,Indiana,Bartholomew,6.9,5.8 - 8.1,6.0 - 7.2
+18007,IN,Indiana,Benton,8.7,7.6 - 9.9,8.7 - 15.5
+18009,IN,Indiana,Blackford,9.2,8.0 - 10.3,8.7 - 15.5
+18011,IN,Indiana,Boone,5.6,4.6 - 6.7,3.2 - 5.9
+18013,IN,Indiana,Brown,7.4,6.2 - 8.5,7.3 - 8.6
+18015,IN,Indiana,Carroll,8,6.9 - 9.1,7.3 - 8.6
+18017,IN,Indiana,Cass,8.6,7.4 - 9.7,7.3 - 8.6
+18019,IN,Indiana,Clark,7.8,6.7 - 8.8,7.3 - 8.6
+18021,IN,Indiana,Clay,8.4,7.3 - 9.6,7.3 - 8.6
+18023,IN,Indiana,Clinton,8.2,7.1 - 9.4,7.3 - 8.6
+18025,IN,Indiana,Crawford,10.4,9.0 - 11.7,8.7 - 15.5
+18027,IN,Indiana,Daviess,9.7,8.4 - 11.1,8.7 - 15.5
+18029,IN,Indiana,Dearborn,7.7,6.6 - 8.8,7.3 - 8.6
+18031,IN,Indiana,Decatur,7.9,6.8 - 9.0,7.3 - 8.6
+18033,IN,Indiana,DeKalb,7.8,6.7 - 8.9,7.3 - 8.6
+18035,IN,Indiana,Delaware,9,7.8 - 10.2,8.7 - 15.5
+18037,IN,Indiana,Dubois,7.2,6.2 - 8.3,6.0 - 7.2
+18039,IN,Indiana,Elkhart,7.8,6.8 - 9.0,7.3 - 8.6
+18041,IN,Indiana,Fayette,9.9,8.6 - 11.2,8.7 - 15.5
+18043,IN,Indiana,Floyd,7.1,6.0 - 8.0,6.0 - 7.2
+18045,IN,Indiana,Fountain,8.2,7.3 - 9.3,7.3 - 8.6
+18047,IN,Indiana,Franklin,8,6.8 - 9.4,7.3 - 8.6
+18049,IN,Indiana,Fulton,8,7.0 - 9.1,7.3 - 8.6
+18051,IN,Indiana,Gibson,7.8,6.8 - 8.8,7.3 - 8.6
+18053,IN,Indiana,Grant,8.9,7.8 - 10.1,8.7 - 15.5
+18055,IN,Indiana,Greene,8.7,7.6 - 10.0,8.7 - 15.5
+18057,IN,Indiana,Hamilton,4.7,3.9 - 5.6,3.2 - 5.9
+18059,IN,Indiana,Hancock,6.7,5.7 - 7.8,6.0 - 7.2
+18061,IN,Indiana,Harrison,8,6.9 - 9.1,7.3 - 8.6
+18063,IN,Indiana,Hendricks,5.9,5.1 - 7.0,3.2 - 5.9
+18065,IN,Indiana,Henry,8.8,7.7 - 10.2,8.7 - 15.5
+18067,IN,Indiana,Howard,8.1,7.0 - 9.2,7.3 - 8.6
+18069,IN,Indiana,Huntington,7.9,6.8 - 8.9,7.3 - 8.6
+18071,IN,Indiana,Jackson,8.5,7.5 - 9.7,7.3 - 8.6
+18073,IN,Indiana,Jasper,7.7,6.7 - 8.7,7.3 - 8.6
+18075,IN,Indiana,Jay,9.2,8.0 - 10.4,8.7 - 15.5
+18077,IN,Indiana,Jefferson,8.4,7.3 - 9.5,7.3 - 8.6
+18079,IN,Indiana,Jennings,8.7,7.6 - 9.8,8.7 - 15.5
+18081,IN,Indiana,Johnson,6.7,5.6 - 7.7,6.0 - 7.2
+18083,IN,Indiana,Knox,8.7,7.6 - 9.8,8.7 - 15.5
+18085,IN,Indiana,Kosciusko,7.6,6.5 - 8.9,7.3 - 8.6
+18087,IN,Indiana,LaGrange,9.9,8.5 - 11.3,8.7 - 15.5
+18089,IN,Indiana,Lake,7.1,6.3 - 7.9,6.0 - 7.2
+18091,IN,Indiana,LaPorte,8.7,7.6 - 9.8,8.7 - 15.5
+18093,IN,Indiana,Lawrence,8.5,7.3 - 9.6,7.3 - 8.6
+18095,IN,Indiana,Madison,9,7.9 - 10.2,8.7 - 15.5
+18097,IN,Indiana,Marion,7.4,6.4 - 8.3,7.3 - 8.6
+18099,IN,Indiana,Marshall,8.3,7.2 - 9.5,7.3 - 8.6
+18101,IN,Indiana,Martin,8.4,7.3 - 9.5,7.3 - 8.6
+18103,IN,Indiana,Miami,9,7.9 - 10.2,8.7 - 15.5
+18105,IN,Indiana,Monroe,7.5,6.3 - 8.6,7.3 - 8.6
+18107,IN,Indiana,Montgomery,8.2,7.1 - 9.4,7.3 - 8.6
+18109,IN,Indiana,Morgan,7.9,6.8 - 9.0,7.3 - 8.6
+18111,IN,Indiana,Newton,8.3,7.3 - 9.4,7.3 - 8.6
+18113,IN,Indiana,Noble,8,7.0 - 9.1,7.3 - 8.6
+18115,IN,Indiana,Ohio,7.7,6.7 - 8.8,7.3 - 8.6
+18117,IN,Indiana,Orange,9.6,8.4 - 10.9,8.7 - 15.5
+18119,IN,Indiana,Owen,9.3,8.2 - 10.6,8.7 - 15.5
+18121,IN,Indiana,Parke,9.1,8.0 - 10.3,8.7 - 15.5
+18123,IN,Indiana,Perry,8.1,7.0 - 9.2,7.3 - 8.6
+18125,IN,Indiana,Pike,8.6,7.4 - 9.8,7.3 - 8.6
+18127,IN,Indiana,Porter,6.7,5.8 - 7.7,6.0 - 7.2
+18129,IN,Indiana,Posey,7.2,6.2 - 8.1,6.0 - 7.2
+18131,IN,Indiana,Pulaski,8.7,7.7 - 9.9,8.7 - 15.5
+18133,IN,Indiana,Putnam,7.9,6.9 - 9.0,7.3 - 8.6
+18135,IN,Indiana,Randolph,8.8,7.7 - 10.0,8.7 - 15.5
+18137,IN,Indiana,Ripley,8.1,7.0 - 9.2,7.3 - 8.6
+18139,IN,Indiana,Rush,8.8,7.7 - 10.0,8.7 - 15.5
+18141,IN,Indiana,St. Joseph,7.4,6.4 - 8.6,7.3 - 8.6
+18143,IN,Indiana,Scott,9.6,8.3 - 10.9,8.7 - 15.5
+18145,IN,Indiana,Shelby,8,6.9 - 9.1,7.3 - 8.6
+18147,IN,Indiana,Spencer,8,7.0 - 9.1,7.3 - 8.6
+18149,IN,Indiana,Starke,9.1,8.0 - 10.4,8.7 - 15.5
+18151,IN,Indiana,Steuben,7.7,6.6 - 8.8,7.3 - 8.6
+18153,IN,Indiana,Sullivan,8.9,7.9 - 10.1,8.7 - 15.5
+18155,IN,Indiana,Switzerland,10.1,8.9 - 11.4,8.7 - 15.5
+18157,IN,Indiana,Tippecanoe,7.2,6.2 - 8.3,6.0 - 7.2
+18159,IN,Indiana,Tipton,7.5,6.4 - 8.9,7.3 - 8.6
+18161,IN,Indiana,Union,8.4,7.2 - 9.7,7.3 - 8.6
+18163,IN,Indiana,Vanderburgh,8.1,7.0 - 9.3,7.3 - 8.6
+18165,IN,Indiana,Vermillion,8.7,7.6 - 9.8,8.7 - 15.5
+18167,IN,Indiana,Vigo,8.6,7.4 - 9.9,7.3 - 8.6
+18169,IN,Indiana,Wabash,8.4,7.2 - 9.6,7.3 - 8.6
+18171,IN,Indiana,Warren,7.7,6.6 - 8.7,7.3 - 8.6
+18173,IN,Indiana,Warrick,6.5,5.5 - 7.5,6.0 - 7.2
+18175,IN,Indiana,Washington,8.9,7.8 - 10.1,8.7 - 15.5
+18177,IN,Indiana,Wayne,8.9,7.6 - 10.1,8.7 - 15.5
+18179,IN,Indiana,Wells,7.6,6.7 - 8.6,7.3 - 8.6
+18181,IN,Indiana,White,7.9,6.9 - 8.9,7.3 - 8.6
+18183,IN,Indiana,Whitley,7.5,6.4 - 8.7,7.3 - 8.6
+19001,IA,Iowa,Adair,6,5.3 - 6.9,6.0 - 7.2
+19003,IA,Iowa,Adams,6.2,5.4 - 7.0,6.0 - 7.2
+19005,IA,Iowa,Allamakee,6.2,5.3 - 7.1,6.0 - 7.2
+19007,IA,Iowa,Appanoose,7,6.1 - 8.0,6.0 - 7.2
+19009,IA,Iowa,Audubon,6.2,5.4 - 7.1,6.0 - 7.2
+19011,IA,Iowa,Benton,5.5,4.7 - 6.2,3.2 - 5.9
+19013,IA,Iowa,Black Hawk,6,5.2 - 6.8,6.0 - 7.2
+19015,IA,Iowa,Boone,5.5,4.7 - 6.4,3.2 - 5.9
+19017,IA,Iowa,Bremer,5,4.3 - 5.8,3.2 - 5.9
+19019,IA,Iowa,Buchanan,5.6,4.8 - 6.4,3.2 - 5.9
+19021,IA,Iowa,Buena Vista,5.6,4.9 - 6.4,3.2 - 5.9
+19023,IA,Iowa,Butler,5.9,5.1 - 6.7,3.2 - 5.9
+19025,IA,Iowa,Calhoun,6.1,5.3 - 7.0,6.0 - 7.2
+19027,IA,Iowa,Carroll,5.6,4.8 - 6.4,3.2 - 5.9
+19029,IA,Iowa,Cass,6.6,5.6 - 7.6,6.0 - 7.2
+19031,IA,Iowa,Cedar,5.2,4.5 - 5.9,3.2 - 5.9
+19033,IA,Iowa,Cerro Gordo,5.6,4.8 - 6.4,3.2 - 5.9
+19035,IA,Iowa,Cherokee,5.8,5.0 - 6.6,3.2 - 5.9
+19037,IA,Iowa,Chickasaw,5.8,5.0 - 6.7,3.2 - 5.9
+19039,IA,Iowa,Clarke,6.4,5.6 - 7.3,6.0 - 7.2
+19041,IA,Iowa,Clay,5.8,5.0 - 6.7,3.2 - 5.9
+19043,IA,Iowa,Clayton,6.5,5.7 - 7.5,6.0 - 7.2
+19045,IA,Iowa,Clinton,6.5,5.7 - 7.5,6.0 - 7.2
+19047,IA,Iowa,Crawford,6.2,5.4 - 7.2,6.0 - 7.2
+19049,IA,Iowa,Dallas,4,3.3 - 4.7,3.2 - 5.9
+19051,IA,Iowa,Davis,6.6,5.5 - 7.8,6.0 - 7.2
+19053,IA,Iowa,Decatur,6.8,5.8 - 7.9,6.0 - 7.2
+19055,IA,Iowa,Delaware,5.9,5.1 - 6.8,3.2 - 5.9
+19057,IA,Iowa,Des Moines,6.5,5.6 - 7.4,6.0 - 7.2
+19059,IA,Iowa,Dickinson,5.2,4.4 - 6.0,3.2 - 5.9
+19061,IA,Iowa,Dubuque,5.3,4.5 - 6.2,3.2 - 5.9
+19063,IA,Iowa,Emmet,6,5.2 - 6.9,6.0 - 7.2
+19065,IA,Iowa,Fayette,6.2,5.3 - 7.2,6.0 - 7.2
+19067,IA,Iowa,Floyd,6.3,5.4 - 7.3,6.0 - 7.2
+19069,IA,Iowa,Franklin,6.1,5.3 - 7.0,6.0 - 7.2
+19071,IA,Iowa,Fremont,6.2,5.4 - 7.0,6.0 - 7.2
+19073,IA,Iowa,Greene,6,5.2 - 6.8,6.0 - 7.2
+19075,IA,Iowa,Grundy,5.1,4.4 - 5.9,3.2 - 5.9
+19077,IA,Iowa,Guthrie,5.8,5.1 - 6.7,3.2 - 5.9
+19079,IA,Iowa,Hamilton,5.5,4.8 - 6.3,3.2 - 5.9
+19081,IA,Iowa,Hancock,5.6,4.8 - 6.6,3.2 - 5.9
+19083,IA,Iowa,Hardin,5.8,5.0 - 6.7,3.2 - 5.9
+19085,IA,Iowa,Harrison,6,5.1 - 6.9,6.0 - 7.2
+19087,IA,Iowa,Henry,5.9,5.2 - 6.7,3.2 - 5.9
+19089,IA,Iowa,Howard,6,5.2 - 6.8,6.0 - 7.2
+19091,IA,Iowa,Humboldt,6.1,5.2 - 7.0,6.0 - 7.2
+19093,IA,Iowa,Ida,5.7,5.0 - 6.6,3.2 - 5.9
+19095,IA,Iowa,Iowa,5.6,4.9 - 6.4,3.2 - 5.9
+19097,IA,Iowa,Jackson,6.2,5.4 - 7.0,6.0 - 7.2
+19099,IA,Iowa,Jasper,5.8,5.0 - 6.6,3.2 - 5.9
+19101,IA,Iowa,Jefferson,5.7,4.9 - 6.6,3.2 - 5.9
+19103,IA,Iowa,Johnson,4.9,4.1 - 5.8,3.2 - 5.9
+19105,IA,Iowa,Jones,6.1,5.2 - 6.9,6.0 - 7.2
+19107,IA,Iowa,Keokuk,6.2,5.4 - 7.0,6.0 - 7.2
+19109,IA,Iowa,Kossuth,5.9,5.1 - 6.7,3.2 - 5.9
+19111,IA,Iowa,Lee,6.4,5.6 - 7.3,6.0 - 7.2
+19113,IA,Iowa,Linn,5.2,4.4 - 6.0,3.2 - 5.9
+19115,IA,Iowa,Louisa,5.8,5.0 - 6.6,3.2 - 5.9
+19117,IA,Iowa,Lucas,6.4,5.6 - 7.2,6.0 - 7.2
+19119,IA,Iowa,Lyon,5.6,4.8 - 6.5,3.2 - 5.9
+19121,IA,Iowa,Madison,5.2,4.4 - 6.0,3.2 - 5.9
+19123,IA,Iowa,Mahaska,6.4,5.5 - 7.3,6.0 - 7.2
+19125,IA,Iowa,Marion,5.3,4.5 - 6.2,3.2 - 5.9
+19127,IA,Iowa,Marshall,5.8,5.0 - 6.7,3.2 - 5.9
+19129,IA,Iowa,Mills,5.5,4.7 - 6.4,3.2 - 5.9
+19131,IA,Iowa,Mitchell,6,5.2 - 6.9,6.0 - 7.2
+19133,IA,Iowa,Monona,6.4,5.6 - 7.2,6.0 - 7.2
+19135,IA,Iowa,Monroe,6.2,5.3 - 7.2,6.0 - 7.2
+19137,IA,Iowa,Montgomery,6.6,5.8 - 7.5,6.0 - 7.2
+19139,IA,Iowa,Muscatine,5.5,4.8 - 6.3,3.2 - 5.9
+19141,IA,Iowa,O'Brien,6,5.2 - 6.9,6.0 - 7.2
+19143,IA,Iowa,Osceola,6,5.1 - 6.9,6.0 - 7.2
+19145,IA,Iowa,Page,6,5.2 - 6.9,6.0 - 7.2
+19147,IA,Iowa,Palo Alto,5.4,4.6 - 6.2,3.2 - 5.9
+19149,IA,Iowa,Plymouth,5.4,4.6 - 6.2,3.2 - 5.9
+19151,IA,Iowa,Pocahontas,6.2,5.4 - 7.0,6.0 - 7.2
+19153,IA,Iowa,Polk,5.3,4.4 - 6.2,3.2 - 5.9
+19155,IA,Iowa,Pottawattamie,6,5.1 - 7.0,6.0 - 7.2
+19157,IA,Iowa,Poweshiek,5.7,4.9 - 6.5,3.2 - 5.9
+19159,IA,Iowa,Ringgold,6.1,5.2 - 7.0,6.0 - 7.2
+19161,IA,Iowa,Sac,5.7,4.9 - 6.5,3.2 - 5.9
+19163,IA,Iowa,Scott,5.4,4.6 - 6.2,3.2 - 5.9
+19165,IA,Iowa,Shelby,5.6,4.8 - 6.5,3.2 - 5.9
+19167,IA,Iowa,Sioux,5.1,4.3 - 5.9,3.2 - 5.9
+19169,IA,Iowa,Story,5.2,4.5 - 6.0,3.2 - 5.9
+19171,IA,Iowa,Tama,6.1,5.3 - 6.8,6.0 - 7.2
+19173,IA,Iowa,Taylor,6.4,5.6 - 7.2,6.0 - 7.2
+19175,IA,Iowa,Union,6.4,5.6 - 7.4,6.0 - 7.2
+19177,IA,Iowa,Van Buren,6.7,5.8 - 7.7,6.0 - 7.2
+19179,IA,Iowa,Wapello,6.5,5.6 - 7.3,6.0 - 7.2
+19181,IA,Iowa,Warren,4.9,4.2 - 5.7,3.2 - 5.9
+19183,IA,Iowa,Washington,5.7,4.9 - 6.6,3.2 - 5.9
+19185,IA,Iowa,Wayne,7.4,6.4 - 8.4,7.3 - 8.6
+19187,IA,Iowa,Webster,6.5,5.6 - 7.4,6.0 - 7.2
+19189,IA,Iowa,Winnebago,5.7,5.0 - 6.6,3.2 - 5.9
+19191,IA,Iowa,Winneshiek,5.1,4.3 - 5.9,3.2 - 5.9
+19193,IA,Iowa,Woodbury,5.8,5.0 - 6.6,3.2 - 5.9
+19195,IA,Iowa,Worth,5.6,4.9 - 6.5,3.2 - 5.9
+19197,IA,Iowa,Wright,5.9,5.2 - 6.7,3.2 - 5.9
+20001,KS,Kansas,Allen,7.1,6.2 - 8.1,6.0 - 7.2
+20003,KS,Kansas,Anderson,7.4,6.4 - 8.4,7.3 - 8.6
+20005,KS,Kansas,Atchison,6.6,5.8 - 7.5,6.0 - 7.2
+20007,KS,Kansas,Barber,7,6.1 - 8.0,6.0 - 7.2
+20009,KS,Kansas,Barton,6.7,5.9 - 7.6,6.0 - 7.2
+20011,KS,Kansas,Bourbon,7.6,6.6 - 8.8,7.3 - 8.6
+20013,KS,Kansas,Brown,6.7,6.0 - 7.6,6.0 - 7.2
+20015,KS,Kansas,Butler,5.8,4.9 - 6.6,3.2 - 5.9
+20017,KS,Kansas,Chase,6.3,5.4 - 7.2,6.0 - 7.2
+20019,KS,Kansas,Chautauqua,7.9,6.9 - 8.9,7.3 - 8.6
+20021,KS,Kansas,Cherokee,7.5,6.6 - 8.6,7.3 - 8.6
+20023,KS,Kansas,Cheyenne,6.3,5.4 - 7.3,6.0 - 7.2
+20025,KS,Kansas,Clark,5.9,5.1 - 6.8,3.2 - 5.9
+20027,KS,Kansas,Clay,6,5.2 - 7.0,6.0 - 7.2
+20029,KS,Kansas,Cloud,6.7,5.8 - 7.8,6.0 - 7.2
+20031,KS,Kansas,Coffey,6.2,5.3 - 7.1,6.0 - 7.2
+20033,KS,Kansas,Comanche,6,5.3 - 6.8,6.0 - 7.2
+20035,KS,Kansas,Cowley,6.5,5.7 - 7.3,6.0 - 7.2
+20037,KS,Kansas,Crawford,6.9,5.9 - 8.0,6.0 - 7.2
+20039,KS,Kansas,Decatur,6.4,5.5 - 7.2,6.0 - 7.2
+20041,KS,Kansas,Dickinson,6.5,5.6 - 7.5,6.0 - 7.2
+20043,KS,Kansas,Doniphan,6.8,5.9 - 7.8,6.0 - 7.2
+20045,KS,Kansas,Douglas,5.4,4.7 - 6.2,3.2 - 5.9
+20047,KS,Kansas,Edwards,6.3,5.5 - 7.2,6.0 - 7.2
+20049,KS,Kansas,Elk,7.8,6.8 - 8.8,7.3 - 8.6
+20051,KS,Kansas,Ellis,6.2,5.3 - 7.1,6.0 - 7.2
+20053,KS,Kansas,Ellsworth,6.1,5.2 - 6.9,6.0 - 7.2
+20055,KS,Kansas,Finney,5.8,5.1 - 6.5,3.2 - 5.9
+20057,KS,Kansas,Ford,6,5.3 - 6.7,6.0 - 7.2
+20059,KS,Kansas,Franklin,6.5,5.6 - 7.3,6.0 - 7.2
+20061,KS,Kansas,Geary,5.9,5.4 - 6.5,3.2 - 5.9
+20063,KS,Kansas,Gove,6.6,5.7 - 7.5,6.0 - 7.2
+20065,KS,Kansas,Graham,6.5,5.6 - 7.4,6.0 - 7.2
+20067,KS,Kansas,Grant,5.6,5.0 - 6.3,3.2 - 5.9
+20069,KS,Kansas,Gray,6,5.0 - 7.0,6.0 - 7.2
+20071,KS,Kansas,Greeley,5.5,4.7 - 6.3,3.2 - 5.9
+20073,KS,Kansas,Greenwood,6.8,6.0 - 7.8,6.0 - 7.2
+20075,KS,Kansas,Hamilton,6.2,5.3 - 7.0,6.0 - 7.2
+20077,KS,Kansas,Harper,7.2,6.3 - 8.2,6.0 - 7.2
+20079,KS,Kansas,Harvey,5.5,4.7 - 6.4,3.2 - 5.9
+20081,KS,Kansas,Haskell,6.6,5.7 - 7.5,6.0 - 7.2
+20083,KS,Kansas,Hodgeman,5.6,4.7 - 6.5,3.2 - 5.9
+20085,KS,Kansas,Jackson,6.3,5.6 - 7.1,6.0 - 7.2
+20087,KS,Kansas,Jefferson,5.8,5.1 - 6.7,3.2 - 5.9
+20089,KS,Kansas,Jewell,7.1,6.1 - 8.1,6.0 - 7.2
+20091,KS,Kansas,Johnson,4,3.3 - 4.7,3.2 - 5.9
+20093,KS,Kansas,Kearny,6.9,6.1 - 7.8,6.0 - 7.2
+20095,KS,Kansas,Kingman,5.7,4.9 - 6.5,3.2 - 5.9
+20097,KS,Kansas,Kiowa,6.3,5.3 - 7.3,6.0 - 7.2
+20099,KS,Kansas,Labette,7.4,6.5 - 8.4,7.3 - 8.6
+20101,KS,Kansas,Lane,6.2,5.4 - 7.0,6.0 - 7.2
+20103,KS,Kansas,Leavenworth,5.4,4.7 - 6.3,3.2 - 5.9
+20105,KS,Kansas,Lincoln,6.3,5.5 - 7.2,6.0 - 7.2
+20107,KS,Kansas,Linn,7.4,6.5 - 8.4,7.3 - 8.6
+20109,KS,Kansas,Logan,6.3,5.4 - 7.2,6.0 - 7.2
+20111,KS,Kansas,Lyon,6.1,5.3 - 7.0,6.0 - 7.2
+20113,KS,Kansas,McPherson,6,5.1 - 7.0,6.0 - 7.2
+20115,KS,Kansas,Marion,6,5.2 - 6.8,6.0 - 7.2
+20117,KS,Kansas,Marshall,6.5,5.6 - 7.5,6.0 - 7.2
+20119,KS,Kansas,Meade,6.2,5.3 - 7.2,6.0 - 7.2
+20121,KS,Kansas,Miami,5.2,4.5 - 6.0,3.2 - 5.9
+20123,KS,Kansas,Mitchell,6.4,5.5 - 7.4,6.0 - 7.2
+20125,KS,Kansas,Montgomery,7.3,6.5 - 8.3,7.3 - 8.6
+20127,KS,Kansas,Morris,6.3,5.4 - 7.1,6.0 - 7.2
+20129,KS,Kansas,Morton,6.3,5.4 - 7.1,6.0 - 7.2
+20131,KS,Kansas,Nemaha,5.9,5.0 - 6.8,3.2 - 5.9
+20133,KS,Kansas,Neosho,7.2,6.2 - 8.2,6.0 - 7.2
+20135,KS,Kansas,Ness,6.4,5.5 - 7.3,6.0 - 7.2
+20137,KS,Kansas,Norton,6.5,5.6 - 7.4,6.0 - 7.2
+20139,KS,Kansas,Osage,6.9,5.9 - 7.9,6.0 - 7.2
+20141,KS,Kansas,Osborne,6.4,5.4 - 7.3,6.0 - 7.2
+20143,KS,Kansas,Ottawa,6.1,5.4 - 7.0,6.0 - 7.2
+20145,KS,Kansas,Pawnee,6.1,5.3 - 7.0,6.0 - 7.2
+20147,KS,Kansas,Phillips,6.6,5.7 - 7.5,6.0 - 7.2
+20149,KS,Kansas,Pottawatomie,5.5,4.7 - 6.4,3.2 - 5.9
+20151,KS,Kansas,Pratt,6,5.2 - 7.0,6.0 - 7.2
+20153,KS,Kansas,Rawlins,6.2,5.5 - 7.1,6.0 - 7.2
+20155,KS,Kansas,Reno,6.5,5.7 - 7.5,6.0 - 7.2
+20157,KS,Kansas,Republic,6.1,5.3 - 7.0,6.0 - 7.2
+20159,KS,Kansas,Rice,6.2,5.4 - 7.1,6.0 - 7.2
+20161,KS,Kansas,Riley,6.1,5.3 - 6.9,6.0 - 7.2
+20163,KS,Kansas,Rooks,6.5,5.5 - 7.5,6.0 - 7.2
+20165,KS,Kansas,Rush,6.2,5.3 - 7.1,6.0 - 7.2
+20167,KS,Kansas,Russell,6.6,5.7 - 7.6,6.0 - 7.2
+20169,KS,Kansas,Saline,5.8,4.9 - 6.7,3.2 - 5.9
+20171,KS,Kansas,Scott,5.9,5.0 - 6.9,3.2 - 5.9
+20173,KS,Kansas,Sedgwick,5.8,5.0 - 6.6,3.2 - 5.9
+20175,KS,Kansas,Seward,6.5,5.8 - 7.2,6.0 - 7.2
+20177,KS,Kansas,Shawnee,5.8,5.0 - 6.6,3.2 - 5.9
+20179,KS,Kansas,Sheridan,5.9,5.2 - 6.7,3.2 - 5.9
+20181,KS,Kansas,Sherman,5.7,4.9 - 6.5,3.2 - 5.9
+20183,KS,Kansas,Smith,6.4,5.5 - 7.3,6.0 - 7.2
+20185,KS,Kansas,Stafford,6.4,5.6 - 7.4,6.0 - 7.2
+20187,KS,Kansas,Stanton,6,5.2 - 6.8,6.0 - 7.2
+20189,KS,Kansas,Stevens,6.6,5.9 - 7.4,6.0 - 7.2
+20191,KS,Kansas,Sumner,6.4,5.6 - 7.3,6.0 - 7.2
+20193,KS,Kansas,Thomas,6.4,5.6 - 7.3,6.0 - 7.2
+20195,KS,Kansas,Trego,6,5.1 - 6.9,6.0 - 7.2
+20197,KS,Kansas,Wabaunsee,5.5,4.9 - 6.2,3.2 - 5.9
+20199,KS,Kansas,Wallace,5.5,4.7 - 6.4,3.2 - 5.9
+20201,KS,Kansas,Washington,6.5,5.6 - 7.4,6.0 - 7.2
+20203,KS,Kansas,Wichita,5.1,4.4 - 5.7,3.2 - 5.9
+20205,KS,Kansas,Wilson,7.3,6.3 - 8.3,7.3 - 8.6
+20207,KS,Kansas,Woodson,7.7,6.7 - 8.8,7.3 - 8.6
+20209,KS,Kansas,Wyandotte,6.7,6.0 - 7.4,6.0 - 7.2
+21001,KY,Kentucky,Adair,11.2,9.7 - 12.7,8.7 - 15.5
+21003,KY,Kentucky,Allen,10.3,9.0 - 11.8,8.7 - 15.5
+21005,KY,Kentucky,Anderson,8.9,7.7 - 10.2,8.7 - 15.5
+21007,KY,Kentucky,Ballard,9.8,8.5 - 11.3,8.7 - 15.5
+21009,KY,Kentucky,Barren,11.1,9.6 - 12.5,8.7 - 15.5
+21011,KY,Kentucky,Bath,11.1,9.6 - 12.7,8.7 - 15.5
+21013,KY,Kentucky,Bell,15,13.1 - 16.8,8.7 - 15.5
+21015,KY,Kentucky,Boone,6.8,5.9 - 7.9,6.0 - 7.2
+21017,KY,Kentucky,Bourbon,9.5,8.2 - 10.8,8.7 - 15.5
+21019,KY,Kentucky,Boyd,9.7,8.4 - 11.1,8.7 - 15.5
+21021,KY,Kentucky,Boyle,9,7.8 - 10.2,8.7 - 15.5
+21023,KY,Kentucky,Bracken,10.2,8.8 - 11.5,8.7 - 15.5
+21025,KY,Kentucky,Breathitt,13.5,11.7 - 15.4,8.7 - 15.5
+21027,KY,Kentucky,Breckinridge,10.6,9.3 - 12.0,8.7 - 15.5
+21029,KY,Kentucky,Bullitt,8.6,7.4 - 9.7,7.3 - 8.6
+21031,KY,Kentucky,Butler,10.7,9.4 - 12.2,8.7 - 15.5
+21033,KY,Kentucky,Caldwell,10,8.6 - 11.2,8.7 - 15.5
+21035,KY,Kentucky,Calloway,9.2,7.9 - 10.5,8.7 - 15.5
+21037,KY,Kentucky,Campbell,7.6,6.3 - 9.0,7.3 - 8.6
+21039,KY,Kentucky,Carlisle,10.6,9.2 - 12.0,8.7 - 15.5
+21041,KY,Kentucky,Carroll,11,9.6 - 12.4,8.7 - 15.5
+21043,KY,Kentucky,Carter,11.8,10.3 - 13.4,8.7 - 15.5
+21045,KY,Kentucky,Casey,12.5,10.8 - 14.3,8.7 - 15.5
+21047,KY,Kentucky,Christian,9.8,8.8 - 10.9,8.7 - 15.5
+21049,KY,Kentucky,Clark,9,7.8 - 10.4,8.7 - 15.5
+21051,KY,Kentucky,Clay,15.1,13.2 - 16.9,8.7 - 15.5
+21053,KY,Kentucky,Clinton,13.1,11.5 - 14.9,8.7 - 15.5
+21055,KY,Kentucky,Crittenden,10.5,9.1 - 11.9,8.7 - 15.5
+21057,KY,Kentucky,Cumberland,11.2,9.8 - 12.7,8.7 - 15.5
+21059,KY,Kentucky,Daviess,8.7,7.5 - 9.9,8.7 - 15.5
+21061,KY,Kentucky,Edmonson,11.4,10.0 - 12.9,8.7 - 15.5
+21063,KY,Kentucky,Elliott,13.4,11.7 - 15.2,8.7 - 15.5
+21065,KY,Kentucky,Estill,12.8,11.2 - 14.5,8.7 - 15.5
+21067,KY,Kentucky,Fayette,7.3,6.2 - 8.5,7.3 - 8.6
+21069,KY,Kentucky,Fleming,11,9.6 - 12.6,8.7 - 15.5
+21071,KY,Kentucky,Floyd,13.3,11.6 - 15.1,8.7 - 15.5
+21073,KY,Kentucky,Franklin,8,6.9 - 9.1,7.3 - 8.6
+21075,KY,Kentucky,Fulton,12.1,10.8 - 13.4,8.7 - 15.5
+21077,KY,Kentucky,Gallatin,10.1,8.8 - 11.5,8.7 - 15.5
+21079,KY,Kentucky,Garrard,9.8,8.4 - 11.3,8.7 - 15.5
+21081,KY,Kentucky,Grant,10.1,8.9 - 11.3,8.7 - 15.5
+21083,KY,Kentucky,Graves,9.9,8.7 - 11.2,8.7 - 15.5
+21085,KY,Kentucky,Grayson,11.7,10.2 - 13.2,8.7 - 15.5
+21087,KY,Kentucky,Green,11.4,9.9 - 13.1,8.7 - 15.5
+21089,KY,Kentucky,Greenup,9.4,8.3 - 10.7,8.7 - 15.5
+21091,KY,Kentucky,Hancock,9.5,8.3 - 10.7,8.7 - 15.5
+21093,KY,Kentucky,Hardin,8.1,7.2 - 9.1,7.3 - 8.6
+21095,KY,Kentucky,Harlan,14.4,12.6 - 16.3,8.7 - 15.5
+21097,KY,Kentucky,Harrison,10.2,8.8 - 11.5,8.7 - 15.5
+21099,KY,Kentucky,Hart,11.8,10.2 - 13.3,8.7 - 15.5
+21101,KY,Kentucky,Henderson,9.5,8.3 - 10.7,8.7 - 15.5
+21103,KY,Kentucky,Henry,9.9,8.7 - 11.2,8.7 - 15.5
+21105,KY,Kentucky,Hickman,11.1,9.7 - 12.6,8.7 - 15.5
+21107,KY,Kentucky,Hopkins,9.7,8.5 - 10.9,8.7 - 15.5
+21109,KY,Kentucky,Jackson,12.7,10.9 - 14.5,8.7 - 15.5
+21111,KY,Kentucky,Jefferson,8,6.9 - 9.1,7.3 - 8.6
+21113,KY,Kentucky,Jessamine,8.6,7.3 - 10.0,7.3 - 8.6
+21115,KY,Kentucky,Johnson,11.2,9.5 - 12.8,8.7 - 15.5
+21117,KY,Kentucky,Kenton,7.6,6.4 - 8.9,7.3 - 8.6
+21119,KY,Kentucky,Knott,13.8,11.9 - 15.7,8.7 - 15.5
+21121,KY,Kentucky,Knox,13.5,11.6 - 15.5,8.7 - 15.5
+21123,KY,Kentucky,Larue,10.1,8.9 - 11.4,8.7 - 15.5
+21125,KY,Kentucky,Laurel,11.3,9.7 - 13.0,8.7 - 15.5
+21127,KY,Kentucky,Lawrence,12.7,11.1 - 14.4,8.7 - 15.5
+21129,KY,Kentucky,Lee,15.5,13.6 - 17.3,8.7 - 15.5
+21131,KY,Kentucky,Leslie,14.1,12.3 - 15.9,8.7 - 15.5
+21133,KY,Kentucky,Letcher,13.5,11.7 - 15.4,8.7 - 15.5
+21135,KY,Kentucky,Lewis,13.1,11.5 - 14.8,8.7 - 15.5
+21137,KY,Kentucky,Lincoln,11.3,9.8 - 12.9,8.7 - 15.5
+21139,KY,Kentucky,Livingston,10.2,8.9 - 11.5,8.7 - 15.5
+21141,KY,Kentucky,Logan,10,8.7 - 11.4,8.7 - 15.5
+21143,KY,Kentucky,Lyon,9.1,7.9 - 10.2,8.7 - 15.5
+21145,KY,Kentucky,McCracken,8.7,7.6 - 9.9,8.7 - 15.5
+21147,KY,Kentucky,McCreary,13.9,12.4 - 15.4,8.7 - 15.5
+21149,KY,Kentucky,McLean,9.6,8.4 - 10.9,8.7 - 15.5
+21151,KY,Kentucky,Madison,8.8,7.5 - 10.2,8.7 - 15.5
+21153,KY,Kentucky,Magoffin,13.6,11.9 - 15.4,8.7 - 15.5
+21155,KY,Kentucky,Marion,11.1,9.8 - 12.5,8.7 - 15.5
+21157,KY,Kentucky,Marshall,8.6,7.5 - 9.9,7.3 - 8.6
+21159,KY,Kentucky,Martin,11,9.6 - 12.5,8.7 - 15.5
+21161,KY,Kentucky,Mason,9.5,8.4 - 10.9,8.7 - 15.5
+21163,KY,Kentucky,Meade,8.6,7.5 - 9.8,7.3 - 8.6
+21165,KY,Kentucky,Menifee,11.9,10.4 - 13.4,8.7 - 15.5
+21167,KY,Kentucky,Mercer,9.2,8.0 - 10.5,8.7 - 15.5
+21169,KY,Kentucky,Metcalfe,12.1,10.5 - 13.9,8.7 - 15.5
+21171,KY,Kentucky,Monroe,11.5,9.9 - 13.1,8.7 - 15.5
+21173,KY,Kentucky,Montgomery,10.5,9.3 - 11.9,8.7 - 15.5
+21175,KY,Kentucky,Morgan,12,10.4 - 13.7,8.7 - 15.5
+21177,KY,Kentucky,Muhlenberg,10.5,9.2 - 11.9,8.7 - 15.5
+21179,KY,Kentucky,Nelson,8.2,7.1 - 9.3,7.3 - 8.6
+21181,KY,Kentucky,Nicholas,12.8,11.2 - 14.5,8.7 - 15.5
+21183,KY,Kentucky,Ohio,10.3,9.1 - 11.8,8.7 - 15.5
+21185,KY,Kentucky,Oldham,6.1,5.1 - 7.3,6.0 - 7.2
+21187,KY,Kentucky,Owen,10.6,9.4 - 12.0,8.7 - 15.5
+21189,KY,Kentucky,Owsley,12.8,10.9 - 14.6,8.7 - 15.5
+21191,KY,Kentucky,Pendleton,9.7,8.4 - 11.0,8.7 - 15.5
+21193,KY,Kentucky,Perry,12.1,10.5 - 13.9,8.7 - 15.5
+21195,KY,Kentucky,Pike,12.2,10.7 - 14.0,8.7 - 15.5
+21197,KY,Kentucky,Powell,11,9.4 - 12.5,8.7 - 15.5
+21199,KY,Kentucky,Pulaski,10.9,9.5 - 12.4,8.7 - 15.5
+21201,KY,Kentucky,Robertson,10.7,9.4 - 12.3,8.7 - 15.5
+21203,KY,Kentucky,Rockcastle,11.7,10.2 - 13.3,8.7 - 15.5
+21205,KY,Kentucky,Rowan,11.5,9.9 - 13.1,8.7 - 15.5
+21207,KY,Kentucky,Russell,10.9,9.5 - 12.5,8.7 - 15.5
+21209,KY,Kentucky,Scott,7.7,6.5 - 8.8,7.3 - 8.6
+21211,KY,Kentucky,Shelby,7.9,6.9 - 9.1,7.3 - 8.6
+21213,KY,Kentucky,Simpson,9.3,8.2 - 10.5,8.7 - 15.5
+21215,KY,Kentucky,Spencer,7.9,6.9 - 9.0,7.3 - 8.6
+21217,KY,Kentucky,Taylor,9.8,8.5 - 11.1,8.7 - 15.5
+21219,KY,Kentucky,Todd,10.4,9.1 - 11.7,8.7 - 15.5
+21221,KY,Kentucky,Trigg,8.7,7.6 - 9.8,8.7 - 15.5
+21223,KY,Kentucky,Trimble,10,8.8 - 11.2,8.7 - 15.5
+21225,KY,Kentucky,Union,10.3,9.1 - 11.5,8.7 - 15.5
+21227,KY,Kentucky,Warren,8.4,7.2 - 9.6,7.3 - 8.6
+21229,KY,Kentucky,Washington,9.2,7.9 - 10.5,8.7 - 15.5
+21231,KY,Kentucky,Wayne,12.2,10.7 - 13.7,8.7 - 15.5
+21233,KY,Kentucky,Webster,11.2,9.9 - 12.6,8.7 - 15.5
+21235,KY,Kentucky,Whitley,11.1,9.5 - 12.7,8.7 - 15.5
+21237,KY,Kentucky,Wolfe,14.5,12.7 - 16.3,8.7 - 15.5
+21239,KY,Kentucky,Woodford,7.4,6.3 - 8.6,7.3 - 8.6
+22001,LA,Louisiana,Acadia,9.4,8.3 - 10.5,8.7 - 15.5
+22003,LA,Louisiana,Allen,8.1,7.2 - 9.1,7.3 - 8.6
+22005,LA,Louisiana,Ascension,6.1,5.3 - 6.9,6.0 - 7.2
+22007,LA,Louisiana,Assumption,9.1,8.2 - 10.0,8.7 - 15.5
+22009,LA,Louisiana,Avoyelles,9.6,8.6 - 10.6,8.7 - 15.5
+22011,LA,Louisiana,Beauregard,7.9,6.9 - 8.9,7.3 - 8.6
+22013,LA,Louisiana,Bienville,9.7,8.8 - 10.7,8.7 - 15.5
+22015,LA,Louisiana,Bossier,7,6.1 - 7.9,6.0 - 7.2
+22017,LA,Louisiana,Caddo,7.7,6.9 - 8.6,7.3 - 8.6
+22019,LA,Louisiana,Calcasieu,7.5,6.6 - 8.4,7.3 - 8.6
+22021,LA,Louisiana,Caldwell,9.5,8.5 - 10.7,8.7 - 15.5
+22023,LA,Louisiana,Cameron,8.2,7.2 - 9.2,7.3 - 8.6
+22025,LA,Louisiana,Catahoula,9,8.0 - 10.1,8.7 - 15.5
+22027,LA,Louisiana,Claiborne,10.4,9.4 - 11.4,8.7 - 15.5
+22029,LA,Louisiana,Concordia,9.8,8.8 - 10.9,8.7 - 15.5
+22031,LA,Louisiana,De Soto,8.4,7.6 - 9.3,7.3 - 8.6
+22033,LA,Louisiana,East Baton Rouge,6.2,5.5 - 7.1,6.0 - 7.2
+22035,LA,Louisiana,East Carroll,12.3,11.2 - 13.4,8.7 - 15.5
+22037,LA,Louisiana,East Feliciana,8,7.2 - 8.8,7.3 - 8.6
+22039,LA,Louisiana,Evangeline,10.4,9.3 - 11.6,8.7 - 15.5
+22041,LA,Louisiana,Franklin,10.3,9.2 - 11.5,8.7 - 15.5
+22043,LA,Louisiana,Grant,8.5,7.6 - 9.4,7.3 - 8.6
+22045,LA,Louisiana,Iberia,8.5,7.6 - 9.4,7.3 - 8.6
+22047,LA,Louisiana,Iberville,8.2,7.3 - 9.0,7.3 - 8.6
+22049,LA,Louisiana,Jackson,9,8.0 - 10.1,8.7 - 15.5
+22051,LA,Louisiana,Jefferson,6.5,5.7 - 7.3,6.0 - 7.2
+22053,LA,Louisiana,Jefferson Davis,8.5,7.5 - 9.5,7.3 - 8.6
+22055,LA,Louisiana,Lafayette,6.8,5.8 - 7.8,6.0 - 7.2
+22057,LA,Louisiana,Lafourche,8.1,7.1 - 9.1,7.3 - 8.6
+22059,LA,Louisiana,LaSalle,9.1,8.0 - 10.3,8.7 - 15.5
+22061,LA,Louisiana,Lincoln,7.9,6.9 - 8.9,7.3 - 8.6
+22063,LA,Louisiana,Livingston,7.5,6.5 - 8.6,7.3 - 8.6
+22065,LA,Louisiana,Madison,10.8,9.8 - 11.9,8.7 - 15.5
+22067,LA,Louisiana,Morehouse,9.6,8.7 - 10.6,8.7 - 15.5
+22069,LA,Louisiana,Natchitoches,9,8.2 - 9.8,8.7 - 15.5
+22071,LA,Louisiana,Orleans,6.7,5.9 - 7.6,6.0 - 7.2
+22073,LA,Louisiana,Ouachita,8.4,7.4 - 9.4,7.3 - 8.6
+22075,LA,Louisiana,Plaquemines,7.3,6.4 - 8.1,7.3 - 8.6
+22077,LA,Louisiana,Pointe Coupee,8.4,7.4 - 9.4,7.3 - 8.6
+22079,LA,Louisiana,Rapides,7.8,6.9 - 8.7,7.3 - 8.6
+22081,LA,Louisiana,Red River,9.3,8.3 - 10.3,8.7 - 15.5
+22083,LA,Louisiana,Richland,10,9.0 - 11.1,8.7 - 15.5
+22085,LA,Louisiana,Sabine,8.4,7.6 - 9.3,7.3 - 8.6
+22087,LA,Louisiana,St. Bernard,8.2,7.3 - 9.1,7.3 - 8.6
+22089,LA,Louisiana,St. Charles,6.1,5.5 - 6.9,6.0 - 7.2
+22091,LA,Louisiana,St. Helena,8.2,7.3 - 9.2,7.3 - 8.6
+22093,LA,Louisiana,St. James,7.6,6.8 - 8.4,7.3 - 8.6
+22095,LA,Louisiana,St. John the Baptist,6.9,6.2 - 7.7,6.0 - 7.2
+22097,LA,Louisiana,St. Landry,9.3,8.3 - 10.3,8.7 - 15.5
+22099,LA,Louisiana,St. Martin,8.4,7.5 - 9.4,7.3 - 8.6
+22101,LA,Louisiana,St. Mary,8.3,7.5 - 9.1,7.3 - 8.6
+22103,LA,Louisiana,St. Tammany,6.1,5.2 - 7.0,6.0 - 7.2
+22105,LA,Louisiana,Tangipahoa,8.4,7.4 - 9.3,7.3 - 8.6
+22107,LA,Louisiana,Tensas,11.1,10.1 - 12.2,8.7 - 15.5
+22109,LA,Louisiana,Terrebonne,8.8,7.8 - 9.9,8.7 - 15.5
+22111,LA,Louisiana,Union,8,7.1 - 8.9,7.3 - 8.6
+22113,LA,Louisiana,Vermilion,8.4,7.3 - 9.6,7.3 - 8.6
+22115,LA,Louisiana,Vernon,7.7,6.8 - 8.6,7.3 - 8.6
+22117,LA,Louisiana,Washington,9.6,8.6 - 10.5,8.7 - 15.5
+22119,LA,Louisiana,Webster,10,8.9 - 11.0,8.7 - 15.5
+22121,LA,Louisiana,West Baton Rouge,6.7,5.9 - 7.4,6.0 - 7.2
+22123,LA,Louisiana,West Carroll,9.3,8.3 - 10.5,8.7 - 15.5
+22125,LA,Louisiana,West Feliciana,6.5,5.7 - 7.4,6.0 - 7.2
+22127,LA,Louisiana,Winn,8.6,7.7 - 9.6,7.3 - 8.6
+23001,ME,Maine,Androscoggin,7.9,6.8 - 9.0,7.3 - 8.6
+23003,ME,Maine,Aroostook,9.3,8.1 - 10.6,8.7 - 15.5
+23005,ME,Maine,Cumberland,6,5.0 - 7.0,6.0 - 7.2
+23007,ME,Maine,Franklin,7.8,6.7 - 9.0,7.3 - 8.6
+23009,ME,Maine,Hancock,7.1,6.0 - 8.2,6.0 - 7.2
+23011,ME,Maine,Kennebec,7.8,6.7 - 9.1,7.3 - 8.6
+23013,ME,Maine,Knox,7.1,6.0 - 8.2,6.0 - 7.2
+23015,ME,Maine,Lincoln,7.3,6.1 - 8.5,7.3 - 8.6
+23017,ME,Maine,Oxford,8.6,7.5 - 9.7,7.3 - 8.6
+23019,ME,Maine,Penobscot,8.2,6.9 - 9.4,7.3 - 8.6
+23021,ME,Maine,Piscataquis,9.4,8.1 - 10.7,8.7 - 15.5
+23023,ME,Maine,Sagadahoc,6.8,5.7 - 7.9,6.0 - 7.2
+23025,ME,Maine,Somerset,10.1,8.8 - 11.6,8.7 - 15.5
+23027,ME,Maine,Waldo,8,6.8 - 9.2,7.3 - 8.6
+23029,ME,Maine,Washington,9.4,8.1 - 10.7,8.7 - 15.5
+23031,ME,Maine,York,6.8,5.8 - 7.9,6.0 - 7.2
+24001,MD,Maryland,Allegany,7.9,6.9 - 9.0,7.3 - 8.6
+24003,MD,Maryland,Anne Arundel,5.2,4.5 - 6.0,3.2 - 5.9
+24005,MD,Maryland,Baltimore,5.6,4.9 - 6.4,3.2 - 5.9
+24009,MD,Maryland,Calvert,5.5,4.7 - 6.2,3.2 - 5.9
+24011,MD,Maryland,Caroline,7.8,6.9 - 8.8,7.3 - 8.6
+24013,MD,Maryland,Carroll,5.4,4.5 - 6.3,3.2 - 5.9
+24015,MD,Maryland,Cecil,6.8,5.8 - 7.7,6.0 - 7.2
+24017,MD,Maryland,Charles,5.6,5.0 - 6.2,3.2 - 5.9
+24019,MD,Maryland,Dorchester,7.4,6.6 - 8.3,7.3 - 8.6
+24021,MD,Maryland,Frederick,5.1,4.3 - 5.9,3.2 - 5.9
+24023,MD,Maryland,Garrett,7.6,6.5 - 8.7,7.3 - 8.6
+24025,MD,Maryland,Harford,5.6,4.8 - 6.4,3.2 - 5.9
+24027,MD,Maryland,Howard,3.8,3.3 - 4.4,3.2 - 5.9
+24029,MD,Maryland,Kent,6.5,5.5 - 7.5,6.0 - 7.2
+24031,MD,Maryland,Montgomery,3.9,3.4 - 4.5,3.2 - 5.9
+24033,MD,Maryland,Prince George's,4.7,4.1 - 5.3,3.2 - 5.9
+24035,MD,Maryland,Queen Anne's,5.5,4.7 - 6.4,3.2 - 5.9
+24037,MD,Maryland,St. Mary's,5.9,5.1 - 6.8,3.2 - 5.9
+24039,MD,Maryland,Somerset,8.9,7.9 - 9.8,8.7 - 15.5
+24041,MD,Maryland,Talbot,5.5,4.7 - 6.5,3.2 - 5.9
+24043,MD,Maryland,Washington,7.4,6.4 - 8.4,7.3 - 8.6
+24045,MD,Maryland,Wicomico,7,6.2 - 7.9,6.0 - 7.2
+24047,MD,Maryland,Worcester,6.1,5.3 - 7.1,6.0 - 7.2
+24510,MD,Maryland,Baltimore City,7,6.1 - 7.9,6.0 - 7.2
+25001,MA,Massachusetts,Barnstable,5.1,4.3 - 6.0,3.2 - 5.9
+25003,MA,Massachusetts,Berkshire,6,5.1 - 7.0,6.0 - 7.2
+25005,MA,Massachusetts,Bristol,6.5,5.5 - 7.5,6.0 - 7.2
+25007,MA,Massachusetts,Dukes,5.2,4.4 - 6.2,3.2 - 5.9
+25009,MA,Massachusetts,Essex,4.9,4.1 - 5.8,3.2 - 5.9
+25011,MA,Massachusetts,Franklin,5.8,4.9 - 6.8,3.2 - 5.9
+25013,MA,Massachusetts,Hampden,6.1,5.4 - 6.9,6.0 - 7.2
+25015,MA,Massachusetts,Hampshire,5.4,4.6 - 6.3,3.2 - 5.9
+25017,MA,Massachusetts,Middlesex,4.2,3.5 - 5.0,3.2 - 5.9
+25019,MA,Massachusetts,Nantucket,4.5,3.8 - 5.2,3.2 - 5.9
+25021,MA,Massachusetts,Norfolk,4.4,3.6 - 5.2,3.2 - 5.9
+25023,MA,Massachusetts,Plymouth,5.3,4.5 - 6.2,3.2 - 5.9
+25025,MA,Massachusetts,Suffolk,4.9,4.4 - 5.6,3.2 - 5.9
+25027,MA,Massachusetts,Worcester,5.3,4.5 - 6.2,3.2 - 5.9
+26001,MI,Michigan,Alcona,8.7,7.6 - 9.9,8.7 - 15.5
+26003,MI,Michigan,Alger,8.3,7.3 - 9.3,7.3 - 8.6
+26005,MI,Michigan,Allegan,7.3,6.3 - 8.3,7.3 - 8.6
+26007,MI,Michigan,Alpena,8.4,7.3 - 9.5,7.3 - 8.6
+26009,MI,Michigan,Antrim,7.4,6.3 - 8.6,7.3 - 8.6
+26011,MI,Michigan,Arenac,9.2,8.2 - 10.5,8.7 - 15.5
+26013,MI,Michigan,Baraga,8.9,7.9 - 10.0,8.7 - 15.5
+26015,MI,Michigan,Barry,7.1,6.2 - 8.1,6.0 - 7.2
+26017,MI,Michigan,Bay,8.1,7.0 - 9.3,7.3 - 8.6
+26019,MI,Michigan,Benzie,7.1,6.0 - 8.2,6.0 - 7.2
+26021,MI,Michigan,Berrien,7.8,6.7 - 8.9,7.3 - 8.6
+26023,MI,Michigan,Branch,8.7,7.6 - 9.9,8.7 - 15.5
+26025,MI,Michigan,Calhoun,8,7.1 - 9.0,7.3 - 8.6
+26027,MI,Michigan,Cass,7.8,6.8 - 9.0,7.3 - 8.6
+26029,MI,Michigan,Charlevoix,7.1,6.1 - 8.3,6.0 - 7.2
+26031,MI,Michigan,Cheboygan,8.5,7.5 - 9.7,7.3 - 8.6
+26033,MI,Michigan,Chippewa,8.9,7.9 - 10.0,8.7 - 15.5
+26035,MI,Michigan,Clare,10.2,8.9 - 11.5,8.7 - 15.5
+26037,MI,Michigan,Clinton,6.6,5.6 - 7.6,6.0 - 7.2
+26039,MI,Michigan,Crawford,8.5,7.3 - 9.8,7.3 - 8.6
+26041,MI,Michigan,Delta,8.1,7.0 - 9.2,7.3 - 8.6
+26043,MI,Michigan,Dickinson,7.4,6.4 - 8.5,7.3 - 8.6
+26045,MI,Michigan,Eaton,6.7,5.8 - 7.6,6.0 - 7.2
+26047,MI,Michigan,Emmet,7,5.9 - 8.1,6.0 - 7.2
+26049,MI,Michigan,Genesee,8.6,7.5 - 9.8,7.3 - 8.6
+26051,MI,Michigan,Gladwin,9.5,8.4 - 10.7,8.7 - 15.5
+26053,MI,Michigan,Gogebic,8.7,7.5 - 9.8,8.7 - 15.5
+26055,MI,Michigan,Grand Traverse,6.6,5.6 - 7.6,6.0 - 7.2
+26057,MI,Michigan,Gratiot,8.3,7.3 - 9.4,7.3 - 8.6
+26059,MI,Michigan,Hillsdale,8.9,7.8 - 10.1,8.7 - 15.5
+26061,MI,Michigan,Houghton,8.4,7.2 - 9.6,7.3 - 8.6
+26063,MI,Michigan,Huron,8.4,7.3 - 9.5,7.3 - 8.6
+26065,MI,Michigan,Ingham,7.1,6.2 - 8.1,6.0 - 7.2
+26067,MI,Michigan,Ionia,7.9,6.9 - 9.0,7.3 - 8.6
+26069,MI,Michigan,Iosco,9,7.9 - 10.2,8.7 - 15.5
+26071,MI,Michigan,Iron,8.7,7.6 - 10.0,8.7 - 15.5
+26073,MI,Michigan,Isabella,9,7.9 - 10.2,8.7 - 15.5
+26075,MI,Michigan,Jackson,8.1,7.0 - 9.1,7.3 - 8.6
+26077,MI,Michigan,Kalamazoo,6.8,5.8 - 7.7,6.0 - 7.2
+26079,MI,Michigan,Kalkaska,9.2,8.1 - 10.5,8.7 - 15.5
+26081,MI,Michigan,Kent,6.5,5.6 - 7.5,6.0 - 7.2
+26083,MI,Michigan,Keweenaw,7,6.0 - 8.0,6.0 - 7.2
+26085,MI,Michigan,Lake,10.6,9.3 - 11.9,8.7 - 15.5
+26087,MI,Michigan,Lapeer,7.8,6.8 - 8.8,7.3 - 8.6
+26089,MI,Michigan,Leelanau,5.8,4.9 - 6.7,3.2 - 5.9
+26091,MI,Michigan,Lenawee,7.6,6.6 - 8.5,7.3 - 8.6
+26093,MI,Michigan,Livingston,6,5.0 - 7.0,6.0 - 7.2
+26095,MI,Michigan,Luce,8.7,7.6 - 9.8,8.7 - 15.5
+26097,MI,Michigan,Mackinac,8.5,7.6 - 9.5,7.3 - 8.6
+26099,MI,Michigan,Macomb,7.5,6.5 - 8.5,7.3 - 8.6
+26101,MI,Michigan,Manistee,8,6.9 - 9.1,7.3 - 8.6
+26103,MI,Michigan,Marquette,7.4,6.4 - 8.6,7.3 - 8.6
+26105,MI,Michigan,Mason,8,6.9 - 9.2,7.3 - 8.6
+26107,MI,Michigan,Mecosta,8.8,7.7 - 9.9,8.7 - 15.5
+26109,MI,Michigan,Menominee,8.4,7.3 - 9.3,7.3 - 8.6
+26111,MI,Michigan,Midland,6.7,5.7 - 7.8,6.0 - 7.2
+26113,MI,Michigan,Missaukee,8.8,7.7 - 9.8,8.7 - 15.5
+26115,MI,Michigan,Monroe,7.6,6.6 - 8.7,7.3 - 8.6
+26117,MI,Michigan,Montcalm,8.5,7.5 - 9.6,7.3 - 8.6
+26119,MI,Michigan,Montmorency,9.2,8.1 - 10.5,8.7 - 15.5
+26121,MI,Michigan,Muskegon,8.2,7.3 - 9.1,7.3 - 8.6
+26123,MI,Michigan,Newaygo,8.7,7.6 - 9.8,8.7 - 15.5
+26125,MI,Michigan,Oakland,5.5,4.7 - 6.4,3.2 - 5.9
+26127,MI,Michigan,Oceana,8.3,7.3 - 9.5,7.3 - 8.6
+26129,MI,Michigan,Ogemaw,9.7,8.5 - 11.0,8.7 - 15.5
+26131,MI,Michigan,Ontonagon,8.6,7.5 - 9.7,7.3 - 8.6
+26133,MI,Michigan,Osceola,9.3,8.1 - 10.6,8.7 - 15.5
+26135,MI,Michigan,Oscoda,9.5,8.3 - 10.7,8.7 - 15.5
+26137,MI,Michigan,Otsego,8.1,7.0 - 9.3,7.3 - 8.6
+26139,MI,Michigan,Ottawa,6.3,5.4 - 7.3,6.0 - 7.2
+26141,MI,Michigan,Presque Isle,8.4,7.3 - 9.6,7.3 - 8.6
+26143,MI,Michigan,Roscommon,8.9,7.9 - 10.2,8.7 - 15.5
+26145,MI,Michigan,Saginaw,7.9,7.0 - 8.8,7.3 - 8.6
+26147,MI,Michigan,St. Clair,8,6.9 - 9.1,7.3 - 8.6
+26149,MI,Michigan,St. Joseph,8.5,7.4 - 9.6,7.3 - 8.6
+26151,MI,Michigan,Sanilac,8.8,7.7 - 10.0,8.7 - 15.5
+26153,MI,Michigan,Schoolcraft,9.1,8.1 - 10.2,8.7 - 15.5
+26155,MI,Michigan,Shiawassee,7.7,6.7 - 8.8,7.3 - 8.6
+26157,MI,Michigan,Tuscola,8.7,7.6 - 9.8,8.7 - 15.5
+26159,MI,Michigan,Van Buren,8.2,7.1 - 9.3,7.3 - 8.6
+26161,MI,Michigan,Washtenaw,5.6,4.7 - 6.5,3.2 - 5.9
+26163,MI,Michigan,Wayne,8.4,7.6 - 9.3,7.3 - 8.6
+26165,MI,Michigan,Wexford,8.9,7.7 - 10.1,8.7 - 15.5
+27001,MN,Minnesota,Aitkin,6.1,5.3 - 7.0,6.0 - 7.2
+27003,MN,Minnesota,Anoka,4.6,3.9 - 5.3,3.2 - 5.9
+27005,MN,Minnesota,Becker,5.7,4.9 - 6.6,3.2 - 5.9
+27007,MN,Minnesota,Beltrami,6.4,5.6 - 7.3,6.0 - 7.2
+27009,MN,Minnesota,Benton,5.4,4.6 - 6.1,3.2 - 5.9
+27011,MN,Minnesota,Big Stone,5.8,5.1 - 6.6,3.2 - 5.9
+27013,MN,Minnesota,Blue Earth,5.3,4.6 - 6.1,3.2 - 5.9
+27015,MN,Minnesota,Brown,5.1,4.3 - 5.9,3.2 - 5.9
+27017,MN,Minnesota,Carlton,5.6,5.0 - 6.3,3.2 - 5.9
+27019,MN,Minnesota,Carver,3.8,3.2 - 4.5,3.2 - 5.9
+27021,MN,Minnesota,Cass,6.1,5.3 - 7.0,6.0 - 7.2
+27023,MN,Minnesota,Chippewa,5.7,5.0 - 6.5,3.2 - 5.9
+27025,MN,Minnesota,Chisago,4.9,4.2 - 5.6,3.2 - 5.9
+27027,MN,Minnesota,Clay,5,4.3 - 5.8,3.2 - 5.9
+27029,MN,Minnesota,Clearwater,6.6,5.7 - 7.5,6.0 - 7.2
+27031,MN,Minnesota,Cook,4.9,4.2 - 5.6,3.2 - 5.9
+27033,MN,Minnesota,Cottonwood,5.8,5.1 - 6.6,3.2 - 5.9
+27035,MN,Minnesota,Crow Wing,5.6,4.8 - 6.4,3.2 - 5.9
+27037,MN,Minnesota,Dakota,3.9,3.3 - 4.6,3.2 - 5.9
+27039,MN,Minnesota,Dodge,4.7,4.1 - 5.4,3.2 - 5.9
+27041,MN,Minnesota,Douglas,5,4.3 - 5.8,3.2 - 5.9
+27043,MN,Minnesota,Faribault,5.7,4.9 - 6.5,3.2 - 5.9
+27045,MN,Minnesota,Fillmore,5.5,4.7 - 6.4,3.2 - 5.9
+27047,MN,Minnesota,Freeborn,5.8,5.0 - 6.6,3.2 - 5.9
+27049,MN,Minnesota,Goodhue,5,4.2 - 5.8,3.2 - 5.9
+27051,MN,Minnesota,Grant,5.7,5.0 - 6.5,3.2 - 5.9
+27053,MN,Minnesota,Hennepin,4,3.3 - 4.7,3.2 - 5.9
+27055,MN,Minnesota,Houston,5,4.3 - 5.7,3.2 - 5.9
+27057,MN,Minnesota,Hubbard,5.6,4.7 - 6.4,3.2 - 5.9
+27059,MN,Minnesota,Isanti,5.3,4.5 - 6.0,3.2 - 5.9
+27061,MN,Minnesota,Itasca,5.6,4.9 - 6.4,3.2 - 5.9
+27063,MN,Minnesota,Jackson,5.2,4.5 - 6.0,3.2 - 5.9
+27065,MN,Minnesota,Kanabec,6.1,5.3 - 6.9,6.0 - 7.2
+27067,MN,Minnesota,Kandiyohi,5.5,4.7 - 6.3,3.2 - 5.9
+27069,MN,Minnesota,Kittson,5.4,4.6 - 6.2,3.2 - 5.9
+27071,MN,Minnesota,Koochiching,6.1,5.3 - 6.9,6.0 - 7.2
+27073,MN,Minnesota,Lac qui Parle,5.4,4.7 - 6.2,3.2 - 5.9
+27075,MN,Minnesota,Lake,5.1,4.3 - 5.8,3.2 - 5.9
+27077,MN,Minnesota,Lake of the Woods,5.7,5.0 - 6.5,3.2 - 5.9
+27079,MN,Minnesota,Le Sueur,5,4.3 - 5.7,3.2 - 5.9
+27081,MN,Minnesota,Lincoln,5.6,4.9 - 6.5,3.2 - 5.9
+27083,MN,Minnesota,Lyon,5.6,4.8 - 6.5,3.2 - 5.9
+27085,MN,Minnesota,McLeod,5.3,4.6 - 6.1,3.2 - 5.9
+27087,MN,Minnesota,Mahnomen,8.5,7.6 - 9.3,7.3 - 8.6
+27089,MN,Minnesota,Marshall,5.3,4.6 - 6.2,3.2 - 5.9
+27091,MN,Minnesota,Martin,5.6,4.8 - 6.5,3.2 - 5.9
+27093,MN,Minnesota,Meeker,5.3,4.6 - 6.1,3.2 - 5.9
+27095,MN,Minnesota,Mille Lacs,6.2,5.4 - 7.0,6.0 - 7.2
+27097,MN,Minnesota,Morrison,5.7,5.0 - 6.6,3.2 - 5.9
+27099,MN,Minnesota,Mower,5.8,4.9 - 6.6,3.2 - 5.9
+27101,MN,Minnesota,Murray,5.3,4.6 - 6.1,3.2 - 5.9
+27103,MN,Minnesota,Nicollet,4.8,4.1 - 5.6,3.2 - 5.9
+27105,MN,Minnesota,Nobles,5.9,5.1 - 6.7,3.2 - 5.9
+27107,MN,Minnesota,Norman,5.6,4.9 - 6.4,3.2 - 5.9
+27109,MN,Minnesota,Olmsted,4.2,3.5 - 5.0,3.2 - 5.9
+27111,MN,Minnesota,Otter Tail,5.2,4.4 - 6.1,3.2 - 5.9
+27113,MN,Minnesota,Pennington,5.5,4.8 - 6.3,3.2 - 5.9
+27115,MN,Minnesota,Pine,6.2,5.5 - 7.0,6.0 - 7.2
+27117,MN,Minnesota,Pipestone,5.8,4.9 - 6.8,3.2 - 5.9
+27119,MN,Minnesota,Polk,5.4,4.6 - 6.2,3.2 - 5.9
+27121,MN,Minnesota,Pope,5.2,4.5 - 6.0,3.2 - 5.9
+27123,MN,Minnesota,Ramsey,4.8,4.1 - 5.6,3.2 - 5.9
+27125,MN,Minnesota,Red Lake,5.6,4.9 - 6.4,3.2 - 5.9
+27127,MN,Minnesota,Redwood,5.7,4.9 - 6.5,3.2 - 5.9
+27129,MN,Minnesota,Renville,5.6,4.9 - 6.3,3.2 - 5.9
+27131,MN,Minnesota,Rice,5.1,4.3 - 5.8,3.2 - 5.9
+27133,MN,Minnesota,Rock,5.2,4.5 - 6.0,3.2 - 5.9
+27135,MN,Minnesota,Roseau,5.3,4.5 - 6.0,3.2 - 5.9
+27137,MN,Minnesota,St. Louis,5.6,4.9 - 6.4,3.2 - 5.9
+27139,MN,Minnesota,Scott,4.1,3.4 - 4.8,3.2 - 5.9
+27141,MN,Minnesota,Sherburne,4.8,4.1 - 5.5,3.2 - 5.9
+27143,MN,Minnesota,Sibley,5.3,4.6 - 6.0,3.2 - 5.9
+27145,MN,Minnesota,Stearns,5.3,4.6 - 6.1,3.2 - 5.9
+27147,MN,Minnesota,Steele,5.2,4.4 - 6.0,3.2 - 5.9
+27149,MN,Minnesota,Stevens,5.1,4.3 - 5.8,3.2 - 5.9
+27151,MN,Minnesota,Swift,5.9,5.1 - 6.8,3.2 - 5.9
+27153,MN,Minnesota,Todd,6.1,5.3 - 6.9,6.0 - 7.2
+27155,MN,Minnesota,Traverse,5.4,4.8 - 6.2,3.2 - 5.9
+27157,MN,Minnesota,Wabasha,5.1,4.4 - 5.9,3.2 - 5.9
+27159,MN,Minnesota,Wadena,6.5,5.7 - 7.3,6.0 - 7.2
+27161,MN,Minnesota,Waseca,5.5,4.8 - 6.3,3.2 - 5.9
+27163,MN,Minnesota,Washington,3.8,3.1 - 4.4,3.2 - 5.9
+27165,MN,Minnesota,Watonwan,5.6,4.9 - 6.4,3.2 - 5.9
+27167,MN,Minnesota,Wilkin,5,4.3 - 5.7,3.2 - 5.9
+27169,MN,Minnesota,Winona,5.4,4.6 - 6.2,3.2 - 5.9
+27171,MN,Minnesota,Wright,4.5,3.8 - 5.2,3.2 - 5.9
+27173,MN,Minnesota,Yellow Medicine,5.7,5.0 - 6.5,3.2 - 5.9
+28001,MS,Mississippi,Adams,8.3,7.5 - 9.3,7.3 - 8.6
+28003,MS,Mississippi,Alcorn,8.5,7.4 - 9.6,7.3 - 8.6
+28005,MS,Mississippi,Amite,8.6,7.7 - 9.5,7.3 - 8.6
+28007,MS,Mississippi,Attala,8.8,7.9 - 9.8,8.7 - 15.5
+28009,MS,Mississippi,Benton,8.6,7.7 - 9.6,7.3 - 8.6
+28011,MS,Mississippi,Bolivar,9,7.8 - 10.1,8.7 - 15.5
+28013,MS,Mississippi,Calhoun,8.7,7.8 - 9.7,8.7 - 15.5
+28015,MS,Mississippi,Carroll,8.2,7.2 - 9.2,7.3 - 8.6
+28017,MS,Mississippi,Chickasaw,8.9,8.0 - 9.8,8.7 - 15.5
+28019,MS,Mississippi,Choctaw,8,7.0 - 9.0,7.3 - 8.6
+28021,MS,Mississippi,Claiborne,9.3,8.1 - 10.5,8.7 - 15.5
+28023,MS,Mississippi,Clarke,7.7,6.8 - 8.5,7.3 - 8.6
+28025,MS,Mississippi,Clay,8.5,7.5 - 9.5,7.3 - 8.6
+28027,MS,Mississippi,Coahoma,9.4,8.4 - 10.6,8.7 - 15.5
+28029,MS,Mississippi,Copiah,8,7.2 - 8.9,7.3 - 8.6
+28031,MS,Mississippi,Covington,8.8,7.8 - 9.8,8.7 - 15.5
+28033,MS,Mississippi,DeSoto,5.9,5.3 - 6.7,3.2 - 5.9
+28035,MS,Mississippi,Forrest,7.7,6.8 - 8.6,7.3 - 8.6
+28037,MS,Mississippi,Franklin,8.1,7.2 - 9.0,7.3 - 8.6
+28039,MS,Mississippi,George,8.1,7.1 - 9.3,7.3 - 8.6
+28041,MS,Mississippi,Greene,7.9,7.0 - 8.8,7.3 - 8.6
+28043,MS,Mississippi,Grenada,7.8,6.9 - 8.7,7.3 - 8.6
+28045,MS,Mississippi,Hancock,7.4,6.5 - 8.5,7.3 - 8.6
+28047,MS,Mississippi,Harrison,7.2,6.4 - 8.2,6.0 - 7.2
+28049,MS,Mississippi,Hinds,6.7,5.9 - 7.6,6.0 - 7.2
+28051,MS,Mississippi,Holmes,10.5,9.4 - 11.7,8.7 - 15.5
+28053,MS,Mississippi,Humphreys,10.6,9.4 - 11.8,8.7 - 15.5
+28055,MS,Mississippi,Issaquena,10.9,9.9 - 12.0,8.7 - 15.5
+28057,MS,Mississippi,Itawamba,8.1,7.1 - 9.2,7.3 - 8.6
+28059,MS,Mississippi,Jackson,6.6,5.8 - 7.5,6.0 - 7.2
+28061,MS,Mississippi,Jasper,8,7.3 - 8.9,7.3 - 8.6
+28063,MS,Mississippi,Jefferson,9.1,8.0 - 10.3,8.7 - 15.5
+28065,MS,Mississippi,Jefferson Davis,8.6,7.7 - 9.5,7.3 - 8.6
+28067,MS,Mississippi,Jones,7.7,6.8 - 8.6,7.3 - 8.6
+28069,MS,Mississippi,Kemper,9.4,8.5 - 10.4,8.7 - 15.5
+28071,MS,Mississippi,Lafayette,6.4,5.5 - 7.3,6.0 - 7.2
+28073,MS,Mississippi,Lamar,6.6,5.6 - 7.6,6.0 - 7.2
+28075,MS,Mississippi,Lauderdale,7.7,6.8 - 8.6,7.3 - 8.6
+28077,MS,Mississippi,Lawrence,8,7.1 - 9.0,7.3 - 8.6
+28079,MS,Mississippi,Leake,9,8.1 - 9.9,8.7 - 15.5
+28081,MS,Mississippi,Lee,6.9,6.0 - 7.9,6.0 - 7.2
+28083,MS,Mississippi,Leflore,9.4,8.4 - 10.4,8.7 - 15.5
+28085,MS,Mississippi,Lincoln,7.7,6.9 - 8.6,7.3 - 8.6
+28087,MS,Mississippi,Lowndes,7.3,6.5 - 8.1,7.3 - 8.6
+28089,MS,Mississippi,Madison,5,4.3 - 5.8,3.2 - 5.9
+28091,MS,Mississippi,Marion,9.1,8.2 - 10.1,8.7 - 15.5
+28093,MS,Mississippi,Marshall,7.8,7.0 - 8.6,7.3 - 8.6
+28095,MS,Mississippi,Monroe,7.9,7.0 - 9.0,7.3 - 8.6
+28097,MS,Mississippi,Montgomery,8.6,7.7 - 9.7,7.3 - 8.6
+28099,MS,Mississippi,Neshoba,9.5,8.6 - 10.6,8.7 - 15.5
+28101,MS,Mississippi,Newton,8.5,7.7 - 9.4,7.3 - 8.6
+28103,MS,Mississippi,Noxubee,9.3,8.2 - 10.3,8.7 - 15.5
+28105,MS,Mississippi,Oktibbeha,7.1,6.3 - 7.9,6.0 - 7.2
+28107,MS,Mississippi,Panola,8.5,7.6 - 9.4,7.3 - 8.6
+28109,MS,Mississippi,Pearl River,7.6,6.7 - 8.7,7.3 - 8.6
+28111,MS,Mississippi,Perry,9.1,8.1 - 10.2,8.7 - 15.5
+28113,MS,Mississippi,Pike,9.2,8.2 - 10.2,8.7 - 15.5
+28115,MS,Mississippi,Pontotoc,8.2,7.1 - 9.3,7.3 - 8.6
+28117,MS,Mississippi,Prentiss,9.6,8.4 - 10.9,8.7 - 15.5
+28119,MS,Mississippi,Quitman,10.6,9.5 - 11.8,8.7 - 15.5
+28121,MS,Mississippi,Rankin,6,5.2 - 7.0,6.0 - 7.2
+28123,MS,Mississippi,Scott,9.2,8.3 - 10.1,8.7 - 15.5
+28125,MS,Mississippi,Sharkey,9.7,8.6 - 10.9,8.7 - 15.5
+28127,MS,Mississippi,Simpson,8,7.1 - 8.9,7.3 - 8.6
+28129,MS,Mississippi,Smith,8.5,7.4 - 9.6,7.3 - 8.6
+28131,MS,Mississippi,Stone,8.5,7.4 - 9.6,7.3 - 8.6
+28133,MS,Mississippi,Sunflower,9.2,8.3 - 10.3,8.7 - 15.5
+28135,MS,Mississippi,Tallahatchie,9.8,8.9 - 10.7,8.7 - 15.5
+28137,MS,Mississippi,Tate,7.8,6.8 - 8.7,7.3 - 8.6
+28139,MS,Mississippi,Tippah,8.9,7.8 - 10.0,8.7 - 15.5
+28141,MS,Mississippi,Tishomingo,9.1,7.9 - 10.3,8.7 - 15.5
+28143,MS,Mississippi,Tunica,7.6,6.8 - 8.5,7.3 - 8.6
+28145,MS,Mississippi,Union,7.9,6.9 - 9.0,7.3 - 8.6
+28147,MS,Mississippi,Walthall,8.9,8.0 - 9.8,8.7 - 15.5
+28149,MS,Mississippi,Warren,7.4,6.6 - 8.2,7.3 - 8.6
+28151,MS,Mississippi,Washington,9.3,8.2 - 10.4,8.7 - 15.5
+28153,MS,Mississippi,Wayne,8.2,7.3 - 9.0,7.3 - 8.6
+28155,MS,Mississippi,Webster,8.1,7.1 - 9.2,7.3 - 8.6
+28157,MS,Mississippi,Wilkinson,10.3,9.3 - 11.5,8.7 - 15.5
+28159,MS,Mississippi,Winston,8.3,7.5 - 9.2,7.3 - 8.6
+28161,MS,Mississippi,Yalobusha,8,7.2 - 8.9,7.3 - 8.6
+28163,MS,Mississippi,Yazoo,9,8.1 - 9.9,8.7 - 15.5
+29001,MO,Missouri,Adair,8.6,7.5 - 9.9,7.3 - 8.6
+29003,MO,Missouri,Andrew,7.1,6.1 - 8.2,6.0 - 7.2
+29005,MO,Missouri,Atchison,7.7,6.5 - 8.9,7.3 - 8.6
+29007,MO,Missouri,Audrain,9.1,8.0 - 10.4,8.7 - 15.5
+29009,MO,Missouri,Barry,9.2,7.9 - 10.4,8.7 - 15.5
+29011,MO,Missouri,Barton,9.4,8.1 - 10.7,8.7 - 15.5
+29013,MO,Missouri,Bates,8.7,7.5 - 9.9,8.7 - 15.5
+29015,MO,Missouri,Benton,9.3,8.1 - 10.6,8.7 - 15.5
+29017,MO,Missouri,Bollinger,10,8.8 - 11.3,8.7 - 15.5
+29019,MO,Missouri,Boone,6.8,5.8 - 7.8,6.0 - 7.2
+29021,MO,Missouri,Buchanan,8.5,7.4 - 9.7,7.3 - 8.6
+29023,MO,Missouri,Butler,10.3,8.9 - 11.7,8.7 - 15.5
+29025,MO,Missouri,Caldwell,9.1,7.8 - 10.3,8.7 - 15.5
+29027,MO,Missouri,Callaway,7.7,6.6 - 8.9,7.3 - 8.6
+29029,MO,Missouri,Camden,7.9,6.8 - 9.0,7.3 - 8.6
+29031,MO,Missouri,Cape Girardeau,7.4,6.3 - 8.5,7.3 - 8.6
+29033,MO,Missouri,Carroll,8.7,7.5 - 10.0,8.7 - 15.5
+29035,MO,Missouri,Carter,9.1,7.9 - 10.3,8.7 - 15.5
+29037,MO,Missouri,Cass,7,6.1 - 8.1,6.0 - 7.2
+29039,MO,Missouri,Cedar,9.7,8.5 - 11.0,8.7 - 15.5
+29041,MO,Missouri,Chariton,8.4,7.3 - 9.5,7.3 - 8.6
+29043,MO,Missouri,Christian,7.1,6.0 - 8.2,6.0 - 7.2
+29045,MO,Missouri,Clark,9.2,8.0 - 10.6,8.7 - 15.5
+29047,MO,Missouri,Clay,6.2,5.3 - 7.1,6.0 - 7.2
+29049,MO,Missouri,Clinton,7.3,6.3 - 8.3,7.3 - 8.6
+29051,MO,Missouri,Cole,6.7,5.8 - 7.7,6.0 - 7.2
+29053,MO,Missouri,Cooper,7.8,6.7 - 8.9,7.3 - 8.6
+29055,MO,Missouri,Crawford,10.2,8.9 - 11.5,8.7 - 15.5
+29057,MO,Missouri,Dade,10,8.7 - 11.3,8.7 - 15.5
+29059,MO,Missouri,Dallas,9.6,8.3 - 10.8,8.7 - 15.5
+29061,MO,Missouri,Daviess,9.3,8.0 - 10.7,8.7 - 15.5
+29063,MO,Missouri,DeKalb,8.2,7.2 - 9.3,7.3 - 8.6
+29065,MO,Missouri,Dent,9.9,8.6 - 11.3,8.7 - 15.5
+29067,MO,Missouri,Douglas,10.9,9.4 - 12.2,8.7 - 15.5
+29069,MO,Missouri,Dunklin,10.8,9.4 - 12.2,8.7 - 15.5
+29071,MO,Missouri,Franklin,7.7,6.7 - 9.0,7.3 - 8.6
+29073,MO,Missouri,Gasconade,7.8,6.8 - 9.0,7.3 - 8.6
+29075,MO,Missouri,Gentry,8.5,7.3 - 9.7,7.3 - 8.6
+29077,MO,Missouri,Greene,7.8,6.8 - 9.0,7.3 - 8.6
+29079,MO,Missouri,Grundy,8.8,7.6 - 10.0,8.7 - 15.5
+29081,MO,Missouri,Harrison,9.4,8.2 - 10.7,8.7 - 15.5
+29083,MO,Missouri,Henry,9.2,8.0 - 10.5,8.7 - 15.5
+29085,MO,Missouri,Hickory,9.6,8.5 - 10.9,8.7 - 15.5
+29087,MO,Missouri,Holt,8.2,7.1 - 9.3,7.3 - 8.6
+29089,MO,Missouri,Howard,8.2,7.0 - 9.4,7.3 - 8.6
+29091,MO,Missouri,Howell,9.8,8.5 - 11.1,8.7 - 15.5
+29093,MO,Missouri,Iron,10.1,8.9 - 11.5,8.7 - 15.5
+29095,MO,Missouri,Jackson,7.3,6.4 - 8.2,7.3 - 8.6
+29097,MO,Missouri,Jasper,8.2,7.1 - 9.5,7.3 - 8.6
+29099,MO,Missouri,Jefferson,7.3,6.3 - 8.4,7.3 - 8.6
+29101,MO,Missouri,Johnson,7.4,6.5 - 8.4,7.3 - 8.6
+29103,MO,Missouri,Knox,9.4,8.1 - 10.9,8.7 - 15.5
+29105,MO,Missouri,Laclede,9.2,8.0 - 10.4,8.7 - 15.5
+29107,MO,Missouri,Lafayette,7.8,6.8 - 8.9,7.3 - 8.6
+29109,MO,Missouri,Lawrence,9.1,8.0 - 10.5,8.7 - 15.5
+29111,MO,Missouri,Lewis,9,7.9 - 10.2,8.7 - 15.5
+29113,MO,Missouri,Lincoln,7.9,6.9 - 9.1,7.3 - 8.6
+29115,MO,Missouri,Linn,8.4,7.2 - 9.6,7.3 - 8.6
+29117,MO,Missouri,Livingston,8.7,7.5 - 10.0,8.7 - 15.5
+29119,MO,Missouri,McDonald,10.3,9.1 - 11.4,8.7 - 15.5
+29121,MO,Missouri,Macon,8.2,7.1 - 9.2,7.3 - 8.6
+29123,MO,Missouri,Madison,8.9,7.7 - 10.1,8.7 - 15.5
+29125,MO,Missouri,Maries,8.9,7.8 - 10.0,8.7 - 15.5
+29127,MO,Missouri,Marion,8.7,7.6 - 9.9,8.7 - 15.5
+29129,MO,Missouri,Mercer,8.1,7.0 - 9.3,7.3 - 8.6
+29131,MO,Missouri,Miller,8.7,7.5 - 10.0,8.7 - 15.5
+29133,MO,Missouri,Mississippi,11.2,10.0 - 12.5,8.7 - 15.5
+29135,MO,Missouri,Moniteau,7.9,6.8 - 9.0,7.3 - 8.6
+29137,MO,Missouri,Monroe,8.7,7.6 - 9.8,8.7 - 15.5
+29139,MO,Missouri,Montgomery,9.5,8.3 - 10.7,8.7 - 15.5
+29141,MO,Missouri,Morgan,10.6,9.2 - 12.1,8.7 - 15.5
+29143,MO,Missouri,New Madrid,10.5,9.3 - 11.8,8.7 - 15.5
+29145,MO,Missouri,Newton,8.2,7.1 - 9.3,7.3 - 8.6
+29147,MO,Missouri,Nodaway,8.3,7.2 - 9.4,7.3 - 8.6
+29149,MO,Missouri,Oregon,10.9,9.6 - 12.4,8.7 - 15.5
+29151,MO,Missouri,Osage,7.4,6.3 - 8.5,7.3 - 8.6
+29153,MO,Missouri,Ozark,11.4,10.0 - 12.9,8.7 - 15.5
+29155,MO,Missouri,Pemiscot,11,9.8 - 12.2,8.7 - 15.5
+29157,MO,Missouri,Perry,8.1,7.0 - 9.2,7.3 - 8.6
+29159,MO,Missouri,Pettis,8.4,7.3 - 9.6,7.3 - 8.6
+29161,MO,Missouri,Phelps,8.4,7.2 - 9.6,7.3 - 8.6
+29163,MO,Missouri,Pike,8.9,7.8 - 10.2,8.7 - 15.5
+29165,MO,Missouri,Platte,5.5,4.7 - 6.4,3.2 - 5.9
+29167,MO,Missouri,Polk,8.9,7.7 - 10.1,8.7 - 15.5
+29169,MO,Missouri,Pulaski,7.2,6.4 - 8.1,6.0 - 7.2
+29171,MO,Missouri,Putnam,8.5,7.4 - 9.7,7.3 - 8.6
+29173,MO,Missouri,Ralls,8.4,7.3 - 9.5,7.3 - 8.6
+29175,MO,Missouri,Randolph,8.8,7.7 - 9.9,8.7 - 15.5
+29177,MO,Missouri,Ray,8,6.9 - 9.0,7.3 - 8.6
+29179,MO,Missouri,Reynolds,9.8,8.5 - 11.2,8.7 - 15.5
+29181,MO,Missouri,Ripley,11.6,10.1 - 13.0,8.7 - 15.5
+29183,MO,Missouri,St. Charles,5.7,4.8 - 6.7,3.2 - 5.9
+29185,MO,Missouri,St. Clair,9.5,8.4 - 10.8,8.7 - 15.5
+29186,MO,Missouri,Ste. Genevieve,8.1,7.0 - 9.3,7.3 - 8.6
+29187,MO,Missouri,St. Francois,9,7.8 - 10.2,8.7 - 15.5
+29189,MO,Missouri,St. Louis,5.9,5.1 - 6.7,3.2 - 5.9
+29195,MO,Missouri,Saline,8.3,7.2 - 9.4,7.3 - 8.6
+29197,MO,Missouri,Schuyler,9.2,7.9 - 10.5,8.7 - 15.5
+29199,MO,Missouri,Scotland,10.1,8.7 - 11.5,8.7 - 15.5
+29201,MO,Missouri,Scott,9.2,8.1 - 10.4,8.7 - 15.5
+29203,MO,Missouri,Shannon,11.1,9.5 - 12.5,8.7 - 15.5
+29205,MO,Missouri,Shelby,8.8,7.6 - 10.2,8.7 - 15.5
+29207,MO,Missouri,Stoddard,9.7,8.4 - 11.0,8.7 - 15.5
+29209,MO,Missouri,Stone,8.5,7.4 - 9.8,7.3 - 8.6
+29211,MO,Missouri,Sullivan,8.4,7.4 - 9.3,7.3 - 8.6
+29213,MO,Missouri,Taney,8.3,7.3 - 9.4,7.3 - 8.6
+29215,MO,Missouri,Texas,10.5,9.2 - 11.8,8.7 - 15.5
+29217,MO,Missouri,Vernon,9.2,8.1 - 10.5,8.7 - 15.5
+29219,MO,Missouri,Warren,8.2,7.1 - 9.3,7.3 - 8.6
+29221,MO,Missouri,Washington,10.4,9.1 - 11.6,8.7 - 15.5
+29223,MO,Missouri,Wayne,11.1,9.7 - 12.6,8.7 - 15.5
+29225,MO,Missouri,Webster,9.4,8.1 - 10.7,8.7 - 15.5
+29227,MO,Missouri,Worth,8.1,7.1 - 9.4,7.3 - 8.6
+29229,MO,Missouri,Wright,11.4,10.1 - 13.0,8.7 - 15.5
+29510,MO,Missouri,St. Louis City,7.4,6.5 - 8.3,7.3 - 8.6
+30001,MT,Montana,Beaverhead,5.8,5.0 - 6.8,3.2 - 5.9
+30003,MT,Montana,Big Horn,8.9,8.1 - 9.8,8.7 - 15.5
+30005,MT,Montana,Blaine,8.7,7.9 - 9.7,8.7 - 15.5
+30007,MT,Montana,Broadwater,6,5.1 - 7.0,6.0 - 7.2
+30009,MT,Montana,Carbon,5.5,4.7 - 6.5,3.2 - 5.9
+30011,MT,Montana,Carter,6.3,5.5 - 7.2,6.0 - 7.2
+30013,MT,Montana,Cascade,6.5,5.6 - 7.4,6.0 - 7.2
+30015,MT,Montana,Chouteau,6.9,5.9 - 7.8,6.0 - 7.2
+30017,MT,Montana,Custer,6.1,5.2 - 7.1,6.0 - 7.2
+30019,MT,Montana,Daniels,5.6,4.9 - 6.4,3.2 - 5.9
+30021,MT,Montana,Dawson,5.9,5.1 - 6.8,3.2 - 5.9
+30023,MT,Montana,Deer Lodge,7.6,6.6 - 8.6,7.3 - 8.6
+30025,MT,Montana,Fallon,5.7,4.9 - 6.5,3.2 - 5.9
+30027,MT,Montana,Fergus,6.3,5.4 - 7.3,6.0 - 7.2
+30029,MT,Montana,Flathead,5.8,5.0 - 6.8,3.2 - 5.9
+30031,MT,Montana,Gallatin,4.8,4.1 - 5.7,3.2 - 5.9
+30033,MT,Montana,Garfield,6.5,5.8 - 7.3,6.0 - 7.2
+30035,MT,Montana,Glacier,9.8,8.8 - 10.8,8.7 - 15.5
+30037,MT,Montana,Golden Valley,6.6,5.7 - 7.6,6.0 - 7.2
+30039,MT,Montana,Granite,5.9,5.0 - 6.9,3.2 - 5.9
+30041,MT,Montana,Hill,7.2,6.4 - 8.1,6.0 - 7.2
+30043,MT,Montana,Jefferson,5.3,4.5 - 6.2,3.2 - 5.9
+30045,MT,Montana,Judith Basin,5.9,5.0 - 6.7,3.2 - 5.9
+30047,MT,Montana,Lake,7.1,6.2 - 8.0,6.0 - 7.2
+30049,MT,Montana,Lewis and Clark,5.2,4.4 - 6.1,3.2 - 5.9
+30051,MT,Montana,Liberty,8.6,7.3 - 10.0,7.3 - 8.6
+30053,MT,Montana,Lincoln,7.3,6.3 - 8.3,7.3 - 8.6
+30055,MT,Montana,McCone,6.1,5.3 - 6.9,6.0 - 7.2
+30057,MT,Montana,Madison,5.3,4.4 - 6.0,3.2 - 5.9
+30059,MT,Montana,Meagher,6.3,5.3 - 7.2,6.0 - 7.2
+30061,MT,Montana,Mineral,7.6,6.6 - 8.6,7.3 - 8.6
+30063,MT,Montana,Missoula,5.4,4.6 - 6.3,3.2 - 5.9
+30065,MT,Montana,Musselshell,7,6.1 - 7.9,6.0 - 7.2
+30067,MT,Montana,Park,5.7,4.8 - 6.6,3.2 - 5.9
+30069,MT,Montana,Petroleum,5.7,4.8 - 6.6,3.2 - 5.9
+30071,MT,Montana,Phillips,6.9,6.0 - 7.7,6.0 - 7.2
+30073,MT,Montana,Pondera,6.8,5.9 - 7.6,6.0 - 7.2
+30075,MT,Montana,Powder River,6.2,5.3 - 7.2,6.0 - 7.2
+30077,MT,Montana,Powell,6.6,5.6 - 7.5,6.0 - 7.2
+30079,MT,Montana,Prairie,6.8,5.9 - 7.9,6.0 - 7.2
+30081,MT,Montana,Ravalli,6.2,5.3 - 7.2,6.0 - 7.2
+30083,MT,Montana,Richland,5.5,4.7 - 6.2,3.2 - 5.9
+30085,MT,Montana,Roosevelt,9.5,8.6 - 10.5,8.7 - 15.5
+30087,MT,Montana,Rosebud,7.3,6.5 - 8.1,7.3 - 8.6
+30089,MT,Montana,Sanders,7.8,6.8 - 8.9,7.3 - 8.6
+30091,MT,Montana,Sheridan,5.9,5.2 - 6.8,3.2 - 5.9
+30093,MT,Montana,Silver Bow,6.7,5.8 - 7.7,6.0 - 7.2
+30095,MT,Montana,Stillwater,5.5,4.8 - 6.3,3.2 - 5.9
+30097,MT,Montana,Sweet Grass,5.6,4.9 - 6.5,3.2 - 5.9
+30099,MT,Montana,Teton,6.4,5.5 - 7.4,6.0 - 7.2
+30101,MT,Montana,Toole,6.9,6.0 - 7.8,6.0 - 7.2
+30103,MT,Montana,Treasure,6.6,5.7 - 7.6,6.0 - 7.2
+30105,MT,Montana,Valley,6.5,5.8 - 7.4,6.0 - 7.2
+30107,MT,Montana,Wheatland,7.7,6.6 - 9.0,7.3 - 8.6
+30109,MT,Montana,Wibaux,6.2,5.3 - 7.4,6.0 - 7.2
+30111,MT,Montana,Yellowstone,5.5,4.7 - 6.4,3.2 - 5.9
+31001,NE,Nebraska,Adams,5.6,4.9 - 6.5,3.2 - 5.9
+31003,NE,Nebraska,Antelope,5.8,5.0 - 6.6,3.2 - 5.9
+31005,NE,Nebraska,Arthur,6.3,5.3 - 7.3,6.0 - 7.2
+31007,NE,Nebraska,Banner,5.1,4.4 - 5.8,3.2 - 5.9
+31009,NE,Nebraska,Blaine,5.4,4.6 - 6.3,3.2 - 5.9
+31011,NE,Nebraska,Boone,5.6,4.9 - 6.4,3.2 - 5.9
+31013,NE,Nebraska,Box Butte,5.8,5.0 - 6.6,3.2 - 5.9
+31015,NE,Nebraska,Boyd,5.5,4.9 - 6.3,3.2 - 5.9
+31017,NE,Nebraska,Brown,6.3,5.5 - 7.1,6.0 - 7.2
+31019,NE,Nebraska,Buffalo,5.3,4.6 - 6.2,3.2 - 5.9
+31021,NE,Nebraska,Burt,6,5.2 - 6.9,6.0 - 7.2
+31023,NE,Nebraska,Butler,5.2,4.5 - 5.9,3.2 - 5.9
+31025,NE,Nebraska,Cass,5.1,4.4 - 5.8,3.2 - 5.9
+31027,NE,Nebraska,Cedar,5.3,4.5 - 6.1,3.2 - 5.9
+31029,NE,Nebraska,Chase,5.3,4.5 - 6.1,3.2 - 5.9
+31031,NE,Nebraska,Cherry,5.7,4.9 - 6.5,3.2 - 5.9
+31033,NE,Nebraska,Cheyenne,5.2,4.5 - 6.0,3.2 - 5.9
+31035,NE,Nebraska,Clay,5.8,5.1 - 6.7,3.2 - 5.9
+31037,NE,Nebraska,Colfax,5.9,5.1 - 6.7,3.2 - 5.9
+31039,NE,Nebraska,Cuming,5.6,4.7 - 6.4,3.2 - 5.9
+31041,NE,Nebraska,Custer,5.6,4.8 - 6.5,3.2 - 5.9
+31043,NE,Nebraska,Dakota,5.7,5.1 - 6.4,3.2 - 5.9
+31045,NE,Nebraska,Dawes,5.1,4.4 - 5.8,3.2 - 5.9
+31047,NE,Nebraska,Dawson,5.6,4.9 - 6.3,3.2 - 5.9
+31049,NE,Nebraska,Deuel,5.7,5.0 - 6.6,3.2 - 5.9
+31051,NE,Nebraska,Dixon,5.3,4.6 - 6.1,3.2 - 5.9
+31053,NE,Nebraska,Dodge,6,5.2 - 6.8,6.0 - 7.2
+31055,NE,Nebraska,Douglas,5.1,4.3 - 5.9,3.2 - 5.9
+31057,NE,Nebraska,Dundy,6.7,5.6 - 7.8,6.0 - 7.2
+31059,NE,Nebraska,Fillmore,5.5,4.7 - 6.3,3.2 - 5.9
+31061,NE,Nebraska,Franklin,6.2,5.4 - 7.0,6.0 - 7.2
+31063,NE,Nebraska,Frontier,5.4,4.7 - 6.2,3.2 - 5.9
+31065,NE,Nebraska,Furnas,6.5,5.6 - 7.4,6.0 - 7.2
+31067,NE,Nebraska,Gage,5.9,5.1 - 6.9,3.2 - 5.9
+31069,NE,Nebraska,Garden,5.4,4.7 - 6.2,3.2 - 5.9
+31071,NE,Nebraska,Garfield,5.2,4.5 - 6.0,3.2 - 5.9
+31073,NE,Nebraska,Gosper,4.8,4.1 - 5.6,3.2 - 5.9
+31075,NE,Nebraska,Grant,5.9,5.1 - 6.7,3.2 - 5.9
+31077,NE,Nebraska,Greeley,5.6,4.8 - 6.4,3.2 - 5.9
+31079,NE,Nebraska,Hall,5.5,4.7 - 6.2,3.2 - 5.9
+31081,NE,Nebraska,Hamilton,4.8,4.2 - 5.6,3.2 - 5.9
+31083,NE,Nebraska,Harlan,5.5,4.6 - 6.2,3.2 - 5.9
+31085,NE,Nebraska,Hayes,6,5.2 - 6.9,6.0 - 7.2
+31087,NE,Nebraska,Hitchcock,5.9,5.2 - 6.8,3.2 - 5.9
+31089,NE,Nebraska,Holt,5.3,4.6 - 6.0,3.2 - 5.9
+31091,NE,Nebraska,Hooker,5.5,4.6 - 6.4,3.2 - 5.9
+31093,NE,Nebraska,Howard,5.5,4.8 - 6.3,3.2 - 5.9
+31095,NE,Nebraska,Jefferson,6.1,5.3 - 7.0,6.0 - 7.2
+31097,NE,Nebraska,Johnson,5.7,5.0 - 6.5,3.2 - 5.9
+31099,NE,Nebraska,Kearney,5.2,4.5 - 6.0,3.2 - 5.9
+31101,NE,Nebraska,Keith,5.6,4.9 - 6.4,3.2 - 5.9
+31103,NE,Nebraska,Keya Paha,6,5.1 - 7.0,6.0 - 7.2
+31105,NE,Nebraska,Kimball,6.2,5.4 - 7.0,6.0 - 7.2
+31107,NE,Nebraska,Knox,5.7,5.0 - 6.5,3.2 - 5.9
+31109,NE,Nebraska,Lancaster,4.9,4.2 - 5.8,3.2 - 5.9
+31111,NE,Nebraska,Lincoln,5.5,4.7 - 6.2,3.2 - 5.9
+31113,NE,Nebraska,Logan,5.9,5.1 - 6.7,3.2 - 5.9
+31115,NE,Nebraska,Loup,5.4,4.7 - 6.0,3.2 - 5.9
+31117,NE,Nebraska,McPherson,6.3,5.4 - 7.3,6.0 - 7.2
+31119,NE,Nebraska,Madison,5.5,4.8 - 6.3,3.2 - 5.9
+31121,NE,Nebraska,Merrick,5.8,5.0 - 6.5,3.2 - 5.9
+31123,NE,Nebraska,Morrill,5.5,4.7 - 6.3,3.2 - 5.9
+31125,NE,Nebraska,Nance,5.8,5.1 - 6.5,3.2 - 5.9
+31127,NE,Nebraska,Nemaha,5.5,4.7 - 6.3,3.2 - 5.9
+31129,NE,Nebraska,Nuckolls,6.2,5.4 - 7.1,6.0 - 7.2
+31131,NE,Nebraska,Otoe,5.3,4.6 - 6.1,3.2 - 5.9
+31133,NE,Nebraska,Pawnee,7.1,6.1 - 8.2,6.0 - 7.2
+31135,NE,Nebraska,Perkins,5.1,4.3 - 6.1,3.2 - 5.9
+31137,NE,Nebraska,Phelps,5.3,4.6 - 6.1,3.2 - 5.9
+31139,NE,Nebraska,Pierce,5.2,4.4 - 5.9,3.2 - 5.9
+31141,NE,Nebraska,Platte,5,4.2 - 5.7,3.2 - 5.9
+31143,NE,Nebraska,Polk,5.5,4.7 - 6.3,3.2 - 5.9
+31145,NE,Nebraska,Red Willow,5.9,5.1 - 6.7,3.2 - 5.9
+31147,NE,Nebraska,Richardson,6.2,5.4 - 7.1,6.0 - 7.2
+31149,NE,Nebraska,Rock,5.1,4.4 - 5.7,3.2 - 5.9
+31151,NE,Nebraska,Saline,6.3,5.5 - 7.2,6.0 - 7.2
+31153,NE,Nebraska,Sarpy,4.2,3.6 - 4.9,3.2 - 5.9
+31155,NE,Nebraska,Saunders,5.2,4.4 - 6.0,3.2 - 5.9
+31157,NE,Nebraska,Scotts Bluff,5.6,4.9 - 6.5,3.2 - 5.9
+31159,NE,Nebraska,Seward,5.2,4.4 - 6.1,3.2 - 5.9
+31161,NE,Nebraska,Sheridan,6.5,5.6 - 7.4,6.0 - 7.2
+31163,NE,Nebraska,Sherman,5.9,5.1 - 6.8,3.2 - 5.9
+31165,NE,Nebraska,Sioux,5.4,4.5 - 6.4,3.2 - 5.9
+31167,NE,Nebraska,Stanton,5.2,4.5 - 5.9,3.2 - 5.9
+31169,NE,Nebraska,Thayer,5.6,4.9 - 6.5,3.2 - 5.9
+31171,NE,Nebraska,Thomas,4.8,4.1 - 5.7,3.2 - 5.9
+31173,NE,Nebraska,Thurston,8.4,7.6 - 9.3,7.3 - 8.6
+31175,NE,Nebraska,Valley,5.5,4.7 - 6.4,3.2 - 5.9
+31177,NE,Nebraska,Washington,5,4.2 - 5.7,3.2 - 5.9
+31179,NE,Nebraska,Wayne,5.3,4.5 - 6.0,3.2 - 5.9
+31181,NE,Nebraska,Webster,5.7,4.9 - 6.5,3.2 - 5.9
+31183,NE,Nebraska,Wheeler,6.5,5.7 - 7.3,6.0 - 7.2
+31185,NE,Nebraska,York,5.2,4.4 - 6.0,3.2 - 5.9
+32001,NV,Nevada,Churchill,7.1,6.3 - 7.9,6.0 - 7.2
+32003,NV,Nevada,Clark,6.4,5.8 - 7.1,6.0 - 7.2
+32005,NV,Nevada,Douglas,5.8,5.0 - 6.6,3.2 - 5.9
+32007,NV,Nevada,Elko,6.5,5.8 - 7.2,6.0 - 7.2
+32009,NV,Nevada,Esmeralda,8,7.2 - 8.9,7.3 - 8.6
+32011,NV,Nevada,Eureka,6.8,6.1 - 7.5,6.0 - 7.2
+32013,NV,Nevada,Humboldt,6.9,6.1 - 7.8,6.0 - 7.2
+32015,NV,Nevada,Lander,7.2,6.5 - 8.0,6.0 - 7.2
+32017,NV,Nevada,Lincoln,6.6,5.7 - 7.5,6.0 - 7.2
+32019,NV,Nevada,Lyon,7.3,6.5 - 8.1,7.3 - 8.6
+32021,NV,Nevada,Mineral,8.5,7.8 - 9.3,7.3 - 8.6
+32023,NV,Nevada,Nye,8.2,7.3 - 9.1,7.3 - 8.6
+32027,NV,Nevada,Pershing,6.9,6.2 - 7.9,6.0 - 7.2
+32029,NV,Nevada,Storey,5.9,5.1 - 6.8,3.2 - 5.9
+32031,NV,Nevada,Washoe,5.9,5.2 - 6.7,3.2 - 5.9
+32033,NV,Nevada,White Pine,7.3,6.5 - 8.1,7.3 - 8.6
+32510,NV,Nevada,Carson City,6.6,5.8 - 7.5,6.0 - 7.2
+33001,NH,New Hampshire,Belknap,5.8,4.8 - 6.8,3.2 - 5.9
+33003,NH,New Hampshire,Carroll,6,5.1 - 7.0,6.0 - 7.2
+33005,NH,New Hampshire,Cheshire,6.1,5.2 - 7.1,6.0 - 7.2
+33007,NH,New Hampshire,Coos,7.4,6.4 - 8.4,7.3 - 8.6
+33009,NH,New Hampshire,Grafton,5.9,5.0 - 7.0,3.2 - 5.9
+33011,NH,New Hampshire,Hillsborough,5.5,4.6 - 6.4,3.2 - 5.9
+33013,NH,New Hampshire,Merrimack,5.7,4.8 - 6.6,3.2 - 5.9
+33015,NH,New Hampshire,Rockingham,4.9,4.1 - 5.8,3.2 - 5.9
+33017,NH,New Hampshire,Strafford,5.9,5.0 - 6.8,3.2 - 5.9
+33019,NH,New Hampshire,Sullivan,6.7,5.7 - 7.8,6.0 - 7.2
+34001,NJ,New Jersey,Atlantic,,,
+34003,NJ,New Jersey,Bergen,,,
+34005,NJ,New Jersey,Burlingt,,,
+34007,NJ,New Jersey,Camden,,,
+34009,NJ,New Jersey,Cape May,,,
+34011,NJ,New Jersey,Cumberla,,,
+34013,NJ,New Jersey,Essex,,,
+34015,NJ,New Jersey,Gloucest,,,
+34017,NJ,New Jersey,Hudson,,,
+34019,NJ,New Jersey,Hunterdo,,,
+34021,NJ,New Jersey,Mercer,,,
+34023,NJ,New Jersey,Middlese,,,
+34025,NJ,New Jersey,Monmouth,,,
+34027,NJ,New Jersey,Morris,,,
+34029,NJ,New Jersey,Ocean,,,
+34031,NJ,New Jersey,Passaic,,,
+34033,NJ,New Jersey,Salem,,,
+34035,NJ,New Jersey,Somerset,,,
+34037,NJ,New Jersey,Sussex,,,
+34039,NJ,New Jersey,Union,,,
+34041,NJ,New Jersey,Warren,,,
+35001,NM,New Mexico,Bernalillo,4.6,4.1 - 5.2,3.2 - 5.9
+35003,NM,New Mexico,Catron,6.7,6.1 - 7.3,6.0 - 7.2
+35005,NM,New Mexico,Chaves,5.8,5.1 - 6.5,3.2 - 5.9
+35006,NM,New Mexico,Cibola,7.1,6.5 - 7.7,6.0 - 7.2
+35007,NM,New Mexico,Colfax,5.4,4.9 - 6.0,3.2 - 5.9
+35009,NM,New Mexico,Curry,6.2,5.5 - 6.9,6.0 - 7.2
+35011,NM,New Mexico,De Baca,6.2,5.5 - 6.9,6.0 - 7.2
+35013,NM,New Mexico,DoÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±a Ana,5.4,4.7 - 6.1,3.2 - 5.9
+35015,NM,New Mexico,Eddy,5.2,4.6 - 5.7,3.2 - 5.9
+35017,NM,New Mexico,Grant,5.1,4.5 - 5.8,3.2 - 5.9
+35019,NM,New Mexico,Guadalupe,4.5,4.0 - 5.0,3.2 - 5.9
+35021,NM,New Mexico,Harding,5.2,4.5 - 5.9,3.2 - 5.9
+35023,NM,New Mexico,Hidalgo,5.6,5.0 - 6.3,3.2 - 5.9
+35025,NM,New Mexico,Lea,5.7,5.1 - 6.3,3.2 - 5.9
+35027,NM,New Mexico,Lincoln,5,4.4 - 5.8,3.2 - 5.9
+35028,NM,New Mexico,Los Alamos,3.2,2.7 - 3.7,3.2 - 5.9
+35029,NM,New Mexico,Luna,6.6,5.9 - 7.3,6.0 - 7.2
+35031,NM,New Mexico,McKinley,10,8.9 - 11.1,8.7 - 15.5
+35033,NM,New Mexico,Mora,4.6,4.1 - 5.2,3.2 - 5.9
+35035,NM,New Mexico,Otero,6,5.5 - 6.7,6.0 - 7.2
+35037,NM,New Mexico,Quay,6.1,5.4 - 6.8,6.0 - 7.2
+35039,NM,New Mexico,Rio Arriba,4.9,4.4 - 5.5,3.2 - 5.9
+35041,NM,New Mexico,Roosevelt,6.3,5.6 - 7.1,6.0 - 7.2
+35043,NM,New Mexico,Sandoval,4.6,4.1 - 5.1,3.2 - 5.9
+35045,NM,New Mexico,San Juan,7.2,6.6 - 7.9,6.0 - 7.2
+35047,NM,New Mexico,San Miguel,5,4.4 - 5.7,3.2 - 5.9
+35049,NM,New Mexico,Santa Fe,4.2,3.6 - 4.8,3.2 - 5.9
+35051,NM,New Mexico,Sierra,6.8,5.9 - 7.6,6.0 - 7.2
+35053,NM,New Mexico,Socorro,6.1,5.5 - 6.7,6.0 - 7.2
+35055,NM,New Mexico,Taos,4.8,4.3 - 5.4,3.2 - 5.9
+35057,NM,New Mexico,Torrance,6.5,5.8 - 7.2,6.0 - 7.2
+35059,NM,New Mexico,Union,5.9,5.3 - 6.6,3.2 - 5.9
+35061,NM,New Mexico,Valencia,5,4.5 - 5.6,3.2 - 5.9
+36001,NY,New York,Albany,6,5.1 - 6.9,6.0 - 7.2
+36003,NY,New York,Allegany,8.2,7.2 - 9.3,7.3 - 8.6
+36005,NY,New York,Bronx,6.5,5.8 - 7.3,6.0 - 7.2
+36007,NY,New York,Broome,7.6,6.5 - 8.7,7.3 - 8.6
+36009,NY,New York,Cattaraugus,8.5,7.4 - 9.7,7.3 - 8.6
+36011,NY,New York,Cayuga,7.8,6.7 - 9.0,7.3 - 8.6
+36013,NY,New York,Chautauqua,8.2,7.0 - 9.4,7.3 - 8.6
+36015,NY,New York,Chemung,7.7,6.6 - 8.8,7.3 - 8.6
+36017,NY,New York,Chenango,8.2,7.2 - 9.4,7.3 - 8.6
+36019,NY,New York,Clinton,7.7,6.7 - 8.9,7.3 - 8.6
+36021,NY,New York,Columbia,6.6,5.6 - 7.6,6.0 - 7.2
+36023,NY,New York,Cortland,7.6,6.4 - 8.7,7.3 - 8.6
+36025,NY,New York,Delaware,7.7,6.7 - 8.9,7.3 - 8.6
+36027,NY,New York,Dutchess,5.9,5.1 - 6.7,3.2 - 5.9
+36029,NY,New York,Erie,6.8,5.9 - 7.8,6.0 - 7.2
+36031,NY,New York,Essex,7,6.0 - 8.1,6.0 - 7.2
+36033,NY,New York,Franklin,8.4,7.3 - 9.5,7.3 - 8.6
+36035,NY,New York,Fulton,8.3,7.2 - 9.5,7.3 - 8.6
+36037,NY,New York,Genesee,7.2,6.3 - 8.2,6.0 - 7.2
+36039,NY,New York,Greene,7.8,6.7 - 9.0,7.3 - 8.6
+36041,NY,New York,Hamilton,8.6,7.4 - 9.9,7.3 - 8.6
+36043,NY,New York,Herkimer,7.9,6.8 - 9.1,7.3 - 8.6
+36045,NY,New York,Jefferson,7.8,6.8 - 8.8,7.3 - 8.6
+36047,NY,New York,Kings,5.8,5.2 - 6.4,3.2 - 5.9
+36049,NY,New York,Lewis,8.1,7.0 - 9.3,7.3 - 8.6
+36051,NY,New York,Livingston,7.2,6.2 - 8.3,6.0 - 7.2
+36053,NY,New York,Madison,7,6.1 - 8.1,6.0 - 7.2
+36055,NY,New York,Monroe,6.3,5.3 - 7.2,6.0 - 7.2
+36057,NY,New York,Montgomery,8.1,7.2 - 9.2,7.3 - 8.6
+36059,NY,New York,Nassau,4.7,4.1 - 5.5,3.2 - 5.9
+36061,NY,New York,New York,4.5,3.9 - 5.1,3.2 - 5.9
+36063,NY,New York,Niagara,7.6,6.5 - 8.6,7.3 - 8.6
+36065,NY,New York,Oneida,7.7,6.6 - 8.8,7.3 - 8.6
+36067,NY,New York,Onondaga,6.7,5.8 - 7.7,6.0 - 7.2
+36069,NY,New York,Ontario,6.3,5.3 - 7.3,6.0 - 7.2
+36071,NY,New York,Orange,5.8,5.1 - 6.6,3.2 - 5.9
+36073,NY,New York,Orleans,8.3,7.1 - 9.4,7.3 - 8.6
+36075,NY,New York,Oswego,8.4,7.3 - 9.4,7.3 - 8.6
+36077,NY,New York,Otsego,7.4,6.3 - 8.6,7.3 - 8.6
+36079,NY,New York,Putnam,5.1,4.3 - 5.9,3.2 - 5.9
+36081,NY,New York,Queens,5.2,4.7 - 5.7,3.2 - 5.9
+36083,NY,New York,Rensselaer,6.5,5.6 - 7.5,6.0 - 7.2
+36085,NY,New York,Richmond,5.7,4.9 - 6.4,3.2 - 5.9
+36087,NY,New York,Rockland,5.7,4.9 - 6.6,3.2 - 5.9
+36089,NY,New York,St. Lawrence,8.6,7.4 - 9.8,7.3 - 8.6
+36091,NY,New York,Saratoga,5.7,4.8 - 6.8,3.2 - 5.9
+36093,NY,New York,Schenectady,6.5,5.7 - 7.5,6.0 - 7.2
+36095,NY,New York,Schoharie,7.5,6.4 - 8.6,7.3 - 8.6
+36097,NY,New York,Schuyler,8,6.9 - 9.1,7.3 - 8.6
+36099,NY,New York,Seneca,7.8,6.7 - 9.0,7.3 - 8.6
+36101,NY,New York,Steuben,8,6.9 - 9.1,7.3 - 8.6
+36103,NY,New York,Suffolk,5.3,4.5 - 6.0,3.2 - 5.9
+36105,NY,New York,Sullivan,7.1,6.1 - 8.1,6.0 - 7.2
+36107,NY,New York,Tioga,7.2,6.1 - 8.4,6.0 - 7.2
+36109,NY,New York,Tompkins,6.2,5.2 - 7.2,6.0 - 7.2
+36111,NY,New York,Ulster,6.6,5.7 - 7.6,6.0 - 7.2
+36113,NY,New York,Warren,6.6,5.6 - 7.7,6.0 - 7.2
+36115,NY,New York,Washington,7.9,6.8 - 9.1,7.3 - 8.6
+36117,NY,New York,Wayne,7.4,6.4 - 8.5,7.3 - 8.6
+36119,NY,New York,Westchester,4.8,4.1 - 5.6,3.2 - 5.9
+36121,NY,New York,Wyoming,7.5,6.6 - 8.5,7.3 - 8.6
+36123,NY,New York,Yates,7.8,6.6 - 9.1,7.3 - 8.6
+37001,NC,North Carolina,Alamance,7.4,6.5 - 8.3,7.3 - 8.6
+37003,NC,North Carolina,Alexander,8.1,7.1 - 9.3,7.3 - 8.6
+37005,NC,North Carolina,Alleghany,9.4,8.1 - 10.9,8.7 - 15.5
+37007,NC,North Carolina,Anson,8.6,7.7 - 9.4,7.3 - 8.6
+37009,NC,North Carolina,Ashe,7.9,6.7 - 9.1,7.3 - 8.6
+37011,NC,North Carolina,Avery,8.3,7.1 - 9.5,7.3 - 8.6
+37013,NC,North Carolina,Beaufort,7.9,7.0 - 8.9,7.3 - 8.6
+37015,NC,North Carolina,Bertie,8.8,7.9 - 9.7,8.7 - 15.5
+37017,NC,North Carolina,Bladen,8.9,8.1 - 9.8,8.7 - 15.5
+37019,NC,North Carolina,Brunswick,6.5,5.6 - 7.5,6.0 - 7.2
+37021,NC,North Carolina,Buncombe,6.5,5.4 - 7.5,6.0 - 7.2
+37023,NC,North Carolina,Burke,8.5,7.4 - 9.7,7.3 - 8.6
+37025,NC,North Carolina,Cabarrus,6.1,5.3 - 7.0,6.0 - 7.2
+37027,NC,North Carolina,Caldwell,8.7,7.5 - 9.9,8.7 - 15.5
+37029,NC,North Carolina,Camden,7.2,6.3 - 8.2,6.0 - 7.2
+37031,NC,North Carolina,Carteret,6.7,5.7 - 7.7,6.0 - 7.2
+37033,NC,North Carolina,Caswell,8,7.1 - 9.0,7.3 - 8.6
+37035,NC,North Carolina,Catawba,7.2,6.2 - 8.2,6.0 - 7.2
+37037,NC,North Carolina,Chatham,5.8,4.9 - 6.7,3.2 - 5.9
+37039,NC,North Carolina,Cherokee,8.4,7.3 - 9.5,7.3 - 8.6
+37041,NC,North Carolina,Chowan,7.6,6.8 - 8.6,7.3 - 8.6
+37043,NC,North Carolina,Clay,7.8,6.7 - 8.9,7.3 - 8.6
+37045,NC,North Carolina,Cleveland,8.7,7.6 - 9.7,8.7 - 15.5
+37047,NC,North Carolina,Columbus,9.2,8.2 - 10.2,8.7 - 15.5
+37049,NC,North Carolina,Craven,7.1,6.3 - 8.0,6.0 - 7.2
+37051,NC,North Carolina,Cumberland,7,6.3 - 7.7,6.0 - 7.2
+37053,NC,North Carolina,Currituck,6.7,5.7 - 7.7,6.0 - 7.2
+37055,NC,North Carolina,Dare,6,5.2 - 6.9,6.0 - 7.2
+37057,NC,North Carolina,Davidson,8.1,7.0 - 9.2,7.3 - 8.6
+37059,NC,North Carolina,Davie,7,6.1 - 8.0,6.0 - 7.2
+37061,NC,North Carolina,Duplin,8.8,7.9 - 9.7,8.7 - 15.5
+37063,NC,North Carolina,Durham,5.6,4.9 - 6.4,3.2 - 5.9
+37065,NC,North Carolina,Edgecombe,8.9,8.0 - 9.9,8.7 - 15.5
+37067,NC,North Carolina,Forsyth,6.6,5.8 - 7.5,6.0 - 7.2
+37069,NC,North Carolina,Franklin,7.1,6.3 - 8.1,6.0 - 7.2
+37071,NC,North Carolina,Gaston,7.8,6.8 - 8.8,7.3 - 8.6
+37073,NC,North Carolina,Gates,7.4,6.7 - 8.1,7.3 - 8.6
+37075,NC,North Carolina,Graham,9.2,8.0 - 10.3,8.7 - 15.5
+37077,NC,North Carolina,Granville,7.3,6.4 - 8.2,7.3 - 8.6
+37079,NC,North Carolina,Greene,8.7,7.8 - 9.5,8.7 - 15.5
+37081,NC,North Carolina,Guilford,6.5,5.6 - 7.4,6.0 - 7.2
+37083,NC,North Carolina,Halifax,9.6,8.6 - 10.5,8.7 - 15.5
+37085,NC,North Carolina,Harnett,7.2,6.4 - 8.1,6.0 - 7.2
+37087,NC,North Carolina,Haywood,7.3,6.2 - 8.5,7.3 - 8.6
+37089,NC,North Carolina,Henderson,6.3,5.3 - 7.4,6.0 - 7.2
+37091,NC,North Carolina,Hertford,8.4,7.6 - 9.3,7.3 - 8.6
+37093,NC,North Carolina,Hoke,7.5,6.9 - 8.1,7.3 - 8.6
+37095,NC,North Carolina,Hyde,8.9,8.0 - 9.8,8.7 - 15.5
+37097,NC,North Carolina,Iredell,6.6,5.7 - 7.5,6.0 - 7.2
+37099,NC,North Carolina,Jackson,7.7,6.7 - 8.7,7.3 - 8.6
+37101,NC,North Carolina,Johnston,6.9,6.1 - 7.8,6.0 - 7.2
+37103,NC,North Carolina,Jones,9.5,8.5 - 10.5,8.7 - 15.5
+37105,NC,North Carolina,Lee,7.4,6.6 - 8.3,7.3 - 8.6
+37107,NC,North Carolina,Lenoir,8.8,8.0 - 9.8,8.7 - 15.5
+37109,NC,North Carolina,Lincoln,7,6.0 - 8.0,6.0 - 7.2
+37111,NC,North Carolina,McDowell,8.3,7.2 - 9.5,7.3 - 8.6
+37113,NC,North Carolina,Macon,7.6,6.4 - 8.8,7.3 - 8.6
+37115,NC,North Carolina,Madison,7.7,6.5 - 8.9,7.3 - 8.6
+37117,NC,North Carolina,Martin,8.5,7.6 - 9.5,7.3 - 8.6
+37119,NC,North Carolina,Mecklenburg,5.4,4.7 - 6.1,3.2 - 5.9
+37121,NC,North Carolina,Mitchell,7.9,6.8 - 9.2,7.3 - 8.6
+37123,NC,North Carolina,Montgomery,8,7.1 - 9.0,7.3 - 8.6
+37125,NC,North Carolina,Moore,6.2,5.3 - 7.2,6.0 - 7.2
+37127,NC,North Carolina,Nash,7.3,6.6 - 8.2,7.3 - 8.6
+37129,NC,North Carolina,New Hanover,6.4,5.6 - 7.4,6.0 - 7.2
+37131,NC,North Carolina,Northampton,8.8,7.9 - 9.8,8.7 - 15.5
+37133,NC,North Carolina,Onslow,7.1,6.4 - 7.8,6.0 - 7.2
+37135,NC,North Carolina,Orange,5.3,4.5 - 6.3,3.2 - 5.9
+37137,NC,North Carolina,Pamlico,7.8,6.9 - 8.7,7.3 - 8.6
+37139,NC,North Carolina,Pasquotank,7.4,6.5 - 8.2,7.3 - 8.6
+37141,NC,North Carolina,Pender,7,6.1 - 8.1,6.0 - 7.2
+37143,NC,North Carolina,Perquimans,7.7,6.8 - 8.6,7.3 - 8.6
+37145,NC,North Carolina,Person,7.8,7.0 - 8.7,7.3 - 8.6
+37147,NC,North Carolina,Pitt,7.3,6.4 - 8.1,7.3 - 8.6
+37149,NC,North Carolina,Polk,6.8,5.8 - 7.8,6.0 - 7.2
+37151,NC,North Carolina,Randolph,8.3,7.2 - 9.4,7.3 - 8.6
+37153,NC,North Carolina,Richmond,9.4,8.5 - 10.5,8.7 - 15.5
+37155,NC,North Carolina,Robeson,10.8,9.9 - 11.7,8.7 - 15.5
+37157,NC,North Carolina,Rockingham,8.5,7.5 - 9.5,7.3 - 8.6
+37159,NC,North Carolina,Rowan,7.8,6.8 - 8.8,7.3 - 8.6
+37161,NC,North Carolina,Rutherford,8.6,7.5 - 9.8,7.3 - 8.6
+37163,NC,North Carolina,Sampson,8.3,7.5 - 9.2,7.3 - 8.6
+37165,NC,North Carolina,Scotland,9.6,8.7 - 10.5,8.7 - 15.5
+37167,NC,North Carolina,Stanly,7.8,6.8 - 8.9,7.3 - 8.6
+37169,NC,North Carolina,Stokes,8.2,7.2 - 9.3,7.3 - 8.6
+37171,NC,North Carolina,Surry,8.6,7.4 - 9.8,7.3 - 8.6
+37173,NC,North Carolina,Swain,9.7,8.7 - 10.8,8.7 - 15.5
+37175,NC,North Carolina,Transylvania,7.3,6.0 - 8.6,7.3 - 8.6
+37177,NC,North Carolina,Tyrrell,9,8.1 - 9.9,8.7 - 15.5
+37179,NC,North Carolina,Union,6,5.1 - 6.9,6.0 - 7.2
+37181,NC,North Carolina,Vance,8.9,8.0 - 9.8,8.7 - 15.5
+37183,NC,North Carolina,Wake,4.9,4.2 - 5.6,3.2 - 5.9
+37185,NC,North Carolina,Warren,8.8,8.0 - 9.6,8.7 - 15.5
+37187,NC,North Carolina,Washington,8.7,7.9 - 9.6,8.7 - 15.5
+37189,NC,North Carolina,Watauga,7.8,6.7 - 9.1,7.3 - 8.6
+37191,NC,North Carolina,Wayne,7.9,7.1 - 8.8,7.3 - 8.6
+37193,NC,North Carolina,Wilkes,8.7,7.6 - 10.0,8.7 - 15.5
+37195,NC,North Carolina,Wilson,8.3,7.3 - 9.1,7.3 - 8.6
+37197,NC,North Carolina,Yadkin,8.3,7.4 - 9.4,7.3 - 8.6
+37199,NC,North Carolina,Yancey,8.3,7.1 - 9.6,7.3 - 8.6
+38001,ND,North Dakota,Adams,5.4,4.7 - 6.2,3.2 - 5.9
+38003,ND,North Dakota,Barnes,5.6,4.8 - 6.6,3.2 - 5.9
+38005,ND,North Dakota,Benson,9.3,8.4 - 10.3,8.7 - 15.5
+38007,ND,North Dakota,Billings,5.3,4.4 - 6.1,3.2 - 5.9
+38009,ND,North Dakota,Bottineau,5.5,4.8 - 6.4,3.2 - 5.9
+38011,ND,North Dakota,Bowman,5.5,4.7 - 6.3,3.2 - 5.9
+38013,ND,North Dakota,Burke,5.4,4.7 - 6.2,3.2 - 5.9
+38015,ND,North Dakota,Burleigh,4.9,4.2 - 5.7,3.2 - 5.9
+38017,ND,North Dakota,Cass,4.8,4.1 - 5.6,3.2 - 5.9
+38019,ND,North Dakota,Cavalier,5.6,4.9 - 6.5,3.2 - 5.9
+38021,ND,North Dakota,Dickey,5.1,4.4 - 6.0,3.2 - 5.9
+38023,ND,North Dakota,Divide,6.2,5.3 - 7.1,6.0 - 7.2
+38025,ND,North Dakota,Dunn,5.4,4.8 - 6.2,3.2 - 5.9
+38027,ND,North Dakota,Eddy,5.8,4.9 - 6.7,3.2 - 5.9
+38029,ND,North Dakota,Emmons,6.1,5.2 - 7.1,6.0 - 7.2
+38031,ND,North Dakota,Foster,5.5,4.7 - 6.5,3.2 - 5.9
+38033,ND,North Dakota,Golden Valley,5.5,4.7 - 6.4,3.2 - 5.9
+38035,ND,North Dakota,Grand Forks,5.7,4.9 - 6.5,3.2 - 5.9
+38037,ND,North Dakota,Grant,6.5,5.6 - 7.5,6.0 - 7.2
+38039,ND,North Dakota,Griggs,5.8,4.9 - 6.9,3.2 - 5.9
+38041,ND,North Dakota,Hettinger,6.3,5.5 - 7.3,6.0 - 7.2
+38043,ND,North Dakota,Kidder,6.4,5.6 - 7.4,6.0 - 7.2
+38045,ND,North Dakota,LaMoure,6.3,5.2 - 7.4,6.0 - 7.2
+38047,ND,North Dakota,Logan,5.9,5.0 - 6.7,3.2 - 5.9
+38049,ND,North Dakota,McHenry,5.5,4.7 - 6.3,3.2 - 5.9
+38051,ND,North Dakota,McIntosh,6.5,5.5 - 7.4,6.0 - 7.2
+38053,ND,North Dakota,McKenzie,5.7,4.9 - 6.5,3.2 - 5.9
+38055,ND,North Dakota,McLean,5.6,4.8 - 6.4,3.2 - 5.9
+38057,ND,North Dakota,Mercer,5.4,4.6 - 6.3,3.2 - 5.9
+38059,ND,North Dakota,Morton,5.2,4.4 - 6.1,3.2 - 5.9
+38061,ND,North Dakota,Mountrail,5.9,5.3 - 6.6,3.2 - 5.9
+38063,ND,North Dakota,Nelson,5.6,4.8 - 6.5,3.2 - 5.9
+38065,ND,North Dakota,Oliver,5.4,4.7 - 6.3,3.2 - 5.9
+38067,ND,North Dakota,Pembina,5.5,4.8 - 6.3,3.2 - 5.9
+38069,ND,North Dakota,Pierce,6.2,5.4 - 7.1,6.0 - 7.2
+38071,ND,North Dakota,Ramsey,5.7,4.9 - 6.5,3.2 - 5.9
+38073,ND,North Dakota,Ransom,5.8,5.0 - 6.6,3.2 - 5.9
+38075,ND,North Dakota,Renville,5.3,4.5 - 6.1,3.2 - 5.9
+38077,ND,North Dakota,Richland,5.8,5.0 - 6.7,3.2 - 5.9
+38079,ND,North Dakota,Rolette,9.4,8.3 - 10.5,8.7 - 15.5
+38081,ND,North Dakota,Sargent,5.2,4.5 - 5.9,3.2 - 5.9
+38083,ND,North Dakota,Sheridan,6.6,5.8 - 7.6,6.0 - 7.2
+38085,ND,North Dakota,Sioux,11.2,10.0 - 12.5,8.7 - 15.5
+38087,ND,North Dakota,Slope,5.5,4.6 - 6.4,3.2 - 5.9
+38089,ND,North Dakota,Stark,5.5,4.7 - 6.3,3.2 - 5.9
+38091,ND,North Dakota,Steele,4.8,4.1 - 5.5,3.2 - 5.9
+38093,ND,North Dakota,Stutsman,5.8,4.9 - 6.6,3.2 - 5.9
+38095,ND,North Dakota,Towner,6.2,5.4 - 7.0,6.0 - 7.2
+38097,ND,North Dakota,Traill,5,4.3 - 5.8,3.2 - 5.9
+38099,ND,North Dakota,Walsh,6.1,5.3 - 7.0,6.0 - 7.2
+38101,ND,North Dakota,Ward,5.1,4.5 - 5.9,3.2 - 5.9
+38103,ND,North Dakota,Wells,5.8,4.8 - 6.7,3.2 - 5.9
+38105,ND,North Dakota,Williams,5.2,4.5 - 5.9,3.2 - 5.9
+39001,OH,Ohio,Adams,11.8,10.3 - 13.3,8.7 - 15.5
+39003,OH,Ohio,Allen,8.6,7.5 - 9.8,7.3 - 8.6
+39005,OH,Ohio,Ashland,8.8,7.5 - 10.2,8.7 - 15.5
+39007,OH,Ohio,Ashtabula,10.5,9.2 - 11.7,8.7 - 15.5
+39009,OH,Ohio,Athens,10,8.7 - 11.3,8.7 - 15.5
+39011,OH,Ohio,Auglaize,8,6.9 - 9.1,7.3 - 8.6
+39013,OH,Ohio,Belmont,9,7.9 - 10.2,8.7 - 15.5
+39015,OH,Ohio,Brown,9.4,8.3 - 10.7,8.7 - 15.5
+39017,OH,Ohio,Butler,7.7,6.6 - 8.8,7.3 - 8.6
+39019,OH,Ohio,Carroll,9,7.9 - 10.2,8.7 - 15.5
+39021,OH,Ohio,Champaign,8.5,7.4 - 9.5,7.3 - 8.6
+39023,OH,Ohio,Clark,9.2,8.0 - 10.4,8.7 - 15.5
+39025,OH,Ohio,Clermont,7.8,6.6 - 9.1,7.3 - 8.6
+39027,OH,Ohio,Clinton,9.3,8.1 - 10.6,8.7 - 15.5
+39029,OH,Ohio,Columbiana,9.4,8.3 - 10.6,8.7 - 15.5
+39031,OH,Ohio,Coshocton,10.1,8.8 - 11.6,8.7 - 15.5
+39033,OH,Ohio,Crawford,9.4,8.2 - 10.6,8.7 - 15.5
+39035,OH,Ohio,Cuyahoga,7.6,6.7 - 8.5,7.3 - 8.6
+39037,OH,Ohio,Darke,9,7.8 - 10.1,8.7 - 15.5
+39039,OH,Ohio,Defiance,7.9,7.0 - 8.9,7.3 - 8.6
+39041,OH,Ohio,Delaware,5.5,4.6 - 6.5,3.2 - 5.9
+39043,OH,Ohio,Erie,8,7.0 - 9.1,7.3 - 8.6
+39045,OH,Ohio,Fairfield,7.6,6.6 - 8.8,7.3 - 8.6
+39047,OH,Ohio,Fayette,9.9,8.5 - 11.2,8.7 - 15.5
+39049,OH,Ohio,Franklin,7.1,6.1 - 8.0,6.0 - 7.2
+39051,OH,Ohio,Fulton,7.7,6.8 - 8.8,7.3 - 8.6
+39053,OH,Ohio,Gallia,10.1,8.7 - 11.4,8.7 - 15.5
+39055,OH,Ohio,Geauga,7,5.8 - 8.3,6.0 - 7.2
+39057,OH,Ohio,Greene,7,5.9 - 8.2,6.0 - 7.2
+39059,OH,Ohio,Guernsey,10.3,8.9 - 11.7,8.7 - 15.5
+39061,OH,Ohio,Hamilton,7.3,6.3 - 8.3,7.3 - 8.6
+39063,OH,Ohio,Hancock,7.4,6.4 - 8.5,7.3 - 8.6
+39065,OH,Ohio,Hardin,9.3,8.1 - 10.5,8.7 - 15.5
+39067,OH,Ohio,Harrison,9.9,8.7 - 11.1,8.7 - 15.5
+39069,OH,Ohio,Henry,7.6,6.7 - 8.6,7.3 - 8.6
+39071,OH,Ohio,Highland,10.5,9.1 - 11.9,8.7 - 15.5
+39073,OH,Ohio,Hocking,9.7,8.4 - 10.8,8.7 - 15.5
+39075,OH,Ohio,Holmes,11,9.4 - 12.4,8.7 - 15.5
+39077,OH,Ohio,Huron,9.1,8.0 - 10.3,8.7 - 15.5
+39079,OH,Ohio,Jackson,10.7,9.3 - 12.3,8.7 - 15.5
+39081,OH,Ohio,Jefferson,9.4,8.3 - 10.5,8.7 - 15.5
+39083,OH,Ohio,Knox,8.5,7.3 - 9.8,7.3 - 8.6
+39085,OH,Ohio,Lake,7.3,6.3 - 8.4,7.3 - 8.6
+39087,OH,Ohio,Lawrence,10.3,9.0 - 11.6,8.7 - 15.5
+39089,OH,Ohio,Licking,7.8,6.7 - 9.0,7.3 - 8.6
+39091,OH,Ohio,Logan,8.6,7.6 - 9.7,7.3 - 8.6
+39093,OH,Ohio,Lorain,8,7.0 - 9.0,7.3 - 8.6
+39095,OH,Ohio,Lucas,8.7,7.7 - 9.8,8.7 - 15.5
+39097,OH,Ohio,Madison,8.5,7.4 - 9.6,7.3 - 8.6
+39099,OH,Ohio,Mahoning,8.5,7.5 - 9.5,7.3 - 8.6
+39101,OH,Ohio,Marion,9.7,8.6 - 10.9,8.7 - 15.5
+39103,OH,Ohio,Medina,6.7,5.7 - 7.6,6.0 - 7.2
+39105,OH,Ohio,Meigs,10.9,9.4 - 12.4,8.7 - 15.5
+39107,OH,Ohio,Mercer,8,7.0 - 9.1,7.3 - 8.6
+39109,OH,Ohio,Miami,8,6.9 - 9.2,7.3 - 8.6
+39111,OH,Ohio,Monroe,9.9,8.7 - 11.2,8.7 - 15.5
+39113,OH,Ohio,Montgomery,8.5,7.5 - 9.5,7.3 - 8.6
+39115,OH,Ohio,Morgan,11,9.7 - 12.4,8.7 - 15.5
+39117,OH,Ohio,Morrow,9,7.9 - 10.2,8.7 - 15.5
+39119,OH,Ohio,Muskingum,9.6,8.3 - 10.9,8.7 - 15.5
+39121,OH,Ohio,Noble,9.8,8.6 - 11.1,8.7 - 15.5
+39123,OH,Ohio,Ottawa,7.9,6.8 - 9.0,7.3 - 8.6
+39125,OH,Ohio,Paulding,8.4,7.3 - 9.4,7.3 - 8.6
+39127,OH,Ohio,Perry,10,8.8 - 11.3,8.7 - 15.5
+39129,OH,Ohio,Pickaway,8.8,7.6 - 10.0,8.7 - 15.5
+39131,OH,Ohio,Pike,11.4,10.0 - 12.9,8.7 - 15.5
+39133,OH,Ohio,Portage,7.8,6.8 - 8.9,7.3 - 8.6
+39135,OH,Ohio,Preble,8.3,7.2 - 9.5,7.3 - 8.6
+39137,OH,Ohio,Putnam,7.2,6.2 - 8.2,6.0 - 7.2
+39139,OH,Ohio,Richland,9,8.0 - 10.4,8.7 - 15.5
+39141,OH,Ohio,Ross,9.9,8.6 - 11.2,8.7 - 15.5
+39143,OH,Ohio,Sandusky,8.1,7.2 - 9.1,7.3 - 8.6
+39145,OH,Ohio,Scioto,11.1,9.6 - 12.5,8.7 - 15.5
+39147,OH,Ohio,Seneca,8.4,7.5 - 9.5,7.3 - 8.6
+39149,OH,Ohio,Shelby,8.2,7.1 - 9.3,7.3 - 8.6
+39151,OH,Ohio,Stark,8.3,7.2 - 9.4,7.3 - 8.6
+39153,OH,Ohio,Summit,7.7,6.7 - 8.8,7.3 - 8.6
+39155,OH,Ohio,Trumbull,9.4,8.2 - 10.7,8.7 - 15.5
+39157,OH,Ohio,Tuscarawas,9.2,8.0 - 10.4,8.7 - 15.5
+39159,OH,Ohio,Union,6.9,5.9 - 8.0,6.0 - 7.2
+39161,OH,Ohio,Van Wert,8.6,7.6 - 9.7,7.3 - 8.6
+39163,OH,Ohio,Vinton,11.2,9.7 - 12.7,8.7 - 15.5
+39165,OH,Ohio,Warren,6.3,5.3 - 7.4,6.0 - 7.2
+39167,OH,Ohio,Washington,8.9,7.8 - 10.1,8.7 - 15.5
+39169,OH,Ohio,Wayne,8.6,7.4 - 9.9,7.3 - 8.6
+39171,OH,Ohio,Williams,8.4,7.4 - 9.4,7.3 - 8.6
+39173,OH,Ohio,Wood,7.4,6.4 - 8.4,7.3 - 8.6
+39175,OH,Ohio,Wyandot,8.7,7.6 - 9.8,8.7 - 15.5
+40001,OK,Oklahoma,Adair,12,11.0 - 13.1,8.7 - 15.5
+40003,OK,Oklahoma,Alfalfa,7.2,6.2 - 8.2,6.0 - 7.2
+40005,OK,Oklahoma,Atoka,10.1,9.0 - 11.1,8.7 - 15.5
+40007,OK,Oklahoma,Beaver,7.3,6.4 - 8.3,7.3 - 8.6
+40009,OK,Oklahoma,Beckham,8.2,7.2 - 9.3,7.3 - 8.6
+40011,OK,Oklahoma,Blaine,8.5,7.5 - 9.5,7.3 - 8.6
+40013,OK,Oklahoma,Bryan,9,8.0 - 10.0,8.7 - 15.5
+40015,OK,Oklahoma,Caddo,9,8.1 - 9.9,8.7 - 15.5
+40017,OK,Oklahoma,Canadian,6.4,5.6 - 7.3,6.0 - 7.2
+40019,OK,Oklahoma,Carter,8.1,7.3 - 9.2,7.3 - 8.6
+40021,OK,Oklahoma,Cherokee,9.4,8.4 - 10.3,8.7 - 15.5
+40023,OK,Oklahoma,Choctaw,10.6,9.6 - 11.7,8.7 - 15.5
+40025,OK,Oklahoma,Cimarron,7.5,6.5 - 8.5,7.3 - 8.6
+40027,OK,Oklahoma,Cleveland,6.6,5.7 - 7.4,6.0 - 7.2
+40029,OK,Oklahoma,Coal,10.3,9.2 - 11.4,8.7 - 15.5
+40031,OK,Oklahoma,Comanche,7.7,6.9 - 8.5,7.3 - 8.6
+40033,OK,Oklahoma,Cotton,9,7.9 - 10.0,8.7 - 15.5
+40035,OK,Oklahoma,Craig,9.8,8.8 - 10.8,8.7 - 15.5
+40037,OK,Oklahoma,Creek,8.3,7.4 - 9.3,7.3 - 8.6
+40039,OK,Oklahoma,Custer,8,7.1 - 9.1,7.3 - 8.6
+40041,OK,Oklahoma,Delaware,9.6,8.6 - 10.7,8.7 - 15.5
+40043,OK,Oklahoma,Dewey,8,7.0 - 9.0,7.3 - 8.6
+40045,OK,Oklahoma,Ellis,8.3,7.2 - 9.6,7.3 - 8.6
+40047,OK,Oklahoma,Garfield,7.5,6.5 - 8.4,7.3 - 8.6
+40049,OK,Oklahoma,Garvin,8.7,7.7 - 9.6,8.7 - 15.5
+40051,OK,Oklahoma,Grady,7.7,6.7 - 8.7,7.3 - 8.6
+40053,OK,Oklahoma,Grant,7,6.1 - 8.0,6.0 - 7.2
+40055,OK,Oklahoma,Greer,8.8,7.9 - 9.8,8.7 - 15.5
+40057,OK,Oklahoma,Harmon,7.4,6.6 - 8.3,7.3 - 8.6
+40059,OK,Oklahoma,Harper,7.7,6.6 - 8.7,7.3 - 8.6
+40061,OK,Oklahoma,Haskell,9.6,8.6 - 10.7,8.7 - 15.5
+40063,OK,Oklahoma,Hughes,10.1,9.1 - 11.1,8.7 - 15.5
+40065,OK,Oklahoma,Jackson,7.1,6.3 - 7.9,6.0 - 7.2
+40067,OK,Oklahoma,Jefferson,9.7,8.6 - 10.8,8.7 - 15.5
+40069,OK,Oklahoma,Johnston,9.5,8.5 - 10.6,8.7 - 15.5
+40071,OK,Oklahoma,Kay,8.4,7.4 - 9.4,7.3 - 8.6
+40073,OK,Oklahoma,Kingfisher,7.5,6.5 - 8.6,7.3 - 8.6
+40075,OK,Oklahoma,Kiowa,9.1,8.1 - 10.2,8.7 - 15.5
+40077,OK,Oklahoma,Latimer,9.5,8.6 - 10.5,8.7 - 15.5
+40079,OK,Oklahoma,Le Flore,10,8.9 - 11.2,8.7 - 15.5
+40081,OK,Oklahoma,Lincoln,8.5,7.5 - 9.6,7.3 - 8.6
+40083,OK,Oklahoma,Logan,7.3,6.3 - 8.3,7.3 - 8.6
+40085,OK,Oklahoma,Love,8.7,7.7 - 9.7,8.7 - 15.5
+40087,OK,Oklahoma,McClain,6.9,6.1 - 7.8,6.0 - 7.2
+40089,OK,Oklahoma,McCurtain,10.3,9.3 - 11.4,8.7 - 15.5
+40091,OK,Oklahoma,McIntosh,10,9.0 - 11.0,8.7 - 15.5
+40093,OK,Oklahoma,Major,7.4,6.4 - 8.4,7.3 - 8.6
+40095,OK,Oklahoma,Marshall,8.9,8.0 - 9.9,8.7 - 15.5
+40097,OK,Oklahoma,Mayes,9.5,8.6 - 10.6,8.7 - 15.5
+40099,OK,Oklahoma,Murray,8.6,7.6 - 9.5,7.3 - 8.6
+40101,OK,Oklahoma,Muskogee,9.3,8.4 - 10.3,8.7 - 15.5
+40103,OK,Oklahoma,Noble,7.4,6.4 - 8.4,7.3 - 8.6
+40105,OK,Oklahoma,Nowata,9.2,8.3 - 10.0,8.7 - 15.5
+40107,OK,Oklahoma,Okfuskee,11,10.0 - 12.0,8.7 - 15.5
+40109,OK,Oklahoma,Oklahoma,6.9,6.1 - 7.8,6.0 - 7.2
+40111,OK,Oklahoma,Okmulgee,9.6,8.6 - 10.5,8.7 - 15.5
+40113,OK,Oklahoma,Osage,8.5,7.6 - 9.4,7.3 - 8.6
+40115,OK,Oklahoma,Ottawa,9.9,8.8 - 11.0,8.7 - 15.5
+40117,OK,Oklahoma,Pawnee,8.8,7.9 - 9.8,8.7 - 15.5
+40119,OK,Oklahoma,Payne,8.1,7.0 - 9.2,7.3 - 8.6
+40121,OK,Oklahoma,Pittsburg,9,8.1 - 10.0,8.7 - 15.5
+40123,OK,Oklahoma,Pontotoc,8,7.0 - 8.9,7.3 - 8.6
+40125,OK,Oklahoma,Pottawatomie,9,8.0 - 10.1,8.7 - 15.5
+40127,OK,Oklahoma,Pushmataha,10.3,9.2 - 11.4,8.7 - 15.5
+40129,OK,Oklahoma,Roger Mills,8.3,7.2 - 9.4,7.3 - 8.6
+40131,OK,Oklahoma,Rogers,7.3,6.5 - 8.2,7.3 - 8.6
+40133,OK,Oklahoma,Seminole,10.1,9.1 - 11.2,8.7 - 15.5
+40135,OK,Oklahoma,Sequoyah,10.6,9.6 - 11.7,8.7 - 15.5
+40137,OK,Oklahoma,Stephens,8.4,7.4 - 9.4,7.3 - 8.6
+40139,OK,Oklahoma,Texas,7.3,6.4 - 8.2,7.3 - 8.6
+40141,OK,Oklahoma,Tillman,8.3,7.4 - 9.2,7.3 - 8.6
+40143,OK,Oklahoma,Tulsa,7,6.1 - 7.9,6.0 - 7.2
+40145,OK,Oklahoma,Wagoner,7.3,6.5 - 8.2,7.3 - 8.6
+40147,OK,Oklahoma,Washington,7.4,6.5 - 8.4,7.3 - 8.6
+40149,OK,Oklahoma,Washita,7.6,6.6 - 8.6,7.3 - 8.6
+40151,OK,Oklahoma,Woods,7.2,6.2 - 8.3,6.0 - 7.2
+40153,OK,Oklahoma,Woodward,7.2,6.3 - 8.2,6.0 - 7.2
+41001,OR,Oregon,Baker,6.4,5.5 - 7.3,6.0 - 7.2
+41003,OR,Oregon,Benton,5.2,4.4 - 6.0,3.2 - 5.9
+41005,OR,Oregon,Clackamas,4.6,3.9 - 5.4,3.2 - 5.9
+41007,OR,Oregon,Clatsop,6,5.3 - 6.9,6.0 - 7.2
+41009,OR,Oregon,Columbia,6.3,5.5 - 7.2,6.0 - 7.2
+41011,OR,Oregon,Coos,7.1,6.2 - 8.0,6.0 - 7.2
+41013,OR,Oregon,Crook,6.5,5.7 - 7.5,6.0 - 7.2
+41015,OR,Oregon,Curry,6.2,5.3 - 7.1,6.0 - 7.2
+41017,OR,Oregon,Deschutes,5.2,4.5 - 6.1,3.2 - 5.9
+41019,OR,Oregon,Douglas,6.9,6.1 - 7.9,6.0 - 7.2
+41021,OR,Oregon,Gilliam,6.6,5.7 - 7.6,6.0 - 7.2
+41023,OR,Oregon,Grant,7.2,6.2 - 8.2,6.0 - 7.2
+41025,OR,Oregon,Harney,6.5,5.7 - 7.4,6.0 - 7.2
+41027,OR,Oregon,Hood River,5.3,4.5 - 6.2,3.2 - 5.9
+41029,OR,Oregon,Jackson,6.1,5.3 - 7.0,6.0 - 7.2
+41031,OR,Oregon,Jefferson,6.5,5.7 - 7.3,6.0 - 7.2
+41033,OR,Oregon,Josephine,7.2,6.3 - 8.1,6.0 - 7.2
+41035,OR,Oregon,Klamath,6.9,6.0 - 7.8,6.0 - 7.2
+41037,OR,Oregon,Lake,7.4,6.5 - 8.4,7.3 - 8.6
+41039,OR,Oregon,Lane,6.2,5.3 - 7.1,6.0 - 7.2
+41041,OR,Oregon,Lincoln,6.4,5.5 - 7.2,6.0 - 7.2
+41043,OR,Oregon,Linn,6.5,5.6 - 7.4,6.0 - 7.2
+41045,OR,Oregon,Malheur,7,6.2 - 7.8,6.0 - 7.2
+41047,OR,Oregon,Marion,5.9,5.1 - 6.7,3.2 - 5.9
+41049,OR,Oregon,Morrow,6.7,5.9 - 7.4,6.0 - 7.2
+41051,OR,Oregon,Multnomah,4.9,4.2 - 5.8,3.2 - 5.9
+41053,OR,Oregon,Polk,5.5,4.8 - 6.3,3.2 - 5.9
+41055,OR,Oregon,Sherman,6.3,5.5 - 7.2,6.0 - 7.2
+41057,OR,Oregon,Tillamook,6.2,5.3 - 7.1,6.0 - 7.2
+41059,OR,Oregon,Umatilla,6.6,5.8 - 7.5,6.0 - 7.2
+41061,OR,Oregon,Union,6.6,5.7 - 7.5,6.0 - 7.2
+41063,OR,Oregon,Wallowa,6.1,5.2 - 7.0,6.0 - 7.2
+41065,OR,Oregon,Wasco,6.1,5.3 - 7.0,6.0 - 7.2
+41067,OR,Oregon,Washington,4.3,3.7 - 5.1,3.2 - 5.9
+41069,OR,Oregon,Wheeler,7.2,6.4 - 8.0,6.0 - 7.2
+41071,OR,Oregon,Yamhill,5.7,4.9 - 6.5,3.2 - 5.9
+42001,PA,Pennsylvania,Adams,6.6,5.6 - 7.5,6.0 - 7.2
+42003,PA,Pennsylvania,Allegheny,5.7,4.9 - 6.7,3.2 - 5.9
+42005,PA,Pennsylvania,Armstrong,7.6,6.6 - 8.8,7.3 - 8.6
+42007,PA,Pennsylvania,Beaver,6.8,5.9 - 7.8,6.0 - 7.2
+42009,PA,Pennsylvania,Bedford,7.8,6.8 - 8.9,7.3 - 8.6
+42011,PA,Pennsylvania,Berks,6.3,5.5 - 7.3,6.0 - 7.2
+42013,PA,Pennsylvania,Blair,7.4,6.4 - 8.5,7.3 - 8.6
+42015,PA,Pennsylvania,Bradford,7.6,6.5 - 8.6,7.3 - 8.6
+42017,PA,Pennsylvania,Bucks,5.1,4.4 - 6.0,3.2 - 5.9
+42019,PA,Pennsylvania,Butler,5.7,4.9 - 6.7,3.2 - 5.9
+42021,PA,Pennsylvania,Cambria,7.3,6.3 - 8.3,7.3 - 8.6
+42023,PA,Pennsylvania,Cameron,8.1,7.2 - 9.1,7.3 - 8.6
+42025,PA,Pennsylvania,Carbon,7.1,6.2 - 8.1,6.0 - 7.2
+42027,PA,Pennsylvania,Centre,6.3,5.4 - 7.3,6.0 - 7.2
+42029,PA,Pennsylvania,Chester,4.7,3.9 - 5.6,3.2 - 5.9
+42031,PA,Pennsylvania,Clarion,7.9,6.8 - 9.1,7.3 - 8.6
+42033,PA,Pennsylvania,Clearfield,7.9,6.9 - 9.0,7.3 - 8.6
+42035,PA,Pennsylvania,Clinton,7.7,6.7 - 8.8,7.3 - 8.6
+42037,PA,Pennsylvania,Columbia,7.3,6.3 - 8.4,7.3 - 8.6
+42039,PA,Pennsylvania,Crawford,7.7,6.7 - 8.8,7.3 - 8.6
+42041,PA,Pennsylvania,Cumberland,5.7,4.8 - 6.7,3.2 - 5.9
+42043,PA,Pennsylvania,Dauphin,6.3,5.4 - 7.1,6.0 - 7.2
+42045,PA,Pennsylvania,Delaware,5.6,4.8 - 6.4,3.2 - 5.9
+42047,PA,Pennsylvania,Elk,7.1,6.1 - 8.1,6.0 - 7.2
+42049,PA,Pennsylvania,Erie,7.2,6.0 - 8.3,6.0 - 7.2
+42051,PA,Pennsylvania,Fayette,8.2,7.1 - 9.3,7.3 - 8.6
+42053,PA,Pennsylvania,Forest,8.6,7.6 - 9.5,7.3 - 8.6
+42055,PA,Pennsylvania,Franklin,6.9,5.9 - 7.9,6.0 - 7.2
+42057,PA,Pennsylvania,Fulton,7.7,6.7 - 8.7,7.3 - 8.6
+42059,PA,Pennsylvania,Greene,7.6,6.6 - 8.6,7.3 - 8.6
+42061,PA,Pennsylvania,Huntingdon,7.4,6.5 - 8.4,7.3 - 8.6
+42063,PA,Pennsylvania,Indiana,7.7,6.6 - 9.0,7.3 - 8.6
+42065,PA,Pennsylvania,Jefferson,8.1,7.1 - 9.2,7.3 - 8.6
+42067,PA,Pennsylvania,Juniata,8,6.9 - 9.1,7.3 - 8.6
+42069,PA,Pennsylvania,Lackawanna,6.8,5.8 - 7.9,6.0 - 7.2
+42071,PA,Pennsylvania,Lancaster,6.4,5.5 - 7.4,6.0 - 7.2
+42073,PA,Pennsylvania,Lawrence,7.4,6.4 - 8.5,7.3 - 8.6
+42075,PA,Pennsylvania,Lebanon,6.7,5.8 - 7.8,6.0 - 7.2
+42077,PA,Pennsylvania,Lehigh,5.8,5.1 - 6.7,3.2 - 5.9
+42079,PA,Pennsylvania,Luzerne,6.9,5.9 - 7.8,6.0 - 7.2
+42081,PA,Pennsylvania,Lycoming,7.1,6.1 - 8.1,6.0 - 7.2
+42083,PA,Pennsylvania,McKean,7.7,6.7 - 8.7,7.3 - 8.6
+42085,PA,Pennsylvania,Mercer,7.3,6.3 - 8.4,7.3 - 8.6
+42087,PA,Pennsylvania,Mifflin,8.4,7.3 - 9.6,7.3 - 8.6
+42089,PA,Pennsylvania,Monroe,6,5.3 - 6.7,6.0 - 7.2
+42091,PA,Pennsylvania,Montgomery,4.7,4.0 - 5.6,3.2 - 5.9
+42093,PA,Pennsylvania,Montour,6.6,5.6 - 7.8,6.0 - 7.2
+42095,PA,Pennsylvania,Northampton,5.7,5.0 - 6.5,3.2 - 5.9
+42097,PA,Pennsylvania,Northumberland,7.7,6.6 - 8.6,7.3 - 8.6
+42099,PA,Pennsylvania,Perry,7.3,6.4 - 8.3,7.3 - 8.6
+42101,PA,Pennsylvania,Philadelphia,6.9,6.2 - 7.6,6.0 - 7.2
+42103,PA,Pennsylvania,Pike,5.9,5.2 - 6.7,3.2 - 5.9
+42105,PA,Pennsylvania,Potter,8.1,7.1 - 9.3,7.3 - 8.6
+42107,PA,Pennsylvania,Schuylkill,7.4,6.5 - 8.4,7.3 - 8.6
+42109,PA,Pennsylvania,Snyder,7.3,6.3 - 8.3,7.3 - 8.6
+42111,PA,Pennsylvania,Somerset,7.7,6.7 - 8.8,7.3 - 8.6
+42113,PA,Pennsylvania,Sullivan,7.6,6.6 - 8.7,7.3 - 8.6
+42115,PA,Pennsylvania,Susquehanna,7.4,6.4 - 8.5,7.3 - 8.6
+42117,PA,Pennsylvania,Tioga,7.6,6.5 - 8.6,7.3 - 8.6
+42119,PA,Pennsylvania,Union,6.7,5.8 - 7.7,6.0 - 7.2
+42121,PA,Pennsylvania,Venango,7.7,6.6 - 8.8,7.3 - 8.6
+42123,PA,Pennsylvania,Warren,7.3,6.3 - 8.3,7.3 - 8.6
+42125,PA,Pennsylvania,Washington,6.4,5.4 - 7.4,6.0 - 7.2
+42127,PA,Pennsylvania,Wayne,7,6.1 - 8.0,6.0 - 7.2
+42129,PA,Pennsylvania,Westmoreland,6.3,5.4 - 7.4,6.0 - 7.2
+42131,PA,Pennsylvania,Wyoming,6.9,5.9 - 7.9,6.0 - 7.2
+42133,PA,Pennsylvania,York,6.5,5.6 - 7.4,6.0 - 7.2
+44001,RI,Rhode Island,Bristol,5.8,4.8 - 7.0,3.2 - 5.9
+44003,RI,Rhode Island,Kent,6.8,5.8 - 7.9,6.0 - 7.2
+44005,RI,Rhode Island,Newport,5.8,4.9 - 6.9,3.2 - 5.9
+44007,RI,Rhode Island,Providence,6.8,5.9 - 7.6,6.0 - 7.2
+44009,RI,Rhode Island,Washington,5.9,4.9 - 7.0,3.2 - 5.9
+45001,SC,South Carolina,Abbeville,8.3,7.4 - 9.3,7.3 - 8.6
+45003,SC,South Carolina,Aiken,7,6.1 - 8.0,6.0 - 7.2
+45005,SC,South Carolina,Allendale,9.1,8.2 - 10.0,8.7 - 15.5
+45007,SC,South Carolina,Anderson,7.7,6.7 - 8.9,7.3 - 8.6
+45009,SC,South Carolina,Bamberg,8,7.2 - 9.0,7.3 - 8.6
+45011,SC,South Carolina,Barnwell,9.1,8.3 - 10.0,8.7 - 15.5
+45013,SC,South Carolina,Beaufort,5.5,4.7 - 6.3,3.2 - 5.9
+45015,SC,South Carolina,Berkeley,6.5,5.7 - 7.3,6.0 - 7.2
+45017,SC,South Carolina,Calhoun,7.2,6.4 - 8.0,6.0 - 7.2
+45019,SC,South Carolina,Charleston,5.7,4.8 - 6.5,3.2 - 5.9
+45021,SC,South Carolina,Cherokee,8.7,7.6 - 9.7,8.7 - 15.5
+45023,SC,South Carolina,Chester,8.6,7.6 - 9.5,7.3 - 8.6
+45025,SC,South Carolina,Chesterfield,9,8.1 - 9.9,8.7 - 15.5
+45027,SC,South Carolina,Clarendon,8.6,7.7 - 9.6,7.3 - 8.6
+45029,SC,South Carolina,Colleton,8.6,7.8 - 9.5,7.3 - 8.6
+45031,SC,South Carolina,Darlington,8.2,7.3 - 9.1,7.3 - 8.6
+45033,SC,South Carolina,Dillon,10.2,9.2 - 11.2,8.7 - 15.5
+45035,SC,South Carolina,Dorchester,6.2,5.5 - 7.1,6.0 - 7.2
+45037,SC,South Carolina,Edgefield,7.7,6.8 - 8.5,7.3 - 8.6
+45039,SC,South Carolina,Fairfield,8.1,7.4 - 8.9,7.3 - 8.6
+45041,SC,South Carolina,Florence,7.5,6.7 - 8.3,7.3 - 8.6
+45043,SC,South Carolina,Georgetown,7,6.1 - 8.0,6.0 - 7.2
+45045,SC,South Carolina,Greenville,5.9,5.0 - 6.8,3.2 - 5.9
+45047,SC,South Carolina,Greenwood,7.6,6.7 - 8.6,7.3 - 8.6
+45049,SC,South Carolina,Hampton,9,8.2 - 9.8,8.7 - 15.5
+45051,SC,South Carolina,Horry,7.5,6.5 - 8.4,7.3 - 8.6
+45053,SC,South Carolina,Jasper,8,7.2 - 8.8,7.3 - 8.6
+45055,SC,South Carolina,Kershaw,7.1,6.3 - 7.9,6.0 - 7.2
+45057,SC,South Carolina,Lancaster,6.7,5.8 - 7.6,6.0 - 7.2
+45059,SC,South Carolina,Laurens,8.4,7.4 - 9.4,7.3 - 8.6
+45061,SC,South Carolina,Lee,8.7,7.8 - 9.7,8.7 - 15.5
+45063,SC,South Carolina,Lexington,6.4,5.6 - 7.4,6.0 - 7.2
+45065,SC,South Carolina,McCormick,7.4,6.6 - 8.3,7.3 - 8.6
+45067,SC,South Carolina,Marion,8.9,8.0 - 9.8,8.7 - 15.5
+45069,SC,South Carolina,Marlboro,9.7,8.8 - 10.6,8.7 - 15.5
+45071,SC,South Carolina,Newberry,7.8,6.9 - 8.7,7.3 - 8.6
+45073,SC,South Carolina,Oconee,7.5,6.5 - 8.7,7.3 - 8.6
+45075,SC,South Carolina,Orangeburg,7.9,7.1 - 8.7,7.3 - 8.6
+45077,SC,South Carolina,Pickens,7.4,6.3 - 8.5,7.3 - 8.6
+45079,SC,South Carolina,Richland,5.8,5.2 - 6.5,3.2 - 5.9
+45081,SC,South Carolina,Saluda,8.2,7.2 - 9.0,7.3 - 8.6
+45083,SC,South Carolina,Spartanburg,7,6.2 - 7.9,6.0 - 7.2
+45085,SC,South Carolina,Sumter,7.6,6.7 - 8.4,7.3 - 8.6
+45087,SC,South Carolina,Union,8.9,8.0 - 9.9,8.7 - 15.5
+45089,SC,South Carolina,Williamsburg,8.6,7.8 - 9.5,7.3 - 8.6
+45091,SC,South Carolina,York,6,5.2 - 6.9,6.0 - 7.2
+46003,SD,South Dakota,Aurora,4.9,4.1 - 5.7,3.2 - 5.9
+46005,SD,South Dakota,Beadle,5.9,5.0 - 6.8,3.2 - 5.9
+46007,SD,South Dakota,Bennett,9.5,8.6 - 10.6,8.7 - 15.5
+46009,SD,South Dakota,Bon Homme,5.9,5.1 - 6.7,3.2 - 5.9
+46011,SD,South Dakota,Brookings,4.6,3.9 - 5.3,3.2 - 5.9
+46013,SD,South Dakota,Brown,4.9,4.2 - 5.7,3.2 - 5.9
+46015,SD,South Dakota,Brule,5.6,4.7 - 6.5,3.2 - 5.9
+46017,SD,South Dakota,Buffalo,11.4,10.2 - 12.6,8.7 - 15.5
+46019,SD,South Dakota,Butte,6.2,5.3 - 7.1,6.0 - 7.2
+46021,SD,South Dakota,Campbell,4.8,4.1 - 5.7,3.2 - 5.9
+46023,SD,South Dakota,Charles Mix,7.1,6.3 - 7.9,6.0 - 7.2
+46025,SD,South Dakota,Clark,5.7,4.9 - 6.6,3.2 - 5.9
+46027,SD,South Dakota,Clay,5.2,4.4 - 6.0,3.2 - 5.9
+46029,SD,South Dakota,Codington,5.5,4.8 - 6.3,3.2 - 5.9
+46031,SD,South Dakota,Corson,10.4,9.3 - 11.5,8.7 - 15.5
+46033,SD,South Dakota,Custer,5.3,4.5 - 6.0,3.2 - 5.9
+46035,SD,South Dakota,Davison,5.5,4.7 - 6.3,3.2 - 5.9
+46037,SD,South Dakota,Day,6,5.2 - 6.9,6.0 - 7.2
+46039,SD,South Dakota,Deuel,5.1,4.4 - 5.9,3.2 - 5.9
+46041,SD,South Dakota,Dewey,9.4,8.3 - 10.4,8.7 - 15.5
+46043,SD,South Dakota,Douglas,5.3,4.5 - 6.0,3.2 - 5.9
+46045,SD,South Dakota,Edmunds,4.9,4.2 - 5.8,3.2 - 5.9
+46047,SD,South Dakota,Fall River,6,5.2 - 6.7,6.0 - 7.2
+46049,SD,South Dakota,Faulk,5.3,4.5 - 6.1,3.2 - 5.9
+46051,SD,South Dakota,Grant,5.1,4.3 - 5.9,3.2 - 5.9
+46053,SD,South Dakota,Gregory,6.3,5.4 - 7.1,6.0 - 7.2
+46055,SD,South Dakota,Haakon,6.3,5.5 - 7.1,6.0 - 7.2
+46057,SD,South Dakota,Hamlin,5,4.2 - 5.7,3.2 - 5.9
+46059,SD,South Dakota,Hand,4.9,4.1 - 5.6,3.2 - 5.9
+46061,SD,South Dakota,Hanson,5,4.3 - 5.8,3.2 - 5.9
+46063,SD,South Dakota,Harding,5,4.2 - 5.8,3.2 - 5.9
+46065,SD,South Dakota,Hughes,5,4.3 - 5.9,3.2 - 5.9
+46067,SD,South Dakota,Hutchinson,5.4,4.6 - 6.3,3.2 - 5.9
+46069,SD,South Dakota,Hyde,5,4.3 - 5.7,3.2 - 5.9
+46071,SD,South Dakota,Jackson,10,9.0 - 11.0,8.7 - 15.5
+46073,SD,South Dakota,Jerauld,4.9,4.1 - 5.6,3.2 - 5.9
+46075,SD,South Dakota,Jones,5,4.3 - 5.7,3.2 - 5.9
+46077,SD,South Dakota,Kingsbury,5.1,4.3 - 5.8,3.2 - 5.9
+46079,SD,South Dakota,Lake,5,4.2 - 5.9,3.2 - 5.9
+46081,SD,South Dakota,Lawrence,5.1,4.3 - 5.9,3.2 - 5.9
+46083,SD,South Dakota,Lincoln,4.2,3.5 - 4.9,3.2 - 5.9
+46085,SD,South Dakota,Lyman,7.1,6.3 - 7.9,6.0 - 7.2
+46087,SD,South Dakota,McCook,5.2,4.4 - 6.1,3.2 - 5.9
+46089,SD,South Dakota,McPherson,6.2,5.3 - 7.2,6.0 - 7.2
+46091,SD,South Dakota,Marshall,4.9,4.3 - 5.6,3.2 - 5.9
+46093,SD,South Dakota,Meade,5.1,4.4 - 5.8,3.2 - 5.9
+46095,SD,South Dakota,Mellette,10.9,9.9 - 12.0,8.7 - 15.5
+46097,SD,South Dakota,Miner,5.3,4.5 - 6.0,3.2 - 5.9
+46099,SD,South Dakota,Minnehaha,4.8,4.1 - 5.7,3.2 - 5.9
+46101,SD,South Dakota,Moody,5.4,4.8 - 6.2,3.2 - 5.9
+46102,SD,South Dakota,Oglala Lakota,12.5,11.1 - 14.0,8.7 - 15.5
+46103,SD,South Dakota,Pennington,5.3,4.6 - 6.1,3.2 - 5.9
+46105,SD,South Dakota,Perkins,5.5,4.8 - 6.3,3.2 - 5.9
+46107,SD,South Dakota,Potter,5,4.3 - 5.8,3.2 - 5.9
+46109,SD,South Dakota,Roberts,7.4,6.6 - 8.2,7.3 - 8.6
+46111,SD,South Dakota,Sanborn,5.1,4.4 - 5.8,3.2 - 5.9
+46115,SD,South Dakota,Spink,5.2,4.5 - 6.0,3.2 - 5.9
+46117,SD,South Dakota,Stanley,4.3,3.7 - 5.0,3.2 - 5.9
+46119,SD,South Dakota,Sully,5,4.3 - 5.7,3.2 - 5.9
+46121,SD,South Dakota,Todd,12.5,11.0 - 14.1,8.7 - 15.5
+46123,SD,South Dakota,Tripp,6.5,5.6 - 7.4,6.0 - 7.2
+46125,SD,South Dakota,Turner,5.3,4.5 - 6.2,3.2 - 5.9
+46127,SD,South Dakota,Union,4.7,4.0 - 5.5,3.2 - 5.9
+46129,SD,South Dakota,Walworth,5.3,4.5 - 6.1,3.2 - 5.9
+46135,SD,South Dakota,Yankton,5.3,4.5 - 6.1,3.2 - 5.9
+46137,SD,South Dakota,Ziebach,10.6,9.4 - 11.8,8.7 - 15.5
+47001,TN,Tennessee,Anderson,8.8,7.6 - 10.2,8.7 - 15.5
+47003,TN,Tennessee,Bedford,9.4,8.3 - 10.6,8.7 - 15.5
+47005,TN,Tennessee,Benton,11,9.6 - 12.4,8.7 - 15.5
+47007,TN,Tennessee,Bledsoe,11,9.6 - 12.5,8.7 - 15.5
+47009,TN,Tennessee,Blount,8.3,7.1 - 9.6,7.3 - 8.6
+47011,TN,Tennessee,Bradley,8.9,7.7 - 10.1,8.7 - 15.5
+47013,TN,Tennessee,Campbell,11.6,10.0 - 13.1,8.7 - 15.5
+47015,TN,Tennessee,Cannon,9.5,8.2 - 10.7,8.7 - 15.5
+47017,TN,Tennessee,Carroll,9.8,8.6 - 11.1,8.7 - 15.5
+47019,TN,Tennessee,Carter,10.8,9.4 - 12.4,8.7 - 15.5
+47021,TN,Tennessee,Cheatham,8.3,7.1 - 9.6,7.3 - 8.6
+47023,TN,Tennessee,Chester,9.4,8.3 - 10.6,8.7 - 15.5
+47025,TN,Tennessee,Claiborne,10.8,9.2 - 12.3,8.7 - 15.5
+47027,TN,Tennessee,Clay,12,10.4 - 13.6,8.7 - 15.5
+47029,TN,Tennessee,Cocke,11.5,10.1 - 13.0,8.7 - 15.5
+47031,TN,Tennessee,Coffee,9.1,7.8 - 10.5,8.7 - 15.5
+47033,TN,Tennessee,Crockett,10,8.9 - 11.1,8.7 - 15.5
+47035,TN,Tennessee,Cumberland,9.6,8.3 - 10.8,8.7 - 15.5
+47037,TN,Tennessee,Davidson,7,6.1 - 7.9,6.0 - 7.2
+47039,TN,Tennessee,Decatur,10.3,8.9 - 11.6,8.7 - 15.5
+47041,TN,Tennessee,DeKalb,9.9,8.6 - 11.3,8.7 - 15.5
+47043,TN,Tennessee,Dickson,9.2,7.9 - 10.5,8.7 - 15.5
+47045,TN,Tennessee,Dyer,9.7,8.5 - 10.9,8.7 - 15.5
+47047,TN,Tennessee,Fayette,8,7.1 - 9.0,7.3 - 8.6
+47049,TN,Tennessee,Fentress,11.3,9.7 - 12.8,8.7 - 15.5
+47051,TN,Tennessee,Franklin,8.7,7.6 - 10.0,8.7 - 15.5
+47053,TN,Tennessee,Gibson,9.5,8.4 - 10.6,8.7 - 15.5
+47055,TN,Tennessee,Giles,9.3,8.1 - 10.5,8.7 - 15.5
+47057,TN,Tennessee,Grainger,10.6,9.3 - 11.9,8.7 - 15.5
+47059,TN,Tennessee,Greene,10,8.6 - 11.5,8.7 - 15.5
+47061,TN,Tennessee,Grundy,11.7,10.2 - 13.3,8.7 - 15.5
+47063,TN,Tennessee,Hamblen,9.8,8.5 - 11.2,8.7 - 15.5
+47065,TN,Tennessee,Hamilton,7.4,6.4 - 8.5,7.3 - 8.6
+47067,TN,Tennessee,Hancock,12.5,11.0 - 14.1,8.7 - 15.5
+47069,TN,Tennessee,Hardeman,10.9,9.9 - 11.9,8.7 - 15.5
+47071,TN,Tennessee,Hardin,10.4,9.1 - 11.8,8.7 - 15.5
+47073,TN,Tennessee,Hawkins,10.3,9.0 - 11.7,8.7 - 15.5
+47075,TN,Tennessee,Haywood,9.9,9.0 - 10.8,8.7 - 15.5
+47077,TN,Tennessee,Henderson,10.3,9.0 - 11.6,8.7 - 15.5
+47079,TN,Tennessee,Henry,10.2,8.9 - 11.5,8.7 - 15.5
+47081,TN,Tennessee,Hickman,10.5,9.3 - 11.8,8.7 - 15.5
+47083,TN,Tennessee,Houston,10.7,9.2 - 12.2,8.7 - 15.5
+47085,TN,Tennessee,Humphreys,9.6,8.4 - 10.9,8.7 - 15.5
+47087,TN,Tennessee,Jackson,11,9.7 - 12.4,8.7 - 15.5
+47089,TN,Tennessee,Jefferson,9.3,8.2 - 10.6,8.7 - 15.5
+47091,TN,Tennessee,Johnson,11.7,10.3 - 13.2,8.7 - 15.5
+47093,TN,Tennessee,Knox,7.5,6.4 - 8.7,7.3 - 8.6
+47095,TN,Tennessee,Lake,12.1,10.9 - 13.5,8.7 - 15.5
+47097,TN,Tennessee,Lauderdale,11.3,10.2 - 12.4,8.7 - 15.5
+47099,TN,Tennessee,Lawrence,10.4,9.1 - 11.8,8.7 - 15.5
+47101,TN,Tennessee,Lewis,10.6,9.4 - 11.9,8.7 - 15.5
+47103,TN,Tennessee,Lincoln,9.5,8.3 - 10.7,8.7 - 15.5
+47105,TN,Tennessee,Loudon,7.9,6.7 - 9.2,7.3 - 8.6
+47107,TN,Tennessee,McMinn,10,8.8 - 11.2,8.7 - 15.5
+47109,TN,Tennessee,McNairy,10.8,9.5 - 12.3,8.7 - 15.5
+47111,TN,Tennessee,Macon,10.6,9.3 - 11.9,8.7 - 15.5
+47113,TN,Tennessee,Madison,8.5,7.6 - 9.5,7.3 - 8.6
+47115,TN,Tennessee,Marion,10,8.7 - 11.3,8.7 - 15.5
+47117,TN,Tennessee,Marshall,9.2,8.1 - 10.4,8.7 - 15.5
+47119,TN,Tennessee,Maury,7.8,6.9 - 8.8,7.3 - 8.6
+47121,TN,Tennessee,Meigs,10,8.8 - 11.3,8.7 - 15.5
+47123,TN,Tennessee,Monroe,10.6,9.3 - 12.1,8.7 - 15.5
+47125,TN,Tennessee,Montgomery,7.5,6.6 - 8.4,7.3 - 8.6
+47127,TN,Tennessee,Moore,8.7,7.5 - 9.9,8.7 - 15.5
+47129,TN,Tennessee,Morgan,11.4,10.0 - 12.9,8.7 - 15.5
+47131,TN,Tennessee,Obion,10.5,9.2 - 12.0,8.7 - 15.5
+47133,TN,Tennessee,Overton,10.9,9.5 - 12.3,8.7 - 15.5
+47135,TN,Tennessee,Perry,11.7,10.2 - 13.3,8.7 - 15.5
+47137,TN,Tennessee,Pickett,11.3,9.9 - 12.7,8.7 - 15.5
+47139,TN,Tennessee,Polk,10.2,8.9 - 11.6,8.7 - 15.5
+47141,TN,Tennessee,Putnam,9.1,7.8 - 10.4,8.7 - 15.5
+47143,TN,Tennessee,Rhea,10.3,8.9 - 11.7,8.7 - 15.5
+47145,TN,Tennessee,Roane,8.9,7.7 - 10.1,8.7 - 15.5
+47147,TN,Tennessee,Robertson,8.3,7.2 - 9.5,7.3 - 8.6
+47149,TN,Tennessee,Rutherford,7,6.1 - 7.9,6.0 - 7.2
+47151,TN,Tennessee,Scott,11.6,10.1 - 13.0,8.7 - 15.5
+47153,TN,Tennessee,Sequatchie,10.1,8.8 - 11.6,8.7 - 15.5
+47155,TN,Tennessee,Sevier,9.2,7.8 - 10.6,8.7 - 15.5
+47157,TN,Tennessee,Shelby,7.9,6.9 - 8.8,7.3 - 8.6
+47159,TN,Tennessee,Smith,10,8.7 - 11.2,8.7 - 15.5
+47161,TN,Tennessee,Stewart,9,7.8 - 10.2,8.7 - 15.5
+47163,TN,Tennessee,Sullivan,9.4,8.0 - 10.8,8.7 - 15.5
+47165,TN,Tennessee,Sumner,7.4,6.4 - 8.6,7.3 - 8.6
+47167,TN,Tennessee,Tipton,8.5,7.5 - 9.7,7.3 - 8.6
+47169,TN,Tennessee,Trousdale,8.7,7.7 - 9.8,8.7 - 15.5
+47171,TN,Tennessee,Unicoi,10.1,8.9 - 11.4,8.7 - 15.5
+47173,TN,Tennessee,Union,11.1,9.8 - 12.7,8.7 - 15.5
+47175,TN,Tennessee,Van Buren,11.6,10.2 - 13.0,8.7 - 15.5
+47177,TN,Tennessee,Warren,10.5,9.3 - 11.8,8.7 - 15.5
+47179,TN,Tennessee,Washington,8.5,7.2 - 9.8,7.3 - 8.6
+47181,TN,Tennessee,Wayne,10.6,9.3 - 11.9,8.7 - 15.5
+47183,TN,Tennessee,Weakley,10,8.7 - 11.4,8.7 - 15.5
+47185,TN,Tennessee,White,10.7,9.4 - 12.0,8.7 - 15.5
+47187,TN,Tennessee,Williamson,5.1,4.2 - 6.1,3.2 - 5.9
+47189,TN,Tennessee,Wilson,6.9,5.9 - 8.0,6.0 - 7.2
+48001,TX,Texas,Anderson,7.8,7.0 - 8.6,7.3 - 8.6
+48003,TX,Texas,Andrews,5.8,5.2 - 6.5,3.2 - 5.9
+48005,TX,Texas,Angelina,7.9,7.0 - 8.8,7.3 - 8.6
+48007,TX,Texas,Aransas,7.5,6.6 - 8.5,7.3 - 8.6
+48009,TX,Texas,Archer,6.8,5.9 - 7.7,6.0 - 7.2
+48011,TX,Texas,Armstrong,6.4,5.5 - 7.3,6.0 - 7.2
+48013,TX,Texas,Atascosa,5.6,5.0 - 6.3,3.2 - 5.9
+48015,TX,Texas,Austin,6.2,5.4 - 7.0,6.0 - 7.2
+48017,TX,Texas,Bailey,5.4,4.7 - 6.0,3.2 - 5.9
+48019,TX,Texas,Bandera,6.4,5.6 - 7.2,6.0 - 7.2
+48021,TX,Texas,Bastrop,6.2,5.5 - 7.0,6.0 - 7.2
+48023,TX,Texas,Baylor,6.7,5.8 - 7.7,6.0 - 7.2
+48025,TX,Texas,Bee,6.3,5.7 - 7.0,6.0 - 7.2
+48027,TX,Texas,Bell,6,5.4 - 6.6,6.0 - 7.2
+48029,TX,Texas,Bexar,5,4.4 - 5.6,3.2 - 5.9
+48031,TX,Texas,Blanco,6,5.2 - 6.8,6.0 - 7.2
+48033,TX,Texas,Borden,4.6,4.0 - 5.4,3.2 - 5.9
+48035,TX,Texas,Bosque,7.2,6.4 - 8.2,6.0 - 7.2
+48037,TX,Texas,Bowie,7.4,6.6 - 8.3,7.3 - 8.6
+48039,TX,Texas,Brazoria,5,4.5 - 5.6,3.2 - 5.9
+48041,TX,Texas,Brazos,6.3,5.5 - 7.0,6.0 - 7.2
+48043,TX,Texas,Brewster,5.1,4.4 - 5.9,3.2 - 5.9
+48045,TX,Texas,Briscoe,7.6,6.8 - 8.5,7.3 - 8.6
+48047,TX,Texas,Brooks,7,6.0 - 8.1,6.0 - 7.2
+48049,TX,Texas,Brown,6.8,6.0 - 7.6,6.0 - 7.2
+48051,TX,Texas,Burleson,6.7,5.9 - 7.5,6.0 - 7.2
+48053,TX,Texas,Burnet,6.2,5.4 - 7.0,6.0 - 7.2
+48055,TX,Texas,Caldwell,6.5,5.9 - 7.2,6.0 - 7.2
+48057,TX,Texas,Calhoun,6.3,5.6 - 6.9,6.0 - 7.2
+48059,TX,Texas,Callahan,7.1,6.2 - 8.1,6.0 - 7.2
+48061,TX,Texas,Cameron,6.4,5.4 - 7.3,6.0 - 7.2
+48063,TX,Texas,Camp,6.9,6.1 - 7.7,6.0 - 7.2
+48065,TX,Texas,Carson,6,5.2 - 6.9,6.0 - 7.2
+48067,TX,Texas,Cass,8.5,7.4 - 9.6,7.3 - 8.6
+48069,TX,Texas,Castro,5.7,5.1 - 6.4,3.2 - 5.9
+48071,TX,Texas,Chambers,6.1,5.4 - 6.8,6.0 - 7.2
+48073,TX,Texas,Cherokee,7.9,7.0 - 9.0,7.3 - 8.6
+48075,TX,Texas,Childress,7.2,6.3 - 8.1,6.0 - 7.2
+48077,TX,Texas,Clay,6.8,5.9 - 7.7,6.0 - 7.2
+48079,TX,Texas,Cochran,7.8,7.1 - 8.6,7.3 - 8.6
+48081,TX,Texas,Coke,6.9,6.1 - 7.9,6.0 - 7.2
+48083,TX,Texas,Coleman,7,6.1 - 7.8,6.0 - 7.2
+48085,TX,Texas,Collin,4.4,3.7 - 5.0,3.2 - 5.9
+48087,TX,Texas,Collingsworth,7.5,6.6 - 8.5,7.3 - 8.6
+48089,TX,Texas,Colorado,6.4,5.7 - 7.1,6.0 - 7.2
+48091,TX,Texas,Comal,5,4.4 - 5.8,3.2 - 5.9
+48093,TX,Texas,Comanche,6.3,5.5 - 7.2,6.0 - 7.2
+48095,TX,Texas,Concho,7.1,6.3 - 8.0,6.0 - 7.2
+48097,TX,Texas,Cooke,6.8,5.9 - 7.8,6.0 - 7.2
+48099,TX,Texas,Coryell,7,6.2 - 7.7,6.0 - 7.2
+48101,TX,Texas,Cottle,8.9,7.8 - 10.0,8.7 - 15.5
+48103,TX,Texas,Crane,5.3,4.7 - 5.9,3.2 - 5.9
+48105,TX,Texas,Crockett,5.2,4.6 - 5.8,3.2 - 5.9
+48107,TX,Texas,Crosby,7.2,6.4 - 7.9,6.0 - 7.2
+48109,TX,Texas,Culberson,7.4,6.6 - 8.3,7.3 - 8.6
+48111,TX,Texas,Dallam,6.3,5.6 - 7.0,6.0 - 7.2
+48113,TX,Texas,Dallas,5.9,5.2 - 6.5,3.2 - 5.9
+48115,TX,Texas,Dawson,7.6,6.8 - 8.4,7.3 - 8.6
+48117,TX,Texas,Deaf Smith,6.1,5.4 - 6.8,6.0 - 7.2
+48119,TX,Texas,Delta,7.3,6.4 - 8.4,7.3 - 8.6
+48121,TX,Texas,Denton,4.7,4.0 - 5.4,3.2 - 5.9
+48123,TX,Texas,DeWitt,6.9,6.2 - 7.7,6.0 - 7.2
+48125,TX,Texas,Dickens,7.5,6.6 - 8.4,7.3 - 8.6
+48127,TX,Texas,Dimmit,7.2,6.2 - 8.2,6.0 - 7.2
+48129,TX,Texas,Donley,7.4,6.5 - 8.3,7.3 - 8.6
+48131,TX,Texas,Duval,5.9,5.2 - 6.7,3.2 - 5.9
+48133,TX,Texas,Eastland,8,7.0 - 9.0,7.3 - 8.6
+48135,TX,Texas,Ector,5.6,4.9 - 6.2,3.2 - 5.9
+48137,TX,Texas,Edwards,6.7,5.9 - 7.5,6.0 - 7.2
+48139,TX,Texas,Ellis,5.8,5.1 - 6.5,3.2 - 5.9
+48141,TX,Texas,El Paso,4.9,4.2 - 5.7,3.2 - 5.9
+48143,TX,Texas,Erath,6.7,5.9 - 7.6,6.0 - 7.2
+48145,TX,Texas,Falls,8.4,7.6 - 9.2,7.3 - 8.6
+48147,TX,Texas,Fannin,7.4,6.4 - 8.4,7.3 - 8.6
+48149,TX,Texas,Fayette,6.7,5.9 - 7.6,6.0 - 7.2
+48151,TX,Texas,Fisher,6.4,5.7 - 7.2,6.0 - 7.2
+48153,TX,Texas,Floyd,6.2,5.5 - 6.9,6.0 - 7.2
+48155,TX,Texas,Foard,7.3,6.3 - 8.2,7.3 - 8.6
+48157,TX,Texas,Fort Bend,4.2,3.7 - 4.7,3.2 - 5.9
+48159,TX,Texas,Franklin,5.9,5.1 - 6.8,3.2 - 5.9
+48161,TX,Texas,Freestone,7.8,6.9 - 8.7,7.3 - 8.6
+48163,TX,Texas,Frio,6.2,5.5 - 7.0,6.0 - 7.2
+48165,TX,Texas,Gaines,7,6.2 - 7.7,6.0 - 7.2
+48167,TX,Texas,Galveston,5.7,5.0 - 6.4,3.2 - 5.9
+48169,TX,Texas,Garza,7.3,6.4 - 8.2,7.3 - 8.6
+48171,TX,Texas,Gillespie,5.7,4.8 - 6.7,3.2 - 5.9
+48173,TX,Texas,Glasscock,6.8,5.8 - 7.8,6.0 - 7.2
+48175,TX,Texas,Goliad,6.1,5.4 - 6.8,6.0 - 7.2
+48177,TX,Texas,Gonzales,6.6,6.0 - 7.3,6.0 - 7.2
+48179,TX,Texas,Gray,7.7,6.8 - 8.6,7.3 - 8.6
+48181,TX,Texas,Grayson,7,6.1 - 7.8,6.0 - 7.2
+48183,TX,Texas,Gregg,7.5,6.6 - 8.4,7.3 - 8.6
+48185,TX,Texas,Grimes,7.7,6.9 - 8.5,7.3 - 8.6
+48187,TX,Texas,Guadalupe,5.1,4.5 - 5.7,3.2 - 5.9
+48189,TX,Texas,Hale,6,5.3 - 6.7,6.0 - 7.2
+48191,TX,Texas,Hall,8.4,7.5 - 9.4,7.3 - 8.6
+48193,TX,Texas,Hamilton,7.7,6.7 - 8.9,7.3 - 8.6
+48195,TX,Texas,Hansford,7.8,6.9 - 8.7,7.3 - 8.6
+48197,TX,Texas,Hardeman,7.6,6.8 - 8.5,7.3 - 8.6
+48199,TX,Texas,Hardin,7.3,6.4 - 8.3,7.3 - 8.6
+48201,TX,Texas,Harris,5.5,5.0 - 6.1,3.2 - 5.9
+48203,TX,Texas,Harrison,7.5,6.7 - 8.3,7.3 - 8.6
+48205,TX,Texas,Hartley,5.7,5.0 - 6.4,3.2 - 5.9
+48207,TX,Texas,Haskell,9,8.0 - 9.9,8.7 - 15.5
+48209,TX,Texas,Hays,5.2,4.6 - 5.9,3.2 - 5.9
+48211,TX,Texas,Hemphill,5.9,5.1 - 6.7,3.2 - 5.9
+48213,TX,Texas,Henderson,8.1,7.1 - 9.2,7.3 - 8.6
+48215,TX,Texas,Hidalgo,6.2,5.2 - 7.2,6.0 - 7.2
+48217,TX,Texas,Hill,7.1,6.2 - 8.0,6.0 - 7.2
+48219,TX,Texas,Hockley,6.6,5.9 - 7.4,6.0 - 7.2
+48221,TX,Texas,Hood,6.3,5.5 - 7.3,6.0 - 7.2
+48223,TX,Texas,Hopkins,7.3,6.4 - 8.3,7.3 - 8.6
+48225,TX,Texas,Houston,8.9,7.9 - 9.9,8.7 - 15.5
+48227,TX,Texas,Howard,6.6,6.0 - 7.4,6.0 - 7.2
+48229,TX,Texas,Hudspeth,7.6,6.7 - 8.5,7.3 - 8.6
+48231,TX,Texas,Hunt,7.4,6.5 - 8.4,7.3 - 8.6
+48233,TX,Texas,Hutchinson,7.1,6.3 - 7.9,6.0 - 7.2
+48235,TX,Texas,Irion,5.9,5.3 - 6.5,3.2 - 5.9
+48237,TX,Texas,Jack,8.1,7.1 - 9.1,7.3 - 8.6
+48239,TX,Texas,Jackson,6.3,5.6 - 7.0,6.0 - 7.2
+48241,TX,Texas,Jasper,8.5,7.6 - 9.4,7.3 - 8.6
+48243,TX,Texas,Jeff Davis,5.8,4.9 - 6.6,3.2 - 5.9
+48245,TX,Texas,Jefferson,6.9,6.2 - 7.6,6.0 - 7.2
+48247,TX,Texas,Jim Hogg,6.2,5.4 - 7.0,6.0 - 7.2
+48249,TX,Texas,Jim Wells,5.8,5.1 - 6.6,3.2 - 5.9
+48251,TX,Texas,Johnson,6.7,5.9 - 7.5,6.0 - 7.2
+48253,TX,Texas,Jones,7.3,6.5 - 8.1,7.3 - 8.6
+48255,TX,Texas,Karnes,6.1,5.5 - 6.8,6.0 - 7.2
+48257,TX,Texas,Kaufman,6.4,5.6 - 7.1,6.0 - 7.2
+48259,TX,Texas,Kendall,4.9,4.1 - 5.7,3.2 - 5.9
+48261,TX,Texas,Kenedy,9.2,8.5 - 10.0,8.7 - 15.5
+48263,TX,Texas,Kent,5.9,5.1 - 6.8,3.2 - 5.9
+48265,TX,Texas,Kerr,6.1,5.3 - 6.9,6.0 - 7.2
+48267,TX,Texas,Kimble,7.5,6.5 - 8.4,7.3 - 8.6
+48269,TX,Texas,King,7.8,6.6 - 9.0,7.3 - 8.6
+48271,TX,Texas,Kinney,7,6.2 - 7.8,6.0 - 7.2
+48273,TX,Texas,Kleberg,5.6,4.8 - 6.4,3.2 - 5.9
+48275,TX,Texas,Knox,7.3,6.4 - 8.1,7.3 - 8.6
+48277,TX,Texas,Lamar,8.1,7.0 - 9.1,7.3 - 8.6
+48279,TX,Texas,Lamb,7.1,6.4 - 7.9,6.0 - 7.2
+48281,TX,Texas,Lampasas,6.4,5.6 - 7.1,6.0 - 7.2
+48283,TX,Texas,La Salle,5.5,4.8 - 6.2,3.2 - 5.9
+48285,TX,Texas,Lavaca,6.7,6.0 - 7.6,6.0 - 7.2
+48287,TX,Texas,Lee,6.9,6.1 - 7.7,6.0 - 7.2
+48289,TX,Texas,Leon,8.3,7.4 - 9.4,7.3 - 8.6
+48291,TX,Texas,Liberty,7.9,7.1 - 8.8,7.3 - 8.6
+48293,TX,Texas,Limestone,8,7.2 - 8.9,7.3 - 8.6
+48295,TX,Texas,Lipscomb,6.5,5.6 - 7.4,6.0 - 7.2
+48297,TX,Texas,Live Oak,6.8,6.2 - 7.6,6.0 - 7.2
+48299,TX,Texas,Llano,7.1,6.1 - 8.2,6.0 - 7.2
+48301,TX,Texas,Loving,6,5.4 - 6.8,6.0 - 7.2
+48303,TX,Texas,Lubbock,6.1,5.4 - 6.8,6.0 - 7.2
+48305,TX,Texas,Lynn,7.2,6.5 - 8.0,6.0 - 7.2
+48307,TX,Texas,McCulloch,7.1,6.2 - 7.9,6.0 - 7.2
+48309,TX,Texas,McLennan,6.9,6.1 - 7.7,6.0 - 7.2
+48311,TX,Texas,McMullen,4.6,4.1 - 5.2,3.2 - 5.9
+48313,TX,Texas,Madison,7,6.2 - 7.8,6.0 - 7.2
+48315,TX,Texas,Marion,8.5,7.6 - 9.4,7.3 - 8.6
+48317,TX,Texas,Martin,5.9,5.1 - 6.5,3.2 - 5.9
+48319,TX,Texas,Mason,6.1,5.2 - 6.9,6.0 - 7.2
+48321,TX,Texas,Matagorda,6.7,5.9 - 7.4,6.0 - 7.2
+48323,TX,Texas,Maverick,6.4,5.4 - 7.4,6.0 - 7.2
+48325,TX,Texas,Medina,5.3,4.7 - 5.9,3.2 - 5.9
+48327,TX,Texas,Menard,6.5,5.7 - 7.3,6.0 - 7.2
+48329,TX,Texas,Midland,5.1,4.4 - 5.7,3.2 - 5.9
+48331,TX,Texas,Milam,7.4,6.6 - 8.3,7.3 - 8.6
+48333,TX,Texas,Mills,7.2,6.2 - 8.3,6.0 - 7.2
+48335,TX,Texas,Mitchell,6.5,5.8 - 7.3,6.0 - 7.2
+48337,TX,Texas,Montague,7.9,6.9 - 9.0,7.3 - 8.6
+48339,TX,Texas,Montgomery,5.7,4.9 - 6.5,3.2 - 5.9
+48341,TX,Texas,Moore,6.1,5.5 - 6.8,6.0 - 7.2
+48343,TX,Texas,Morris,7.9,7.1 - 8.7,7.3 - 8.6
+48345,TX,Texas,Motley,6.7,5.8 - 7.6,6.0 - 7.2
+48347,TX,Texas,Nacogdoches,7.8,6.9 - 8.7,7.3 - 8.6
+48349,TX,Texas,Navarro,7.5,6.8 - 8.4,7.3 - 8.6
+48351,TX,Texas,Newton,9.3,8.4 - 10.3,8.7 - 15.5
+48353,TX,Texas,Nolan,6.8,6.1 - 7.6,6.0 - 7.2
+48355,TX,Texas,Nueces,5.7,5.0 - 6.4,3.2 - 5.9
+48357,TX,Texas,Ochiltree,7,6.2 - 7.8,6.0 - 7.2
+48359,TX,Texas,Oldham,6.3,5.5 - 7.1,6.0 - 7.2
+48361,TX,Texas,Orange,7.5,6.6 - 8.4,7.3 - 8.6
+48363,TX,Texas,Palo Pinto,7.8,6.9 - 8.7,7.3 - 8.6
+48365,TX,Texas,Panola,7.9,7.0 - 8.9,7.3 - 8.6
+48367,TX,Texas,Parker,6.2,5.4 - 7.1,6.0 - 7.2
+48369,TX,Texas,Parmer,6.3,5.5 - 7.1,6.0 - 7.2
+48371,TX,Texas,Pecos,5.7,5.0 - 6.3,3.2 - 5.9
+48373,TX,Texas,Polk,8,7.0 - 8.9,7.3 - 8.6
+48375,TX,Texas,Potter,7.5,6.8 - 8.3,7.3 - 8.6
+48377,TX,Texas,Presidio,8.3,7.0 - 9.5,7.3 - 8.6
+48379,TX,Texas,Rains,7.5,6.6 - 8.6,7.3 - 8.6
+48381,TX,Texas,Randall,5.4,4.7 - 6.2,3.2 - 5.9
+48383,TX,Texas,Reagan,5.2,4.7 - 5.7,3.2 - 5.9
+48385,TX,Texas,Real,8.2,7.3 - 9.2,7.3 - 8.6
+48387,TX,Texas,Red River,8.7,7.8 - 9.6,8.7 - 15.5
+48389,TX,Texas,Reeves,5.4,4.7 - 6.0,3.2 - 5.9
+48391,TX,Texas,Refugio,6,5.5 - 6.6,6.0 - 7.2
+48393,TX,Texas,Roberts,6.4,5.5 - 7.3,6.0 - 7.2
+48395,TX,Texas,Robertson,7,6.2 - 7.7,6.0 - 7.2
+48397,TX,Texas,Rockwall,4.8,4.1 - 5.5,3.2 - 5.9
+48399,TX,Texas,Runnels,6.8,6.0 - 7.6,6.0 - 7.2
+48401,TX,Texas,Rusk,7.4,6.5 - 8.2,7.3 - 8.6
+48403,TX,Texas,Sabine,9,7.8 - 10.2,8.7 - 15.5
+48405,TX,Texas,San Augustine,8.9,7.8 - 9.9,8.7 - 15.5
+48407,TX,Texas,San Jacinto,8.3,7.5 - 9.3,7.3 - 8.6
+48409,TX,Texas,San Patricio,5.9,5.3 - 6.5,3.2 - 5.9
+48411,TX,Texas,San Saba,7.5,6.7 - 8.4,7.3 - 8.6
+48413,TX,Texas,Schleicher,5.4,4.8 - 6.1,3.2 - 5.9
+48415,TX,Texas,Scurry,6.8,6.1 - 7.6,6.0 - 7.2
+48417,TX,Texas,Shackelford,6.8,5.8 - 7.9,6.0 - 7.2
+48419,TX,Texas,Shelby,8.7,7.7 - 9.6,8.7 - 15.5
+48421,TX,Texas,Sherman,6.2,5.5 - 6.9,6.0 - 7.2
+48423,TX,Texas,Smith,6.7,5.9 - 7.6,6.0 - 7.2
+48425,TX,Texas,Somervell,6.9,6.0 - 7.9,6.0 - 7.2
+48427,TX,Texas,Starr,7.7,6.5 - 8.9,7.3 - 8.6
+48429,TX,Texas,Stephens,7.7,6.7 - 8.7,7.3 - 8.6
+48431,TX,Texas,Sterling,5.9,5.4 - 6.5,3.2 - 5.9
+48433,TX,Texas,Stonewall,7.4,6.5 - 8.3,7.3 - 8.6
+48435,TX,Texas,Sutton,5.3,4.7 - 5.9,3.2 - 5.9
+48437,TX,Texas,Swisher,7.7,6.9 - 8.6,7.3 - 8.6
+48439,TX,Texas,Tarrant,5.7,5.0 - 6.4,3.2 - 5.9
+48441,TX,Texas,Taylor,6.4,5.6 - 7.1,6.0 - 7.2
+48443,TX,Texas,Terrell,5.6,5.0 - 6.3,3.2 - 5.9
+48445,TX,Texas,Terry,7.4,6.6 - 8.2,7.3 - 8.6
+48447,TX,Texas,Throckmorton,7.1,6.2 - 8.1,6.0 - 7.2
+48449,TX,Texas,Titus,7.3,6.4 - 8.1,7.3 - 8.6
+48451,TX,Texas,Tom Green,5.7,5.0 - 6.3,3.2 - 5.9
+48453,TX,Texas,Travis,4.5,3.9 - 5.1,3.2 - 5.9
+48455,TX,Texas,Trinity,8.4,7.4 - 9.5,7.3 - 8.6
+48457,TX,Texas,Tyler,8.3,7.3 - 9.4,7.3 - 8.6
+48459,TX,Texas,Upshur,7.7,6.8 - 8.7,7.3 - 8.6
+48461,TX,Texas,Upton,6,5.4 - 6.6,6.0 - 7.2
+48463,TX,Texas,Uvalde,6,5.3 - 6.7,6.0 - 7.2
+48465,TX,Texas,Val Verde,6,5.1 - 6.8,6.0 - 7.2
+48467,TX,Texas,Van Zandt,7.7,6.7 - 8.7,7.3 - 8.6
+48469,TX,Texas,Victoria,5.9,5.3 - 6.6,3.2 - 5.9
+48471,TX,Texas,Walker,7.3,6.5 - 8.1,7.3 - 8.6
+48473,TX,Texas,Waller,6.6,5.9 - 7.2,6.0 - 7.2
+48475,TX,Texas,Ward,6,5.3 - 6.5,6.0 - 7.2
+48477,TX,Texas,Washington,6.6,5.8 - 7.5,6.0 - 7.2
+48479,TX,Texas,Webb,5.9,4.9 - 6.8,3.2 - 5.9
+48481,TX,Texas,Wharton,6.8,6.1 - 7.5,6.0 - 7.2
+48483,TX,Texas,Wheeler,7.5,6.7 - 8.6,7.3 - 8.6
+48485,TX,Texas,Wichita,6.9,6.1 - 7.8,6.0 - 7.2
+48487,TX,Texas,Wilbarger,8,7.2 - 8.9,7.3 - 8.6
+48489,TX,Texas,Willacy,7.1,6.3 - 8.1,6.0 - 7.2
+48491,TX,Texas,Williamson,4.6,4.0 - 5.2,3.2 - 5.9
+48493,TX,Texas,Wilson,5.2,4.7 - 5.9,3.2 - 5.9
+48495,TX,Texas,Winkler,6.1,5.5 - 6.8,6.0 - 7.2
+48497,TX,Texas,Wise,6.7,5.9 - 7.7,6.0 - 7.2
+48499,TX,Texas,Wood,7.5,6.5 - 8.5,7.3 - 8.6
+48501,TX,Texas,Yoakum,6.2,5.5 - 6.9,6.0 - 7.2
+48503,TX,Texas,Young,7.3,6.3 - 8.2,7.3 - 8.6
+48505,TX,Texas,Zapata,6.8,5.8 - 7.8,6.0 - 7.2
+48507,TX,Texas,Zavala,7.4,6.4 - 8.5,7.3 - 8.6
+49001,UT,Utah,Beaver,5.6,4.8 - 6.3,3.2 - 5.9
+49003,UT,Utah,Box Elder,5.2,4.6 - 6.0,3.2 - 5.9
+49005,UT,Utah,Cache,5.1,4.4 - 5.9,3.2 - 5.9
+49007,UT,Utah,Carbon,5.7,5.0 - 6.5,3.2 - 5.9
+49009,UT,Utah,Daggett,4.9,4.3 - 5.6,3.2 - 5.9
+49011,UT,Utah,Davis,4.2,3.6 - 4.9,3.2 - 5.9
+49013,UT,Utah,Duchesne,6.2,5.4 - 7.0,6.0 - 7.2
+49015,UT,Utah,Emery,5.9,5.2 - 6.6,3.2 - 5.9
+49017,UT,Utah,Garfield,5.6,4.8 - 6.4,3.2 - 5.9
+49019,UT,Utah,Grand,5,4.4 - 5.8,3.2 - 5.9
+49021,UT,Utah,Iron,6,5.2 - 6.8,6.0 - 7.2
+49023,UT,Utah,Juab,6,5.2 - 6.8,6.0 - 7.2
+49025,UT,Utah,Kane,5.3,4.6 - 6.3,3.2 - 5.9
+49027,UT,Utah,Millard,5.8,5.1 - 6.6,3.2 - 5.9
+49029,UT,Utah,Morgan,4.3,3.6 - 5.0,3.2 - 5.9
+49031,UT,Utah,Piute,6.2,5.4 - 7.2,6.0 - 7.2
+49033,UT,Utah,Rich,5.4,4.7 - 6.2,3.2 - 5.9
+49035,UT,Utah,Salt Lake,4.6,4.0 - 5.3,3.2 - 5.9
+49037,UT,Utah,San Juan,7.8,7.0 - 8.6,7.3 - 8.6
+49039,UT,Utah,Sanpete,6,5.3 - 6.8,6.0 - 7.2
+49041,UT,Utah,Sevier,6.3,5.4 - 7.2,6.0 - 7.2
+49043,UT,Utah,Summit,3.7,3.1 - 4.5,3.2 - 5.9
+49045,UT,Utah,Tooele,5.2,4.5 - 6.0,3.2 - 5.9
+49047,UT,Utah,Uintah,6.4,5.7 - 7.3,6.0 - 7.2
+49049,UT,Utah,Utah,4.4,3.8 - 5.1,3.2 - 5.9
+49051,UT,Utah,Wasatch,4.2,3.5 - 4.9,3.2 - 5.9
+49053,UT,Utah,Washington,5.1,4.4 - 5.9,3.2 - 5.9
+49055,UT,Utah,Wayne,5.6,4.8 - 6.5,3.2 - 5.9
+49057,UT,Utah,Weber,5,4.4 - 5.7,3.2 - 5.9
+50001,VT,Vermont,Addison,5.4,4.6 - 6.4,3.2 - 5.9
+50003,VT,Vermont,Bennington,6.5,5.5 - 7.6,6.0 - 7.2
+50005,VT,Vermont,Caledonia,6.8,5.7 - 7.9,6.0 - 7.2
+50007,VT,Vermont,Chittenden,5.2,4.4 - 6.2,3.2 - 5.9
+50009,VT,Vermont,Essex,7.9,6.7 - 8.9,7.3 - 8.6
+50011,VT,Vermont,Franklin,6.6,5.7 - 7.7,6.0 - 7.2
+50013,VT,Vermont,Grand Isle,5.5,4.6 - 6.4,3.2 - 5.9
+50015,VT,Vermont,Lamoille,6.3,5.3 - 7.3,6.0 - 7.2
+50017,VT,Vermont,Orange,6.5,5.5 - 7.5,6.0 - 7.2
+50019,VT,Vermont,Orleans,7.4,6.3 - 8.5,7.3 - 8.6
+50021,VT,Vermont,Rutland,6.4,5.4 - 7.4,6.0 - 7.2
+50023,VT,Vermont,Washington,6,5.0 - 7.1,6.0 - 7.2
+50025,VT,Vermont,Windham,6.3,5.3 - 7.3,6.0 - 7.2
+50027,VT,Vermont,Windsor,6,5.1 - 7.1,6.0 - 7.2
+51001,VA,Virginia,Accomack,8.4,7.4 - 9.3,7.3 - 8.6
+51003,VA,Virginia,Albemarle,5.3,4.4 - 6.3,3.2 - 5.9
+51005,VA,Virginia,Alleghany,8.7,7.6 - 9.9,8.7 - 15.5
+51007,VA,Virginia,Amelia,7.5,6.6 - 8.4,7.3 - 8.6
+51009,VA,Virginia,Amherst,7.8,6.9 - 8.8,7.3 - 8.6
+51011,VA,Virginia,Appomattox,7.7,6.6 - 8.6,7.3 - 8.6
+51013,VA,Virginia,Arlington,3.6,3.1 - 4.3,3.2 - 5.9
+51015,VA,Virginia,Augusta,7.1,6.1 - 8.2,6.0 - 7.2
+51017,VA,Virginia,Bath,9,8.0 - 10.0,8.7 - 15.5
+51019,VA,Virginia,Bedford,6.7,5.7 - 7.7,6.0 - 7.2
+51021,VA,Virginia,Bland,7.7,6.7 - 8.9,7.3 - 8.6
+51023,VA,Virginia,Botetourt,6.5,5.6 - 7.5,6.0 - 7.2
+51025,VA,Virginia,Brunswick,8.5,7.6 - 9.4,7.3 - 8.6
+51027,VA,Virginia,Buchanan,11.6,10.1 - 13.3,8.7 - 15.5
+51029,VA,Virginia,Buckingham,8.7,7.8 - 9.7,8.7 - 15.5
+51031,VA,Virginia,Campbell,7.7,6.7 - 8.7,7.3 - 8.6
+51033,VA,Virginia,Caroline,6.9,6.1 - 7.7,6.0 - 7.2
+51035,VA,Virginia,Carroll,8.6,7.4 - 9.8,7.3 - 8.6
+51036,VA,Virginia,Charles City,7.9,7.2 - 8.6,7.3 - 8.6
+51037,VA,Virginia,Charlotte,9.5,8.5 - 10.5,8.7 - 15.5
+51041,VA,Virginia,Chesterfield,5.7,4.9 - 6.5,3.2 - 5.9
+51043,VA,Virginia,Clarke,6.3,5.3 - 7.3,6.0 - 7.2
+51045,VA,Virginia,Craig,6.8,5.8 - 7.8,6.0 - 7.2
+51047,VA,Virginia,Culpeper,6.5,5.6 - 7.4,6.0 - 7.2
+51049,VA,Virginia,Cumberland,8.1,7.2 - 8.9,7.3 - 8.6
+51051,VA,Virginia,Dickenson,10.9,9.5 - 12.3,8.7 - 15.5
+51053,VA,Virginia,Dinwiddie,7.4,6.7 - 8.3,7.3 - 8.6
+51057,VA,Virginia,Essex,8.4,7.5 - 9.3,7.3 - 8.6
+51059,VA,Virginia,Fairfax,4,3.5 - 4.7,3.2 - 5.9
+51061,VA,Virginia,Fauquier,5.6,4.8 - 6.5,3.2 - 5.9
+51063,VA,Virginia,Floyd,7.6,6.5 - 8.7,7.3 - 8.6
+51065,VA,Virginia,Fluvanna,5.9,5.0 - 6.7,3.2 - 5.9
+51067,VA,Virginia,Franklin,7.8,6.8 - 8.9,7.3 - 8.6
+51069,VA,Virginia,Frederick,6.2,5.3 - 7.2,6.0 - 7.2
+51071,VA,Virginia,Giles,7.8,6.7 - 8.8,7.3 - 8.6
+51073,VA,Virginia,Gloucester,6.6,5.8 - 7.5,6.0 - 7.2
+51075,VA,Virginia,Goochland,5.7,4.8 - 6.6,3.2 - 5.9
+51077,VA,Virginia,Grayson,9.4,8.2 - 10.7,8.7 - 15.5
+51079,VA,Virginia,Greene,7,6.0 - 8.2,6.0 - 7.2
+51081,VA,Virginia,Greensville,8.3,7.5 - 9.2,7.3 - 8.6
+51083,VA,Virginia,Halifax,8.3,7.3 - 9.2,7.3 - 8.6
+51085,VA,Virginia,Hanover,5.6,4.7 - 6.4,3.2 - 5.9
+51087,VA,Virginia,Henrico,5.4,4.7 - 6.3,3.2 - 5.9
+51089,VA,Virginia,Henry,9.1,8.1 - 10.1,8.7 - 15.5
+51091,VA,Virginia,Highland,7.5,6.3 - 8.7,7.3 - 8.6
+51093,VA,Virginia,Isle of Wight,6.7,5.8 - 7.5,6.0 - 7.2
+51095,VA,Virginia,James City,5,4.2 - 5.9,3.2 - 5.9
+51097,VA,Virginia,King and Queen,7.1,6.3 - 8.1,6.0 - 7.2
+51099,VA,Virginia,King George,5.7,4.9 - 6.6,3.2 - 5.9
+51101,VA,Virginia,King William,6.7,5.9 - 7.6,6.0 - 7.2
+51103,VA,Virginia,Lancaster,6.8,5.9 - 7.8,6.0 - 7.2
+51105,VA,Virginia,Lee,10.8,9.4 - 12.1,8.7 - 15.5
+51107,VA,Virginia,Loudoun,3.9,3.4 - 4.6,3.2 - 5.9
+51109,VA,Virginia,Louisa,7.7,6.7 - 8.8,7.3 - 8.6
+51111,VA,Virginia,Lunenburg,8.8,7.9 - 9.7,8.7 - 15.5
+51113,VA,Virginia,Madison,7.5,6.5 - 8.6,7.3 - 8.6
+51115,VA,Virginia,Mathews,6.8,5.9 - 7.8,6.0 - 7.2
+51117,VA,Virginia,Mecklenburg,8.3,7.3 - 9.3,7.3 - 8.6
+51119,VA,Virginia,Middlesex,7.2,6.3 - 8.2,6.0 - 7.2
+51121,VA,Virginia,Montgomery,7,6.1 - 8.2,6.0 - 7.2
+51125,VA,Virginia,Nelson,7.1,6.1 - 8.2,6.0 - 7.2
+51127,VA,Virginia,New Kent,6.1,5.3 - 6.9,6.0 - 7.2
+51131,VA,Virginia,Northampton,7.7,6.9 - 8.7,7.3 - 8.6
+51133,VA,Virginia,Northumberland,6.7,5.9 - 7.7,6.0 - 7.2
+51135,VA,Virginia,Nottoway,8.6,7.8 - 9.5,7.3 - 8.6
+51137,VA,Virginia,Orange,6.8,5.9 - 7.8,6.0 - 7.2
+51139,VA,Virginia,Page,8.8,7.7 - 10.0,8.7 - 15.5
+51141,VA,Virginia,Patrick,8.5,7.4 - 9.8,7.3 - 8.6
+51143,VA,Virginia,Pittsylvania,8.4,7.4 - 9.4,7.3 - 8.6
+51145,VA,Virginia,Powhatan,6.1,5.3 - 7.1,6.0 - 7.2
+51147,VA,Virginia,Prince Edward,7.7,6.9 - 8.5,7.3 - 8.6
+51149,VA,Virginia,Prince George,6.4,5.7 - 7.1,6.0 - 7.2
+51153,VA,Virginia,Prince William,5,4.4 - 5.6,3.2 - 5.9
+51155,VA,Virginia,Pulaski,7.8,6.8 - 9.0,7.3 - 8.6
+51157,VA,Virginia,Rappahannock,6.3,5.2 - 7.4,6.0 - 7.2
+51159,VA,Virginia,Richmond,8.2,7.2 - 9.2,7.3 - 8.6
+51161,VA,Virginia,Roanoke,6.1,5.1 - 7.0,6.0 - 7.2
+51163,VA,Virginia,Rockbridge,7.8,6.6 - 9.2,7.3 - 8.6
+51165,VA,Virginia,Rockingham,7.2,6.1 - 8.4,6.0 - 7.2
+51167,VA,Virginia,Russell,9.9,8.6 - 11.3,8.7 - 15.5
+51169,VA,Virginia,Scott,9.4,8.1 - 10.7,8.7 - 15.5
+51171,VA,Virginia,Shenandoah,7.5,6.5 - 8.6,7.3 - 8.6
+51173,VA,Virginia,Smyth,9.2,8.0 - 10.5,8.7 - 15.5
+51175,VA,Virginia,Southampton,7.4,6.6 - 8.3,7.3 - 8.6
+51177,VA,Virginia,Spotsylvania,5.9,5.1 - 6.7,3.2 - 5.9
+51179,VA,Virginia,Stafford,5,4.4 - 5.7,3.2 - 5.9
+51181,VA,Virginia,Surry,7.6,6.8 - 8.5,7.3 - 8.6
+51183,VA,Virginia,Sussex,8,7.1 - 8.8,7.3 - 8.6
+51185,VA,Virginia,Tazewell,9.1,7.8 - 10.5,8.7 - 15.5
+51187,VA,Virginia,Warren,7.1,6.1 - 8.1,6.0 - 7.2
+51191,VA,Virginia,Washington,8.2,7.0 - 9.5,7.3 - 8.6
+51193,VA,Virginia,Westmoreland,7.4,6.7 - 8.2,7.3 - 8.6
+51195,VA,Virginia,Wise,10.2,8.8 - 11.8,8.7 - 15.5
+51197,VA,Virginia,Wythe,8.3,7.2 - 9.6,7.3 - 8.6
+51199,VA,Virginia,York,5,4.2 - 5.8,3.2 - 5.9
+51510,VA,Virginia,Alexandria,4.4,3.9 - 5.1,3.2 - 5.9
+51515,VA,Virginia,Bedford,,,
+51520,VA,Virginia,Bristol,9.2,7.9 - 10.7,8.7 - 15.5
+51530,VA,Virginia,Buena Vista,10.5,9.2 - 11.8,8.7 - 15.5
+51540,VA,Virginia,Charlottesville,6.7,5.8 - 7.7,6.0 - 7.2
+51550,VA,Virginia,Chesapeake,6,5.2 - 6.7,6.0 - 7.2
+51560,VA,Virginia,Clifton,,,
+51570,VA,Virginia,Colonial Heights,6.9,6.0 - 7.8,6.0 - 7.2
+51580,VA,Virginia,Covington,8.3,7.3 - 9.3,7.3 - 8.6
+51590,VA,Virginia,Danville,9,8.0 - 9.9,8.7 - 15.5
+51595,VA,Virginia,Emporia,10.1,9.1 - 11.1,8.7 - 15.5
+51600,VA,Virginia,Fairfax City,4.2,3.6 - 4.9,3.2 - 5.9
+51610,VA,Virginia,Falls Church,3.4,3.0 - 4.0,3.2 - 5.9
+51620,VA,Virginia,Franklin City,8.2,7.3 - 9.0,7.3 - 8.6
+51630,VA,Virginia,Fredericksburg,6.3,5.5 - 7.3,6.0 - 7.2
+51640,VA,Virginia,Galax,10.4,9.0 - 11.6,8.7 - 15.5
+51650,VA,Virginia,Hampton,6.7,6.0 - 7.3,6.0 - 7.2
+51660,VA,Virginia,Harrisonburg,7.7,6.8 - 8.7,7.3 - 8.6
+51670,VA,Virginia,Hopewell,9.2,8.3 - 10.1,8.7 - 15.5
+51678,VA,Virginia,Lexington,7.7,6.8 - 8.7,7.3 - 8.6
+51680,VA,Virginia,Lynchburg,7.5,6.6 - 8.4,7.3 - 8.6
+51683,VA,Virginia,Manassas,5.5,4.9 - 6.2,3.2 - 5.9
+51685,VA,Virginia,Manassas Park,5.2,4.7 - 5.8,3.2 - 5.9
+51690,VA,Virginia,Martinsville,8.5,7.6 - 9.4,7.3 - 8.6
+51700,VA,Virginia,Newport News,6.8,6.1 - 7.5,6.0 - 7.2
+51710,VA,Virginia,Norfolk,7.1,6.4 - 7.8,6.0 - 7.2
+51720,VA,Virginia,Norton,9.3,8.0 - 10.6,8.7 - 15.5
+51730,VA,Virginia,Petersburg,8.3,7.3 - 9.3,7.3 - 8.6
+51735,VA,Virginia,Poquoson,5.6,4.7 - 6.7,3.2 - 5.9
+51740,VA,Virginia,Portsmouth,7.4,6.7 - 8.2,7.3 - 8.6
+51750,VA,Virginia,Radford,9,7.9 - 10.3,8.7 - 15.5
+51760,VA,Virginia,Richmond City,7.4,6.5 - 8.3,7.3 - 8.6
+51770,VA,Virginia,Roanoke City,8.2,7.3 - 9.2,7.3 - 8.6
+51775,VA,Virginia,Salem,6.8,5.8 - 7.8,6.0 - 7.2
+51790,VA,Virginia,Staunton,6.8,5.8 - 7.9,6.0 - 7.2
+51800,VA,Virginia,Suffolk,6.2,5.5 - 6.9,6.0 - 7.2
+51810,VA,Virginia,Virginia Beach,5.6,4.9 - 6.3,3.2 - 5.9
+51820,VA,Virginia,Waynesboro,7.8,6.8 - 8.9,7.3 - 8.6
+51830,VA,Virginia,Williamsburg,6.4,5.6 - 7.2,6.0 - 7.2
+51840,VA,Virginia,Winchester,6.9,5.9 - 8.0,6.0 - 7.2
+53001,WA,Washington,Adams,6.8,6.1 - 7.6,6.0 - 7.2
+53003,WA,Washington,Asotin,6.8,5.8 - 7.9,6.0 - 7.2
+53005,WA,Washington,Benton,5.5,4.7 - 6.3,3.2 - 5.9
+53007,WA,Washington,Chelan,5.6,4.8 - 6.5,3.2 - 5.9
+53009,WA,Washington,Clallam,6.2,5.4 - 7.0,6.0 - 7.2
+53011,WA,Washington,Clark,5.3,4.6 - 6.1,3.2 - 5.9
+53013,WA,Washington,Columbia,6.1,5.3 - 7.0,6.0 - 7.2
+53015,WA,Washington,Cowlitz,6.8,6.0 - 7.7,6.0 - 7.2
+53017,WA,Washington,Douglas,5.9,5.2 - 6.8,3.2 - 5.9
+53019,WA,Washington,Ferry,7.9,7.0 - 8.8,7.3 - 8.6
+53021,WA,Washington,Franklin,5.7,5.0 - 6.3,3.2 - 5.9
+53023,WA,Washington,Garfield,5.7,4.9 - 6.5,3.2 - 5.9
+53025,WA,Washington,Grant,6.4,5.6 - 7.3,6.0 - 7.2
+53027,WA,Washington,Grays Harbor,6.7,5.9 - 7.6,6.0 - 7.2
+53029,WA,Washington,Island,5.1,4.4 - 5.8,3.2 - 5.9
+53031,WA,Washington,Jefferson,5.2,4.4 - 6.2,3.2 - 5.9
+53033,WA,Washington,King,3.9,3.4 - 4.5,3.2 - 5.9
+53035,WA,Washington,Kitsap,5.1,4.4 - 5.9,3.2 - 5.9
+53037,WA,Washington,Kittitas,6.1,5.3 - 7.0,6.0 - 7.2
+53039,WA,Washington,Klickitat,6.2,5.3 - 7.2,6.0 - 7.2
+53041,WA,Washington,Lewis,6.6,5.8 - 7.5,6.0 - 7.2
+53043,WA,Washington,Lincoln,6.2,5.3 - 7.1,6.0 - 7.2
+53045,WA,Washington,Mason,6.6,5.7 - 7.5,6.0 - 7.2
+53047,WA,Washington,Okanogan,7.2,6.3 - 8.1,6.0 - 7.2
+53049,WA,Washington,Pacific,6.6,5.9 - 7.5,6.0 - 7.2
+53051,WA,Washington,Pend Oreille,6.7,5.9 - 7.5,6.0 - 7.2
+53053,WA,Washington,Pierce,5.5,4.8 - 6.3,3.2 - 5.9
+53055,WA,Washington,San Juan,4.6,3.8 - 5.5,3.2 - 5.9
+53057,WA,Washington,Skagit,5.6,4.8 - 6.4,3.2 - 5.9
+53059,WA,Washington,Skamania,6,5.2 - 6.8,6.0 - 7.2
+53061,WA,Washington,Snohomish,4.7,4.1 - 5.4,3.2 - 5.9
+53063,WA,Washington,Spokane,5.8,5.0 - 6.6,3.2 - 5.9
+53065,WA,Washington,Stevens,6.9,6.0 - 7.7,6.0 - 7.2
+53067,WA,Washington,Thurston,5,4.3 - 5.7,3.2 - 5.9
+53069,WA,Washington,Wahkiakum,6,5.2 - 6.8,6.0 - 7.2
+53071,WA,Washington,Walla Walla,5.5,4.7 - 6.3,3.2 - 5.9
+53073,WA,Washington,Whatcom,5.6,4.9 - 6.4,3.2 - 5.9
+53075,WA,Washington,Whitman,6.3,5.5 - 7.2,6.0 - 7.2
+53077,WA,Washington,Yakima,6.4,5.7 - 7.2,6.0 - 7.2
+54001,WV,West Virginia,Barbour,10.4,9.1 - 11.7,8.7 - 15.5
+54003,WV,West Virginia,Berkeley,8.2,7.1 - 9.3,7.3 - 8.6
+54005,WV,West Virginia,Boone,11.3,9.9 - 12.7,8.7 - 15.5
+54007,WV,West Virginia,Braxton,11,9.6 - 12.6,8.7 - 15.5
+54009,WV,West Virginia,Brooke,8.7,7.5 - 9.9,8.7 - 15.5
+54011,WV,West Virginia,Cabell,9.6,8.3 - 11.1,8.7 - 15.5
+54013,WV,West Virginia,Calhoun,11.4,9.9 - 12.9,8.7 - 15.5
+54015,WV,West Virginia,Clay,12.1,10.6 - 13.9,8.7 - 15.5
+54017,WV,West Virginia,Doddridge,9.5,8.2 - 10.8,8.7 - 15.5
+54019,WV,West Virginia,Fayette,10.6,9.3 - 12.0,8.7 - 15.5
+54021,WV,West Virginia,Gilmer,9.1,8.0 - 10.4,8.7 - 15.5
+54023,WV,West Virginia,Grant,10.1,8.7 - 11.6,8.7 - 15.5
+54025,WV,West Virginia,Greenbrier,9.9,8.5 - 11.2,8.7 - 15.5
+54027,WV,West Virginia,Hampshire,9.8,8.6 - 11.1,8.7 - 15.5
+54029,WV,West Virginia,Hancock,9.2,8.0 - 10.5,8.7 - 15.5
+54031,WV,West Virginia,Hardy,9.5,8.3 - 10.9,8.7 - 15.5
+54033,WV,West Virginia,Harrison,8.9,7.6 - 10.3,8.7 - 15.5
+54035,WV,West Virginia,Jackson,9.4,8.2 - 10.8,8.7 - 15.5
+54037,WV,West Virginia,Jefferson,7.1,6.1 - 8.2,6.0 - 7.2
+54039,WV,West Virginia,Kanawha,8.8,7.6 - 10.1,8.7 - 15.5
+54041,WV,West Virginia,Lewis,10.4,9.2 - 11.7,8.7 - 15.5
+54043,WV,West Virginia,Lincoln,11.5,10.2 - 12.9,8.7 - 15.5
+54045,WV,West Virginia,Logan,12.1,10.6 - 13.5,8.7 - 15.5
+54047,WV,West Virginia,McDowell,14.7,13.1 - 16.2,8.7 - 15.5
+54049,WV,West Virginia,Marion,9.3,8.0 - 10.6,8.7 - 15.5
+54051,WV,West Virginia,Marshall,9.1,8.0 - 10.5,8.7 - 15.5
+54053,WV,West Virginia,Mason,10.1,8.7 - 11.4,8.7 - 15.5
+54055,WV,West Virginia,Mercer,10.7,9.3 - 12.1,8.7 - 15.5
+54057,WV,West Virginia,Mineral,8.6,7.6 - 9.8,7.3 - 8.6
+54059,WV,West Virginia,Mingo,12.7,10.9 - 14.4,8.7 - 15.5
+54061,WV,West Virginia,Monongalia,7.9,6.7 - 9.2,7.3 - 8.6
+54063,WV,West Virginia,Monroe,10,8.6 - 11.3,8.7 - 15.5
+54065,WV,West Virginia,Morgan,9.1,7.9 - 10.4,8.7 - 15.5
+54067,WV,West Virginia,Nicholas,10.2,8.8 - 11.6,8.7 - 15.5
+54069,WV,West Virginia,Ohio,7.8,6.7 - 9.1,7.3 - 8.6
+54071,WV,West Virginia,Pendleton,10,8.6 - 11.4,8.7 - 15.5
+54073,WV,West Virginia,Pleasants,9.2,8.2 - 10.3,8.7 - 15.5
+54075,WV,West Virginia,Pocahontas,10.3,8.9 - 11.7,8.7 - 15.5
+54077,WV,West Virginia,Preston,9.2,7.9 - 10.5,8.7 - 15.5
+54079,WV,West Virginia,Putnam,7.7,6.6 - 8.9,7.3 - 8.6
+54081,WV,West Virginia,Raleigh,10.1,8.8 - 11.5,8.7 - 15.5
+54083,WV,West Virginia,Randolph,10.1,8.8 - 11.4,8.7 - 15.5
+54085,WV,West Virginia,Ritchie,10.6,9.2 - 11.9,8.7 - 15.5
+54087,WV,West Virginia,Roane,10.9,9.4 - 12.4,8.7 - 15.5
+54089,WV,West Virginia,Summers,10.6,9.2 - 12.1,8.7 - 15.5
+54091,WV,West Virginia,Taylor,9.6,8.4 - 11.0,8.7 - 15.5
+54093,WV,West Virginia,Tucker,8.9,7.7 - 10.2,8.7 - 15.5
+54095,WV,West Virginia,Tyler,9.7,8.6 - 10.9,8.7 - 15.5
+54097,WV,West Virginia,Upshur,10.3,9.0 - 11.7,8.7 - 15.5
+54099,WV,West Virginia,Wayne,10.9,9.4 - 12.4,8.7 - 15.5
+54101,WV,West Virginia,Webster,12.1,10.5 - 13.6,8.7 - 15.5
+54103,WV,West Virginia,Wetzel,10.5,9.3 - 11.8,8.7 - 15.5
+54105,WV,West Virginia,Wirt,11.2,9.8 - 12.8,8.7 - 15.5
+54107,WV,West Virginia,Wood,9.3,8.1 - 10.7,8.7 - 15.5
+54109,WV,West Virginia,Wyoming,11.6,10.1 - 13.2,8.7 - 15.5
+55001,WI,Wisconsin,Adams,6.4,5.6 - 7.3,6.0 - 7.2
+55003,WI,Wisconsin,Ashland,6.8,6.0 - 7.7,6.0 - 7.2
+55005,WI,Wisconsin,Barron,6,5.2 - 7.0,6.0 - 7.2
+55007,WI,Wisconsin,Bayfield,5.5,4.7 - 6.2,3.2 - 5.9
+55009,WI,Wisconsin,Brown,5.1,4.4 - 5.9,3.2 - 5.9
+55011,WI,Wisconsin,Buffalo,5.7,4.9 - 6.6,3.2 - 5.9
+55013,WI,Wisconsin,Burnett,6,5.2 - 6.9,6.0 - 7.2
+55015,WI,Wisconsin,Calumet,4.8,4.0 - 5.5,3.2 - 5.9
+55017,WI,Wisconsin,Chippewa,5.7,4.9 - 6.5,3.2 - 5.9
+55019,WI,Wisconsin,Clark,6.8,5.9 - 7.9,6.0 - 7.2
+55021,WI,Wisconsin,Columbia,5.2,4.4 - 6.0,3.2 - 5.9
+55023,WI,Wisconsin,Crawford,6.1,5.3 - 6.9,6.0 - 7.2
+55025,WI,Wisconsin,Dane,4.1,3.5 - 4.9,3.2 - 5.9
+55027,WI,Wisconsin,Dodge,5.6,4.9 - 6.4,3.2 - 5.9
+55029,WI,Wisconsin,Door,4.8,4.1 - 5.6,3.2 - 5.9
+55031,WI,Wisconsin,Douglas,5.7,4.9 - 6.5,3.2 - 5.9
+55033,WI,Wisconsin,Dunn,5.7,4.9 - 6.5,3.2 - 5.9
+55035,WI,Wisconsin,Eau Claire,5.4,4.6 - 6.2,3.2 - 5.9
+55037,WI,Wisconsin,Florence,5.8,5.0 - 6.6,3.2 - 5.9
+55039,WI,Wisconsin,Fond du Lac,5.4,4.6 - 6.2,3.2 - 5.9
+55041,WI,Wisconsin,Forest,6.9,6.2 - 7.8,6.0 - 7.2
+55043,WI,Wisconsin,Grant,6.1,5.3 - 7.0,6.0 - 7.2
+55045,WI,Wisconsin,Green,5.3,4.5 - 6.0,3.2 - 5.9
+55047,WI,Wisconsin,Green Lake,6.1,5.3 - 7.1,6.0 - 7.2
+55049,WI,Wisconsin,Iowa,5.2,4.5 - 5.9,3.2 - 5.9
+55051,WI,Wisconsin,Iron,6.2,5.4 - 7.0,6.0 - 7.2
+55053,WI,Wisconsin,Jackson,6.3,5.5 - 7.1,6.0 - 7.2
+55055,WI,Wisconsin,Jefferson,5.1,4.4 - 5.9,3.2 - 5.9
+55057,WI,Wisconsin,Juneau,6.6,5.7 - 7.5,6.0 - 7.2
+55059,WI,Wisconsin,Kenosha,5.2,4.5 - 6.0,3.2 - 5.9
+55061,WI,Wisconsin,Kewaunee,5.3,4.5 - 6.0,3.2 - 5.9
+55063,WI,Wisconsin,La Crosse,5.2,4.4 - 6.0,3.2 - 5.9
+55065,WI,Wisconsin,Lafayette,5.9,5.1 - 6.9,3.2 - 5.9
+55067,WI,Wisconsin,Langlade,6.4,5.5 - 7.2,6.0 - 7.2
+55069,WI,Wisconsin,Lincoln,5.7,4.9 - 6.4,3.2 - 5.9
+55071,WI,Wisconsin,Manitowoc,5.6,4.8 - 6.4,3.2 - 5.9
+55073,WI,Wisconsin,Marathon,5.3,4.6 - 6.2,3.2 - 5.9
+55075,WI,Wisconsin,Marinette,6.3,5.5 - 7.2,6.0 - 7.2
+55077,WI,Wisconsin,Marquette,6.1,5.2 - 6.9,6.0 - 7.2
+55078,WI,Wisconsin,Menominee,8.9,8.0 - 9.9,8.7 - 15.5
+55079,WI,Wisconsin,Milwaukee,5.6,4.9 - 6.3,3.2 - 5.9
+55081,WI,Wisconsin,Monroe,5.8,5.0 - 6.6,3.2 - 5.9
+55083,WI,Wisconsin,Oconto,5.8,5.0 - 6.6,3.2 - 5.9
+55085,WI,Wisconsin,Oneida,5.3,4.5 - 6.2,3.2 - 5.9
+55087,WI,Wisconsin,Outagamie,5,4.3 - 5.7,3.2 - 5.9
+55089,WI,Wisconsin,Ozaukee,4,3.3 - 4.7,3.2 - 5.9
+55091,WI,Wisconsin,Pepin,5.8,5.0 - 6.7,3.2 - 5.9
+55093,WI,Wisconsin,Pierce,5,4.4 - 5.8,3.2 - 5.9
+55095,WI,Wisconsin,Polk,5.5,4.8 - 6.3,3.2 - 5.9
+55097,WI,Wisconsin,Portage,5.4,4.5 - 6.2,3.2 - 5.9
+55099,WI,Wisconsin,Price,6.2,5.4 - 7.1,6.0 - 7.2
+55101,WI,Wisconsin,Racine,5.3,4.6 - 6.0,3.2 - 5.9
+55103,WI,Wisconsin,Richland,6.2,5.3 - 7.2,6.0 - 7.2
+55105,WI,Wisconsin,Rock,5.7,4.9 - 6.5,3.2 - 5.9
+55107,WI,Wisconsin,Rusk,6.6,5.6 - 7.5,6.0 - 7.2
+55109,WI,Wisconsin,St. Croix,4.4,3.7 - 5.1,3.2 - 5.9
+55111,WI,Wisconsin,Sauk,5.5,4.7 - 6.4,3.2 - 5.9
+55113,WI,Wisconsin,Sawyer,6.4,5.7 - 7.3,6.0 - 7.2
+55115,WI,Wisconsin,Shawano,6.1,5.3 - 6.9,6.0 - 7.2
+55117,WI,Wisconsin,Sheboygan,5,4.3 - 5.8,3.2 - 5.9
+55119,WI,Wisconsin,Taylor,6.2,5.3 - 7.2,6.0 - 7.2
+55121,WI,Wisconsin,Trempealeau,5.5,4.8 - 6.5,3.2 - 5.9
+55123,WI,Wisconsin,Vernon,6.4,5.5 - 7.4,6.0 - 7.2
+55125,WI,Wisconsin,Vilas,5.6,4.8 - 6.4,3.2 - 5.9
+55127,WI,Wisconsin,Walworth,5.2,4.4 - 6.0,3.2 - 5.9
+55129,WI,Wisconsin,Washburn,5.9,5.0 - 6.8,3.2 - 5.9
+55131,WI,Wisconsin,Washington,4.5,3.8 - 5.2,3.2 - 5.9
+55133,WI,Wisconsin,Waukesha,3.9,3.3 - 4.6,3.2 - 5.9
+55135,WI,Wisconsin,Waupaca,5.7,4.9 - 6.6,3.2 - 5.9
+55137,WI,Wisconsin,Waushara,6.2,5.3 - 7.0,6.0 - 7.2
+55139,WI,Wisconsin,Winnebago,5.3,4.5 - 6.1,3.2 - 5.9
+55141,WI,Wisconsin,Wood,5.6,4.8 - 6.4,3.2 - 5.9
+56001,WY,Wyoming,Albany,5.9,5.1 - 6.8,3.2 - 5.9
+56003,WY,Wyoming,Big Horn,6.9,5.9 - 7.8,6.0 - 7.2
+56005,WY,Wyoming,Campbell,6.5,5.6 - 7.3,6.0 - 7.2
+56007,WY,Wyoming,Carbon,6.4,5.6 - 7.3,6.0 - 7.2
+56009,WY,Wyoming,Converse,6.4,5.6 - 7.3,6.0 - 7.2
+56011,WY,Wyoming,Crook,6.3,5.4 - 7.3,6.0 - 7.2
+56013,WY,Wyoming,Fremont,6.8,6.0 - 7.6,6.0 - 7.2
+56015,WY,Wyoming,Goshen,6.2,5.3 - 7.1,6.0 - 7.2
+56017,WY,Wyoming,Hot Springs,6.9,6.0 - 7.7,6.0 - 7.2
+56019,WY,Wyoming,Johnson,5.9,5.1 - 6.8,3.2 - 5.9
+56021,WY,Wyoming,Laramie,6,5.2 - 6.8,6.0 - 7.2
+56023,WY,Wyoming,Lincoln,6.3,5.3 - 7.2,6.0 - 7.2
+56025,WY,Wyoming,Natrona,6.3,5.5 - 7.2,6.0 - 7.2
+56027,WY,Wyoming,Niobrara,8.5,7.3 - 9.7,7.3 - 8.6
+56029,WY,Wyoming,Park,5.5,4.7 - 6.3,3.2 - 5.9
+56031,WY,Wyoming,Platte,6.5,5.7 - 7.5,6.0 - 7.2
+56033,WY,Wyoming,Sheridan,5.7,4.9 - 6.5,3.2 - 5.9
+56035,WY,Wyoming,Sublette,5.8,5.1 - 6.5,3.2 - 5.9
+56037,WY,Wyoming,Sweetwater,5.8,5.1 - 6.5,3.2 - 5.9
+56039,WY,Wyoming,Teton,4.3,3.6 - 5.1,3.2 - 5.9
+56041,WY,Wyoming,Uinta,6.8,6.0 - 7.7,6.0 - 7.2
+56043,WY,Wyoming,Washakie,6.3,5.4 - 7.2,6.0 - 7.2
+56045,WY,Wyoming,Weston,6.7,5.8 - 7.7,6.0 - 7.2
