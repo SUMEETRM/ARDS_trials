@@ -60,22 +60,25 @@ Refer to the original data sources for more comprehensive details and context ab
 The project leverages Folium, a Python library for creating interactive maps, to visualize the geographical distribution of clinical trial locations. The interactive maps provide a comprehensive overview of the trial sites and their distribution across different regions.
 
 <!-- Supervised Learning for Weights -->
-## :open_file_folder: Supervised Learning for Weights
+## :open_file_folder: Random Forest for Feature Importance
 
-This folder contains a Python script that utilizes supervised learning to calculate optimal weights for various risk factors in our Acute Respiratory Distress Syndrome (ARDS) study. 
+This directory houses a Python script that employs the Random Forests technique as a means of calculating the optimal importance of various risk factors in our Acute Respiratory Distress Syndrome (ARDS) research. 
 
-The algorithm applies a constrained optimization approach to find the best-suited weights that minimize the discrepancy between the weighted sum of risk factors and the actual ARDS mortality rates. 
+We've transitioned to the use of random forests from a previous constrained optimization approach (SLSQP) to achieve higher R-squared values, reflecting an improved fit of the model to the data.
 
 :arrow_down_small: Here is a brief overview of the key steps in the script:
 
-1. Import required libraries (Pandas, Numpy, Scipy, and Sklearn)
+1. Import required libraries (Pandas, Numpy, Sklearn)
 2. Load the dataset 'state_data_1.csv'
 3. Normalize the risk factors and mortality rates using `StandardScaler` from Sklearn
-4. Define the objective function for optimization. This function calculates the weighted sum of normalized risk factors and returns the sum of squared errors between this weighted sum and the actual mortality rates
-5. Set a constraint for the optimization problem to ensure that the sum of weights equals 1
-6. Define initial weights as equal fractions (1/8 in this case)
-7. Run the optimization algorithm (Sequential Least Squares Programming, or 'SLSQP') with the objective function, initial weights, and constraints
-8. Print the optimal weights obtained from the optimization
+4. Modify the 'normalized_vaccination' column since higher vaccination rates imply lower rates of ARDS according to studies
+5. Define the features (risk factors) and target (mortality rates)
+6. Initialize and fit the Random Forest Regressor with the defined features and target
+7. Run predictions using the trained model and the features
+8. Calculate and print the R-squared score as a measure of the model's fit to the data
+9. Extract and return the feature importances as determined by the Random Forest model, which are the optimal weights to be used for the various risk factors in further analysis. 
+
+Our shift to random forests has enhanced our model's performance, and the feature importances computed by the Random Forest Regressor offer more robust insights into which risk factors contribute most to ARDS mortality. These weights, or importances, are then used to generate a heatmap for visual interpretation of our results.
 
 
 
